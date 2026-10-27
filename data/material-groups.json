@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Silicon",
+    "category": "silicon",
+    "formula": "Si"
+  },
+  {
+    "name": "SiC",
+    "category": "silicon",
+    "formula": "SiC"
+  },
+  {
+    "name": "Quartz",
+    "category": "quartz",
+    "formula": "SiO2"
+  },
+  {
+    "name": "Ceramic",
+    "category": "ceramic",
+    "formula": "Al2O3 · AlN · Y2O3"
+  },
+  {
+    "name": "Sapphire",
+    "category": "sapphire",
+    "formula": "Al2O3"
+  },
+  {
+    "name": "Engineering Plastic",
+    "category": "machining",
+    "formula": "PEEK · PAI"
+  },
+  {
+    "name": "Metal",
+    "category": "metal",
+    "formula": "Al · Al + Y2O3"
+  },
+  {
+    "name": "Gasket",
+    "category": "gasket",
+    "formula": "Silicone · Graphite"
+  }
+]

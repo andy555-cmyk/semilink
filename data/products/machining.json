@@ -1,0 +1,1130 @@
+[
+  {
+    "oem": "LAM",
+    "partNo": "713-034964-018",
+    "description": "Machining Part",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-1",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-185433-224",
+    "description": "Machining Part",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-2",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "AMEC",
+    "partNo": "710-00319-006",
+    "description": "Machining Part",
+    "tool": "PRIMO",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-3",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "PRIMO",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-034965-002",
+    "description": "Machining Part",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-4",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "719-185433-502",
+    "description": "Machining Part",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-5",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "AMEC",
+    "partNo": "615-00784-010",
+    "description": "Machining Part",
+    "tool": "PRIMO",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-6",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "PRIMO",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "839-039317-115",
+    "description": "Machining Part",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-7",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "719-185433-562",
+    "description": "Machining Part",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-8",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "AMEC",
+    "partNo": "615-00784-003",
+    "description": "Machining Part",
+    "tool": "PRIMO",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-9",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "PRIMO",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-037069-003",
+    "description": "Machining Part",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-10",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "734-A06862-007",
+    "description": "Machining Part",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-11",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "AMEC",
+    "partNo": "640-00159-005",
+    "description": "Machining Part",
+    "tool": "PRIMO",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-12",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "PRIMO",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-037072-020",
+    "description": "Machining Part",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-13",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "734-A06862-003",
+    "description": "Machining Part",
+    "tool": "FLEX HX+",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-14",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX HX+",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-503399-21",
+    "description": "Leaf Spring",
+    "tool": "RK6",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-15",
+    "variants": [
+      {
+        "description": "Leaf Spring",
+        "tool": "RK6",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-034964-001",
+    "description": "Machining Part",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-16",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-185433-119",
+    "description": "Machining Part",
+    "tool": "Vantex",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-17",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "Vantex",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-514037-21",
+    "description": "Leaf Spring",
+    "tool": "RK7",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-18",
+    "variants": [
+      {
+        "description": "Leaf Spring",
+        "tool": "RK7",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-034965-001",
+    "description": "Machining Part",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-19",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-185433-123",
+    "description": "Machining Part",
+    "tool": "Vantex",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-20",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "Vantex",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-027299-002",
+    "description": "Machining Part",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-21",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-185433-220",
+    "description": "Machining Part",
+    "tool": "Vantex",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-22",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "Vantex",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-027299-004",
+    "description": "Machining Part",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-23",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-185433-321",
+    "description": "Machining Part",
+    "tool": "Vantex",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-24",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "Vantex",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-040539-001",
+    "description": "Machining Part",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-25",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-048216-001",
+    "description": "Machining Part",
+    "tool": "KIYO",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-26",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "KIYO",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "839-039317-003",
+    "description": "Machining Part",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-27",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-083166-002",
+    "description": "Machining Part",
+    "tool": "KIYO",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-28",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "KIYO",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-043042-001",
+    "description": "Machining Part",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-29",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-085131-001",
+    "description": "Machining Part",
+    "tool": "KIYO EX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-30",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "KIYO EX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-037072-007",
+    "description": "Machining Part",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-31",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-065829-001",
+    "description": "Machining Part",
+    "tool": "KIYO EX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-32",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "KIYO EX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-083166-001",
+    "description": "Machining Part",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-33",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-082885-002",
+    "description": "Machining Part",
+    "tool": "KIYO EX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-34",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "KIYO EX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-067673-002",
+    "description": "Machining Part",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-35",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-082885-003",
+    "description": "Machining Part",
+    "tool": "KIYO FX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-36",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "KIYO FX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "839-070842-004",
+    "description": "Machining Part",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-37",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-189173-001",
+    "description": "Machining Part",
+    "tool": "KIYO FX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-38",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "KIYO FX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-185433-182",
+    "description": "Machining Part",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-39",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "739-273950-001",
+    "description": "Machining Part",
+    "tool": "KIYO GX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-40",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "KIYO GX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-185433-111",
+    "description": "Machining Part",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-41",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-045792-005",
+    "description": "Machining Part",
+    "tool": "KIYO GX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-42",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "KIYO GX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-185433-216",
+    "description": "Machining Part",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-43",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-254628-145",
+    "description": "Machining Part",
+    "tool": "KIYO GX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-44",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "KIYO GX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "714-146880-113",
+    "description": "Machining Part",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-45",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-254628-146",
+    "description": "Machining Part",
+    "tool": "KIYO GX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-46",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "KIYO GX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "719-333020-010",
+    "description": "Machining Part",
+    "tool": "KIYO EXP,GX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 18,
+    "sourceTable": 1,
+    "id": "machining-47",
+    "variants": [
+      {
+        "description": "Machining Part",
+        "tool": "KIYO EXP,GX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 18,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      18
+    ]
+  }
+]

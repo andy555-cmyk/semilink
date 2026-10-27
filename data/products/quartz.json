@@ -1,0 +1,3647 @@
+[
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35293",
+    "description": "Quartz Window Manometer Port",
+    "tool": "Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-1",
+    "variants": [
+      {
+        "description": "Quartz Window Manometer Port",
+        "tool": "Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35294",
+    "description": "QUARTZ, LOWER CHAMBER, VPRT",
+    "tool": "Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-2",
+    "variants": [
+      {
+        "description": "QUARTZ, LOWER CHAMBER, VPRT",
+        "tool": "Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-76004",
+    "description": "Window quartz",
+    "tool": "Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-3",
+    "variants": [
+      {
+        "description": "Window quartz",
+        "tool": "Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00410",
+    "description": "UNI-INSERT GAS DISTRIBTION 88HOLS, QUARTZ",
+    "tool": "Centura / DxZ",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-4",
+    "variants": [
+      {
+        "description": "UNI-INSERT GAS DISTRIBTION 88HOLS, QUARTZ",
+        "tool": "Centura / DxZ",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00135",
+    "description": "BLADE QUARTZ REDUCED CONTACT，200MM",
+    "tool": "Centura / Endura Robot",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-5",
+    "variants": [
+      {
+        "description": "BLADE QUARTZ REDUCED CONTACT，200MM",
+        "tool": "Centura / Endura Robot",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-05377",
+    "description": "PLASMA TUBE(ASP)",
+    "tool": "Centura ASP",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-6",
+    "variants": [
+      {
+        "description": "PLASMA TUBE(ASP)",
+        "tool": "Centura ASP",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-09444",
+    "description": "CAP TOP QUARTZ, 25MM TUBE ASP",
+    "tool": "Centura ASP",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-7",
+    "variants": [
+      {
+        "description": "CAP TOP QUARTZ, 25MM TUBE ASP",
+        "tool": "Centura ASP",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-36680",
+    "description": "LINER, QTZ UPPER GAS DIST GROUND ASP+",
+    "tool": "Centura ASP+",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-8",
+    "variants": [
+      {
+        "description": "LINER, QTZ UPPER GAS DIST GROUND ASP+",
+        "tool": "Centura ASP+",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-36682",
+    "description": "",
+    "tool": "Centura ASP+",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-9",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Centura ASP+",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-17991",
+    "description": "SING RING QUARTZ .09 HEIGHT . 12 RECESS DPII",
+    "tool": "Centura DPII",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-10",
+    "variants": [
+      {
+        "description": "SING RING QUARTZ .09 HEIGHT . 12 RECESS DPII",
+        "tool": "Centura DPII",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00822",
+    "description": "DOME QUARTZ,POLY DPS",
+    "tool": "Centura DPS",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-11",
+    "variants": [
+      {
+        "description": "DOME QUARTZ,POLY DPS",
+        "tool": "Centura DPS",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-05207",
+    "description": "Lower dome",
+    "tool": "Centura Epi",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-12",
+    "variants": [
+      {
+        "description": "Lower dome",
+        "tool": "Centura Epi",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35024",
+    "description": "UPPER LINER, QTZ ATM",
+    "tool": "Centura Epi ATM",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-13",
+    "variants": [
+      {
+        "description": "UPPER LINER, QTZ ATM",
+        "tool": "Centura Epi ATM",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35084",
+    "description": "UPPER DOME ATM",
+    "tool": "Centura Epi ATM",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-14",
+    "variants": [
+      {
+        "description": "UPPER DOME ATM",
+        "tool": "Centura Epi ATM",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35688",
+    "description": "LOWER LINER, QTZ ATM",
+    "tool": "Centura Epi ATM",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-15",
+    "variants": [
+      {
+        "description": "LOWER LINER, QTZ ATM",
+        "tool": "Centura Epi ATM",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35007",
+    "description": "UPPER DOME RP",
+    "tool": "Centura Epi RP",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-16",
+    "variants": [
+      {
+        "description": "UPPER DOME RP",
+        "tool": "Centura Epi RP",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35017",
+    "description": "UPPER LINER, QTZ RP",
+    "tool": "Centura Epi RP",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-17",
+    "variants": [
+      {
+        "description": "UPPER LINER, QTZ RP",
+        "tool": "Centura Epi RP",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35023",
+    "description": "LOWER LINER, QTZ RP",
+    "tool": "Centura Epi RP",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-18",
+    "variants": [
+      {
+        "description": "LOWER LINER, QTZ RP",
+        "tool": "Centura Epi RP",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-09201",
+    "description": "Q_TZ LOWER GDP (1)",
+    "tool": "Centura GDP",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-19",
+    "variants": [
+      {
+        "description": "Q_TZ LOWER GDP (1)",
+        "tool": "Centura GDP",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-09478",
+    "description": "PLATE GAS DIST UPPER",
+    "tool": "Centura GDP",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-20",
+    "variants": [
+      {
+        "description": "PLATE GAS DIST UPPER",
+        "tool": "Centura GDP",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00119",
+    "description": "8 SHADOW, QUARTZ , 200MM",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-21",
+    "variants": [
+      {
+        "description": "8 SHADOW, QUARTZ , 200MM",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-01119",
+    "description": "SHADOW RING,QUARTZ,200MM",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-22",
+    "variants": [
+      {
+        "description": "SHADOW RING,QUARTZ,200MM",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-01239",
+    "description": "",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-23",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-01321",
+    "description": "",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-24",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-01610",
+    "description": "",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-25",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-01611",
+    "description": "",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-26",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-01903",
+    "description": "",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-27",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-09785",
+    "description": "CAP 8 ESC Quartz",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-28",
+    "variants": [
+      {
+        "description": "CAP 8 ESC Quartz",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-09911",
+    "description": "Cover Quartz 8\" Stepped Lift 2 notched",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-29",
+    "variants": [
+      {
+        "description": "Cover Quartz 8\" Stepped Lift 2 notched",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-15527",
+    "description": "SINGLE RING",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-30",
+    "variants": [
+      {
+        "description": "SINGLE RING",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-16332",
+    "description": "",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-31",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-19995",
+    "description": "",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-32",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-20426",
+    "description": "",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-33",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-28259",
+    "description": "SINGIE QUARTZ RING",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-34",
+    "variants": [
+      {
+        "description": "SINGIE QUARTZ RING",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-29577",
+    "description": "",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-35",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35702",
+    "description": "Edge Ring",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-36",
+    "variants": [
+      {
+        "description": "Edge Ring",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35783",
+    "description": "Shadow ring, 8\" Notch (2) SI/QTZ OXIDE",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-37",
+    "variants": [
+      {
+        "description": "Shadow ring, 8\" Notch (2) SI/QTZ OXIDE",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-36696",
+    "description": "Shadow ring, Quartz, 200MM Notch",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-38",
+    "variants": [
+      {
+        "description": "Shadow ring, Quartz, 200MM Notch",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-89023",
+    "description": "",
+    "tool": "Endura / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-39",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Endura / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-07524",
+    "description": "Q'TZ RING, TWO STEPS, PRODU",
+    "tool": "Producer / Centura",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 1,
+    "id": "quartz-40",
+    "variants": [
+      {
+        "description": "Q'TZ RING, TWO STEPS, PRODU",
+        "tool": "Producer / Centura",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D05-300185-13",
+    "description": "RING INSULATOR A7",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-41",
+    "variants": [
+      {
+        "description": "RING INSULATOR A7",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D05-300353-11",
+    "description": "RING INSULATOR A7 DRM",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-42",
+    "variants": [
+      {
+        "description": "RING INSULATOR A7 DRM",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D05-300242-11",
+    "description": "RING F-8S0-Q-260-6H (MT90-120)(DRM2))",
+    "tool": "DRM2",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-43",
+    "variants": [
+      {
+        "description": "RING F-8S0-Q-260-6H (MT90-120)(DRM2))",
+        "tool": "DRM2",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D05-200031-11",
+    "description": "COVER BAFFLE Q-L3(DRM2)",
+    "tool": "DRM2",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-44",
+    "variants": [
+      {
+        "description": "COVER BAFFLE Q-L3(DRM2)",
+        "tool": "DRM2",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D05-200020-11",
+    "description": "SHIELD DEPO QU-A-/DRM2)",
+    "tool": "DRM2",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-45",
+    "variants": [
+      {
+        "description": "SHIELD DEPO QU-A-/DRM2)",
+        "tool": "DRM2",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D05-300053-14",
+    "description": "RING INSULATOR B2 (DRM2)",
+    "tool": "DRM2",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-46",
+    "variants": [
+      {
+        "description": "RING INSULATOR B2 (DRM2)",
+        "tool": "DRM2",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D05-300052-12",
+    "description": "RING INSULATOR A7 (DRM2)",
+    "tool": "DRM2",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-47",
+    "variants": [
+      {
+        "description": "RING INSULATOR A7 (DRM2)",
+        "tool": "DRM2",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D05-400022-14",
+    "description": "WINDOW SHIELD DEPO (DRM2)",
+    "tool": "DRM2",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-48",
+    "variants": [
+      {
+        "description": "WINDOW SHIELD DEPO (DRM2)",
+        "tool": "DRM2",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D05-300133-11",
+    "description": "(INSLLATOR RING LA6)",
+    "tool": "DRM / Unity",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-49",
+    "variants": [
+      {
+        "description": "(INSLLATOR RING LA6)",
+        "tool": "DRM / Unity",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D05-300067-13",
+    "description": "PLATE UPPER O FLAT",
+    "tool": "DRM / Unity",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-50",
+    "variants": [
+      {
+        "description": "PLATE UPPER O FLAT",
+        "tool": "DRM / Unity",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D05-300354-11",
+    "description": "Q TZ INSULATOR A7 LA6-8",
+    "tool": "DRM / Unity",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-51",
+    "variants": [
+      {
+        "description": "Q TZ INSULATOR A7 LA6-8",
+        "tool": "DRM / Unity",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D05-200033-11",
+    "description": "SUPPORT SHIRLD DEPO Q-S5(DAM2)",
+    "tool": "DRM2 / DAM2",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-52",
+    "variants": [
+      {
+        "description": "SUPPORT SHIRLD DEPO Q-S5(DAM2)",
+        "tool": "DRM2 / DAM2",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1805-220135-11",
+    "description": "RING EXT OUTER(EPD)",
+    "tool": "Unity",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-53",
+    "variants": [
+      {
+        "description": "RING EXT OUTER(EPD)",
+        "tool": "Unity",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1805-220204-11",
+    "description": "RING SHIELD FLAT",
+    "tool": "Unity",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-54",
+    "variants": [
+      {
+        "description": "RING SHIELD FLAT",
+        "tool": "Unity",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1805-220159-23",
+    "description": "RING SHIELD T5-240(H6) (M5 TYPE)",
+    "tool": "Unity / T5",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-55",
+    "variants": [
+      {
+        "description": "RING SHIELD T5-240(H6) (M5 TYPE)",
+        "tool": "Unity / T5",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1805-220218-11",
+    "description": "RING SHIELD T7L5 (S-FIN)3",
+    "tool": "Unity / T7",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-56",
+    "variants": [
+      {
+        "description": "RING SHIELD T7L5 (S-FIN)3",
+        "tool": "Unity / T7",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1805-220098-11",
+    "description": "RING SHIELD POLISH T7L5 (FIRE/P)(Ø340)",
+    "tool": "Unity / T7",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-57",
+    "variants": [
+      {
+        "description": "RING SHIELD POLISH T7L5 (FIRE/P)(Ø340)",
+        "tool": "Unity / T7",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1805-220134-11",
+    "description": "SHIELD RING T7",
+    "tool": "Unity / T7",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-58",
+    "variants": [
+      {
+        "description": "SHIELD RING T7",
+        "tool": "Unity / T7",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1805-320114-11",
+    "description": "RING QZ B (CE-222)",
+    "tool": "Unity / DRM",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-59",
+    "variants": [
+      {
+        "description": "RING QZ B (CE-222)",
+        "tool": "Unity / DRM",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1805-220124-11",
+    "description": "Outer Focus Ring",
+    "tool": "Unity / DRM",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-60",
+    "variants": [
+      {
+        "description": "Outer Focus Ring",
+        "tool": "Unity / DRM",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1805-320110-11",
+    "description": "COVER , RING INNER (SCCM-OX)",
+    "tool": "Unity / SCCM",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-61",
+    "variants": [
+      {
+        "description": "COVER , RING INNER (SCCM-OX)",
+        "tool": "Unity / SCCM",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-016831-007",
+    "description": "RING,WAP,QTZ,GENERIC,200MM,230",
+    "tool": "2300",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-62",
+    "variants": [
+      {
+        "description": "RING,WAP,QTZ,GENERIC,200MM,230",
+        "tool": "2300",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-017112-330",
+    "description": "WAP ring / RING, WAP, 17. 07 x1.10THK. AN SLT",
+    "tool": "2300 / 2300 / Rainbow",
+    "size": "8 INCH / 12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-63",
+    "variants": [
+      {
+        "description": "WAP ring",
+        "tool": "2300",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      },
+      {
+        "description": "RING, WAP, 17. 07 x1.10THK. AN SLT",
+        "tool": "2300 / Rainbow",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      },
+      {
+        "description": "RING, WAP, 17. 07 x1.10THK. AN SLT",
+        "tool": "2300 / Rainbow",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6,
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-030549-001",
+    "description": "RING, Filler, qtz, 200mm 2300",
+    "tool": "2300",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-64",
+    "variants": [
+      {
+        "description": "RING, Filler, qtz, 200mm 2300",
+        "tool": "2300",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-017112-652",
+    "description": "TWIST WAP RING / RING,WAP, 17.07X1,555THK,300MM",
+    "tool": "2300 / 2300 Kiyo / Exelan",
+    "size": "8 INCH / 12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-65",
+    "variants": [
+      {
+        "description": "TWIST WAP RING",
+        "tool": "2300",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      },
+      {
+        "description": "RING,WAP, 17.07X1,555THK,300MM",
+        "tool": "2300 Kiyo / Exelan",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6,
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-016763-001",
+    "description": "RING,FILLER,INV STEP,DFC200MM",
+    "tool": "DFC",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-66",
+    "variants": [
+      {
+        "description": "RING,FILLER,INV STEP,DFC200MM",
+        "tool": "DFC",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-331088-001",
+    "description": "EDGE,QUARTZ(Y)(0)",
+    "tool": "2300 / Rainbow",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-67",
+    "variants": [
+      {
+        "description": "EDGE,QUARTZ(Y)(0)",
+        "tool": "2300 / Rainbow",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-331088-006",
+    "description": "2 sided Edge Ring",
+    "tool": "2300 / Rainbow",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-68",
+    "variants": [
+      {
+        "description": "2 sided Edge Ring",
+        "tool": "2300 / Rainbow",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-031052-004",
+    "description": "WDO,QTZ,HTD ENDPT",
+    "tool": "2300 / Rainbow",
+    "size": "8 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-69",
+    "variants": [
+      {
+        "description": "WDO,QTZ,HTD ENDPT",
+        "tool": "2300 / Rainbow",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      6
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-026652-902",
+    "description": "RING EDGE BOT QTZ 200-300MM",
+    "tool": "2300 / Rainbow",
+    "size": "8 INCH / 12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-70",
+    "variants": [
+      {
+        "description": "RING EDGE BOT QTZ 200-300MM",
+        "tool": "2300 / Rainbow",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      },
+      {
+        "description": "RING EDGE BOT QTZ 200-300MM",
+        "tool": "2300 / Rainbow",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6,
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-026652-911",
+    "description": "RING EDGE BOT 200-300MM (1)",
+    "tool": "2300 / Rainbow",
+    "size": "8 INCH / 12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-71",
+    "variants": [
+      {
+        "description": "RING EDGE BOT 200-300MM (1)",
+        "tool": "2300 / Rainbow",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      },
+      {
+        "description": "RING EDGE BOT 200-300MM (1)",
+        "tool": "2300 / Rainbow",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6,
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-026652-002",
+    "description": "RING EDGE BOT 200-300MM",
+    "tool": "2300 / Rainbow",
+    "size": "8 INCH / 12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 6,
+    "sourceTable": 2,
+    "id": "quartz-72",
+    "variants": [
+      {
+        "description": "RING EDGE BOT 200-300MM",
+        "tool": "2300 / Rainbow",
+        "size": "8 INCH",
+        "material": "Quartz",
+        "sourceSlide": 6,
+        "sourceTable": 2
+      },
+      {
+        "description": "RING EDGE BOT 200-300MM",
+        "tool": "2300 / Rainbow",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      6,
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-013344-001",
+    "description": "(RING, COVER, OUTER GND, QUARTZ-FLEX)",
+    "tool": "2300 Flex",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-73",
+    "variants": [
+      {
+        "description": "(RING, COVER, OUTER GND, QUARTZ-FLEX)",
+        "tool": "2300 Flex",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-067739-117",
+    "description": "FLEX45 QTZ GUARD RING",
+    "tool": "2300 Flex45",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-74",
+    "variants": [
+      {
+        "description": "FLEX45 QTZ GUARD RING",
+        "tool": "2300 Flex45",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-014843-300",
+    "description": "(RING WAP, QUARTZ GENERIC 17IN FLEX45) / Confinement ring",
+    "tool": "2300 Flex45 / 2300 Flex / Exelan",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-75",
+    "variants": [
+      {
+        "description": "(RING WAP, QUARTZ GENERIC 17IN FLEX45)",
+        "tool": "2300 Flex45",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      },
+      {
+        "description": "Confinement ring",
+        "tool": "2300 Flex / Exelan",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-067739-105",
+    "description": "OUTER UE COVER RING",
+    "tool": "2300 Flex45",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-76",
+    "variants": [
+      {
+        "description": "OUTER UE COVER RING",
+        "tool": "2300 Flex45",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-014843-371",
+    "description": "RING WAP QTZ GENERIC 17 300MM",
+    "tool": "2300 Flex / Exelan",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-77",
+    "variants": [
+      {
+        "description": "RING WAP QTZ GENERIC 17 300MM",
+        "tool": "2300 Flex / Exelan",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-A50410-033",
+    "description": "RING,EDGE,BOT OUTER",
+    "tool": "Kiyo45 / Sensei",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-78",
+    "variants": [
+      {
+        "description": "RING,EDGE,BOT OUTER",
+        "tool": "Kiyo45 / Sensei",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-A50409-023",
+    "description": "RING,EDGE,CVR.QTZ",
+    "tool": "Kiyo45 / Sensei",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-79",
+    "variants": [
+      {
+        "description": "RING,EDGE,CVR.QTZ",
+        "tool": "Kiyo45 / Sensei",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-A03687-018",
+    "description": "RING,EDGE, INNER,MID,QTZ",
+    "tool": "Kiyo45 / Sensei",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-80",
+    "variants": [
+      {
+        "description": "RING,EDGE, INNER,MID,QTZ",
+        "tool": "Kiyo45 / Sensei",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-087942-876",
+    "description": "RING, QTZ, FILLER",
+    "tool": "2300 Kiyo",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-81",
+    "variants": [
+      {
+        "description": "RING, QTZ, FILLER",
+        "tool": "2300 Kiyo",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-012639-024",
+    "description": "12L, POLY-LAM, 2300- KIYO / NOZ 8, RDL , HOLE, QTZ",
+    "tool": "2300 Kiyo",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-82",
+    "variants": [
+      {
+        "description": "12L, POLY-LAM, 2300- KIYO",
+        "tool": "2300 Kiyo",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      },
+      {
+        "description": "NOZ 8, RDL , HOLE, QTZ",
+        "tool": "2300 Kiyo",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-012640-012",
+    "description": "WDO GAS INJ FACE SEAL QRTZ NSG",
+    "tool": "2300 Kiyo",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-83",
+    "variants": [
+      {
+        "description": "WDO GAS INJ FACE SEAL QRTZ NSG",
+        "tool": "2300 Kiyo",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-031257-309",
+    "description": "(DRY-3)RING EDGE TOP)",
+    "tool": "2300 Kiyo / Exelan",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-84",
+    "variants": [
+      {
+        "description": "(DRY-3)RING EDGE TOP)",
+        "tool": "2300 Kiyo / Exelan",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-031257-534",
+    "description": "METAL L QUARTZ BOTTOM EDGE RING",
+    "tool": "2300 Kiyo / Exelan",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-85",
+    "variants": [
+      {
+        "description": "METAL L QUARTZ BOTTOM EDGE RING",
+        "tool": "2300 Kiyo / Exelan",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-031257-531",
+    "description": "RING EDGE TOP QTZ EBP 300MM",
+    "tool": "2300 Kiyo / Exelan",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-86",
+    "variants": [
+      {
+        "description": "RING EDGE TOP QTZ EBP 300MM",
+        "tool": "2300 Kiyo / Exelan",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-014843-350",
+    "description": "RING, WAP, QTZ, GENERIC, 17, 07 ID, 300MM",
+    "tool": "2300 Kiyo / Exelan",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-87",
+    "variants": [
+      {
+        "description": "RING, WAP, QTZ, GENERIC, 17, 07 ID, 300MM",
+        "tool": "2300 Kiyo / Exelan",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-014843-381",
+    "description": "RING, WAP, QTZ IN. SLTD, 300MM",
+    "tool": "2300 Kiyo / Exelan",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-88",
+    "variants": [
+      {
+        "description": "RING, WAP, QTZ IN. SLTD, 300MM",
+        "tool": "2300 Kiyo / Exelan",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-003481-300",
+    "description": "",
+    "tool": "2300 Kiyo / Exelan",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-89",
+    "variants": [
+      {
+        "description": "",
+        "tool": "2300 Kiyo / Exelan",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-027740-001",
+    "description": "WIN,QTZ",
+    "tool": "2300 Kiyo / Vector",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-90",
+    "variants": [
+      {
+        "description": "WIN,QTZ",
+        "tool": "2300 Kiyo / Vector",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-022030-004",
+    "description": "SLV QTZ STEPPED PIN",
+    "tool": "2300 Kiyo / Vector",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-91",
+    "variants": [
+      {
+        "description": "SLV QTZ STEPPED PIN",
+        "tool": "2300 Kiyo / Vector",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-087943-895",
+    "description": "COV,QTZ,05X,TES,TALL,14.5D / COV QTZ, OSXTES, TALL, 14,50",
+    "tool": "2300 Kiyo / Vector",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-92",
+    "variants": [
+      {
+        "description": "COV,QTZ,05X,TES,TALL,14.5D",
+        "tool": "2300 Kiyo / Vector",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      },
+      {
+        "description": "COV QTZ, OSXTES, TALL, 14,50",
+        "tool": "2300 Kiyo / Vector",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-087943-913",
+    "description": "COV. QTZ. INR. 5XX CFR. 13, 50",
+    "tool": "2300 Kiyo / Vector",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-93",
+    "variants": [
+      {
+        "description": "COV. QTZ. INR. 5XX CFR. 13, 50",
+        "tool": "2300 Kiyo / Vector",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-087943-854",
+    "description": "COV QTZ, 05X, TES, TALL 14.06D",
+    "tool": "2300 Kiyo / Vector",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-94",
+    "variants": [
+      {
+        "description": "COV QTZ, 05X, TES, TALL 14.06D",
+        "tool": "2300 Kiyo / Vector",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-087943-926",
+    "description": "CDV,QTZ,TALL,14 06D",
+    "tool": "2300 Kiyo / Vector",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-95",
+    "variants": [
+      {
+        "description": "CDV,QTZ,TALL,14 06D",
+        "tool": "2300 Kiyo / Vector",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-053569-020",
+    "description": "",
+    "tool": "2300 Kiyo / Vector",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-96",
+    "variants": [
+      {
+        "description": "",
+        "tool": "2300 Kiyo / Vector",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-018468-290",
+    "description": "RING.CVR, OUTER, GND, 090 THK QTZ",
+    "tool": "2300 Kiyo / Flex",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-97",
+    "variants": [
+      {
+        "description": "RING.CVR, OUTER, GND, 090 THK QTZ",
+        "tool": "2300 Kiyo / Flex",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-088516-001",
+    "description": "RING, CONTROL COND, QTZ, NO SLOT, THIN",
+    "tool": "2300 Kiyo / Flex",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-98",
+    "variants": [
+      {
+        "description": "RING, CONTROL COND, QTZ, NO SLOT, THIN",
+        "tool": "2300 Kiyo / Flex",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-088516-012",
+    "description": "RING, CONTROL, QTZ, NO SLOT",
+    "tool": "2300 Kiyo / Flex",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-99",
+    "variants": [
+      {
+        "description": "RING, CONTROL, QTZ, NO SLOT",
+        "tool": "2300 Kiyo / Flex",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-040737-417",
+    "description": "RING, CPLG. QTZ, W BIAS PU.W FLAT",
+    "tool": "2300 Kiyo / Flex",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-100",
+    "variants": [
+      {
+        "description": "RING, CPLG. QTZ, W BIAS PU.W FLAT",
+        "tool": "2300 Kiyo / Flex",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-236355-614",
+    "description": "RING,EDGE, TOP, V-GROOVE",
+    "tool": "2300 Kiyo / Flex",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-101",
+    "variants": [
+      {
+        "description": "RING,EDGE, TOP, V-GROOVE",
+        "tool": "2300 Kiyo / Flex",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-236357-529",
+    "description": "RING,EDGE,MID",
+    "tool": "2300 Kiyo / Flex",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-102",
+    "variants": [
+      {
+        "description": "RING,EDGE,MID",
+        "tool": "2300 Kiyo / Flex",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-077262-714",
+    "description": "RING, EDGE, TOP, QTZ, 300MM",
+    "tool": "2300 Kiyo / Flex45",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-103",
+    "variants": [
+      {
+        "description": "RING, EDGE, TOP, QTZ, 300MM",
+        "tool": "2300 Kiyo / Flex45",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-077262-004",
+    "description": "RING,EDEG.TOP,QTZ 300MM",
+    "tool": "2300 Kiyo / Flex45",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-104",
+    "variants": [
+      {
+        "description": "RING,EDEG.TOP,QTZ 300MM",
+        "tool": "2300 Kiyo / Flex45",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-077262-111",
+    "description": "RING, EDGE,TOP ,QTZ , 300MM",
+    "tool": "2300 Kiyo / Flex45",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-105",
+    "variants": [
+      {
+        "description": "RING, EDGE,TOP ,QTZ , 300MM",
+        "tool": "2300 Kiyo / Flex45",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-231012-341",
+    "description": "COV,RING, QUARTZ,D9, BOTTOM RING",
+    "tool": "2300 Kiyo / Flex (D9)",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-106",
+    "variants": [
+      {
+        "description": "COV,RING, QUARTZ,D9, BOTTOM RING",
+        "tool": "2300 Kiyo / Flex (D9)",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-016394-001",
+    "description": "HPT CONFIEMENT RING",
+    "tool": "2300 Kiyo / HPT",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-107",
+    "variants": [
+      {
+        "description": "HPT CONFIEMENT RING",
+        "tool": "2300 Kiyo / HPT",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-012640-011",
+    "description": "F WDO GAS INJ FACE SEAL QRTZ",
+    "tool": "2300 Kiyo / 2300-Kiyo",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 1,
+    "id": "quartz-108",
+    "variants": [
+      {
+        "description": "F WDO GAS INJ FACE SEAL QRTZ",
+        "tool": "2300 Kiyo / 2300-Kiyo",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-222662-11",
+    "description": "",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-109",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-222191-11",
+    "description": "QUARTZ FOCUS RING(CLAMP RING NW2)300 / FOCUS RING 8-NW-2",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-110",
+    "variants": [
+      {
+        "description": "QUARTZ FOCUS RING(CLAMP RING NW2)300",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      },
+      {
+        "description": "FOCUS RING 8-NW-2",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-224511-11",
+    "description": "Q'TZ FOCUS RING)",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-111",
+    "variants": [
+      {
+        "description": "Q'TZ FOCUS RING)",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-222433-11",
+    "description": "QTZ INNER RING DS401002-54-AE Model (1",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-112",
+    "variants": [
+      {
+        "description": "QTZ INNER RING DS401002-54-AE Model (1",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-221018-14",
+    "description": "SHIELD RING (8K-220)",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-113",
+    "variants": [
+      {
+        "description": "SHIELD RING (8K-220)",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-221471-25",
+    "description": "(ELECTRODE CRYSTAL(DP용)-633H)",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-114",
+    "variants": [
+      {
+        "description": "(ELECTRODE CRYSTAL(DP용)-633H)",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D05-250025-11",
+    "description": "RING SHIELD UPPER STRAIIGHT",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-115",
+    "variants": [
+      {
+        "description": "RING SHIELD UPPER STRAIIGHT",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D05-350204-57",
+    "description": "INSULATOR ESC ENCLOSURE TOP-F",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-116",
+    "variants": [
+      {
+        "description": "INSULATOR ESC ENCLOSURE TOP-F",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D05-350020-11",
+    "description": "COVER RING FBI LV",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-117",
+    "variants": [
+      {
+        "description": "COVER RING FBI LV",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D05-300243-11",
+    "description": "COVER RING,360.9 / COVER RING(9.2T)",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-118",
+    "variants": [
+      {
+        "description": "COVER RING,360.9",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      },
+      {
+        "description": "COVER RING(9.2T)",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D05-200094-12",
+    "description": "RING,SHIELD UPPER 300MM",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-119",
+    "variants": [
+      {
+        "description": "RING,SHIELD UPPER 300MM",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D05-300142-13",
+    "description": "INSULATOR ESC ENCLOSURE(COC)",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-120",
+    "variants": [
+      {
+        "description": "INSULATOR ESC ENCLOSURE(COC)",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D05-300067-11",
+    "description": "INSULATOR ESC FNCLOSURE T3.5",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-121",
+    "variants": [
+      {
+        "description": "INSULATOR ESC FNCLOSURE T3.5",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D05-300007-23",
+    "description": "INSULATOR RING",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-122",
+    "variants": [
+      {
+        "description": "INSULATOR RING",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D05-350010-11",
+    "description": "(300MM)",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-123",
+    "variants": [
+      {
+        "description": "(300MM)",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D05-350204-51",
+    "description": "RING ,COVER VIX-MP",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-124",
+    "variants": [
+      {
+        "description": "RING ,COVER VIX-MP",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D05-350028-11",
+    "description": "ESC Enclosure",
+    "tool": "Tactras / Telius",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-125",
+    "variants": [
+      {
+        "description": "ESC Enclosure",
+        "tool": "Tactras / Telius",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-500876-21",
+    "description": "RING,INSULATOR CONVEX PHV DR",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-126",
+    "variants": [
+      {
+        "description": "RING,INSULATOR CONVEX PHV DR",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-500791-11",
+    "description": "TOP SHIELD",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-127",
+    "variants": [
+      {
+        "description": "TOP SHIELD",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-501389-21",
+    "description": "RING INSULATPR D PHV(436)-RA",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-128",
+    "variants": [
+      {
+        "description": "RING INSULATPR D PHV(436)-RA",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-500877-21",
+    "description": "RING, INSULATOR C PHV P4DR",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-129",
+    "variants": [
+      {
+        "description": "RING, INSULATOR C PHV P4DR",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-250059-11",
+    "description": "RING,INSULATOR PLAT Q V2E AA0300222",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-130",
+    "variants": [
+      {
+        "description": "RING,INSULATOR PLAT Q V2E AA0300222",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-250265-21",
+    "description": "RING,QZ-COVER AC-17GND V2",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-131",
+    "variants": [
+      {
+        "description": "RING,QZ-COVER AC-17GND V2",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-350122-11",
+    "description": "RING,COVER 360.4T5.5",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-132",
+    "variants": [
+      {
+        "description": "RING,COVER 360.4T5.5",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-350313-21",
+    "description": "",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-133",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-250211-11",
+    "description": "RING FOOUS LABY-CE",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-134",
+    "variants": [
+      {
+        "description": "RING FOOUS LABY-CE",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-250039-11",
+    "description": "UEL(S),QZ POLY3",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-135",
+    "variants": [
+      {
+        "description": "UEL(S),QZ POLY3",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-350340-11",
+    "description": "COVER(LR),RING BSP",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-136",
+    "variants": [
+      {
+        "description": "COVER(LR),RING BSP",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-350038-11",
+    "description": "RING , QZ, GND 5.0.-T16.5 Q V2",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-137",
+    "variants": [
+      {
+        "description": "RING , QZ, GND 5.0.-T16.5 Q V2",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-350037-11",
+    "description": "COVERRING,360.9 Q V2",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-138",
+    "variants": [
+      {
+        "description": "COVERRING,360.9 Q V2",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-250034-11",
+    "description": "RING,SHIELD TOP-H(PH-TU)V2",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-139",
+    "variants": [
+      {
+        "description": "RING,SHIELD TOP-H(PH-TU)V2",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-120695-51",
+    "description": "",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-140",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-501403-21",
+    "description": "",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-141",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-450143-21",
+    "description": "",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-142",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L05-350739-11",
+    "description": "",
+    "tool": "Vayu / Tactras",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-143",
+    "variants": [
+      {
+        "description": "",
+        "tool": "Vayu / Tactras",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D05-350138-11",
+    "description": "RING INSULATOR 380 DRM",
+    "tool": "Telius / DRM300",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-144",
+    "variants": [
+      {
+        "description": "RING INSULATOR 380 DRM",
+        "tool": "Telius / DRM300",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D87-003411-14",
+    "description": "CEL BODY ASSY SCCM-OX(SE))(1)",
+    "tool": "Telius / SCCM-Ox",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-145",
+    "variants": [
+      {
+        "description": "CEL BODY ASSY SCCM-OX(SE))(1)",
+        "tool": "Telius / SCCM-Ox",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-11115",
+    "description": "TUBE LINER, AX7670, APC, 300MM",
+    "tool": "Centura APC 300mm",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-146",
+    "variants": [
+      {
+        "description": "TUBE LINER, AX7670, APC, 300MM",
+        "tool": "Centura APC 300mm",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-01559",
+    "description": "BAFFLE INJECT LTV HIGH OUTER FLOW EPI 300MM",
+    "tool": "Centura Epi",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-147",
+    "variants": [
+      {
+        "description": "BAFFLE INJECT LTV HIGH OUTER FLOW EPI 300MM",
+        "tool": "Centura Epi",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-03166",
+    "description": "DOME UPPER EPI 300MM",
+    "tool": "Centura Epi",
+    "size": "12 INCH",
+    "material": "Quartz",
+    "sourceSlide": 7,
+    "sourceTable": 2,
+    "id": "quartz-148",
+    "variants": [
+      {
+        "description": "DOME UPPER EPI 300MM",
+        "tool": "Centura Epi",
+        "size": "12 INCH",
+        "material": "Quartz",
+        "sourceSlide": 7,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      7
+    ]
+  }
+]

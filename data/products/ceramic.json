@@ -1,0 +1,5522 @@
+[
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00980",
+    "description": "DPS2 300mm CERAMIC SINGLE RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-1",
+    "variants": [
+      {
+        "description": "DPS2 300mm CERAMIC SINGLE RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-01808",
+    "description": "DPSII 300MM CERAMIC EDGE RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-2",
+    "variants": [
+      {
+        "description": "DPSII 300MM CERAMIC EDGE RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-01903",
+    "description": "INSULATOR,QUARTZ, PCXT,300MM",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-3",
+    "variants": [
+      {
+        "description": "INSULATOR,QUARTZ, PCXT,300MM",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-03314",
+    "description": "LIFT PIN 170 FLXED FLOATING 300MM(M10)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-4",
+    "variants": [
+      {
+        "description": "LIFT PIN 170 FLXED FLOATING 300MM(M10)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-04470",
+    "description": "ISOLATOR, LOW K, PRODUCER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-5",
+    "variants": [
+      {
+        "description": "ISOLATOR, LOW K, PRODUCER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-06616",
+    "description": "NOZZLE INSERT 300MM DPS2",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-6",
+    "variants": [
+      {
+        "description": "NOZZLE INSERT 300MM DPS2",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-07442",
+    "description": "INSULATOR, 300MM SOURCE ADAPTOR, CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-7",
+    "variants": [
+      {
+        "description": "INSULATOR, 300MM SOURCE ADAPTOR, CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-07514",
+    "description": "INSULATOR, 300MM SOURCE ADAPTOR, CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-8",
+    "variants": [
+      {
+        "description": "INSULATOR, 300MM SOURCE ADAPTOR, CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-39361",
+    "description": "ISOLATOR SILANE PUMPING RING PRODUCER 20",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-9",
+    "variants": [
+      {
+        "description": "ISOLATOR SILANE PUMPING RING PRODUCER 20",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "02-3342440-00",
+    "description": "ASSY, HOLDER, CARRIER RING, 300MM, C3 AL",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-10",
+    "variants": [
+      {
+        "description": "ASSY, HOLDER, CARRIER RING, 300MM, C3 AL",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-122178-00",
+    "description": "VECTOR CARRIER RING(AL2O3)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-11",
+    "variants": [
+      {
+        "description": "VECTOR CARRIER RING(AL2O3)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-355501-00",
+    "description": "ALTUS CERAMIC SPRING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-12",
+    "variants": [
+      {
+        "description": "ALTUS CERAMIC SPRING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-328070-12",
+    "description": "BELLOW RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-13",
+    "variants": [
+      {
+        "description": "BELLOW RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-314780-12",
+    "description": "RING BELLOW",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-14",
+    "variants": [
+      {
+        "description": "RING BELLOW",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-404153-11",
+    "description": "SLEEV B",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-15",
+    "variants": [
+      {
+        "description": "SLEEV B",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-003481-815",
+    "description": "WDO, ALUMINA",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-16",
+    "variants": [
+      {
+        "description": "WDO, ALUMINA",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-003686-188",
+    "description": "INSERT FOCUS RING 3.8 5.2",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-17",
+    "variants": [
+      {
+        "description": "INSERT FOCUS RING 3.8 5.2",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-014317-006",
+    "description": "PL MTG CER COIL",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-18",
+    "variants": [
+      {
+        "description": "PL MTG CER COIL",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-022493-905",
+    "description": "RING SHADOW BTM(300MM)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-19",
+    "variants": [
+      {
+        "description": "RING SHADOW BTM(300MM)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-022495-063",
+    "description": "RING EDGE 2300 BSR CER FULL",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-20",
+    "variants": [
+      {
+        "description": "RING EDGE 2300 BSR CER FULL",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-028721-261",
+    "description": "UNIVERSAL CLAMP RING 6\"",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-21",
+    "variants": [
+      {
+        "description": "UNIVERSAL CLAMP RING 6\"",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-028725-161",
+    "description": "UNIVERSAL CLAMP RING 6\"",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-22",
+    "variants": [
+      {
+        "description": "UNIVERSAL CLAMP RING 6\"",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-030135-001",
+    "description": "EDGE RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-23",
+    "variants": [
+      {
+        "description": "EDGE RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-031257-538",
+    "description": "TOP EDGE RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-24",
+    "variants": [
+      {
+        "description": "TOP EDGE RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-041983-001",
+    "description": "CERAMIC CHAMBER LINER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-25",
+    "variants": [
+      {
+        "description": "CERAMIC CHAMBER LINER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069709-053",
+    "description": "RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-26",
+    "variants": [
+      {
+        "description": "RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069709-073",
+    "description": "RING CPLNG, CER, 296,NDLK",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-27",
+    "variants": [
+      {
+        "description": "RING CPLNG, CER, 296,NDLK",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-073392-002",
+    "description": "PLUG, UPPER ELCTD, CERAMIC SCREW",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-28",
+    "variants": [
+      {
+        "description": "PLUG, UPPER ELCTD, CERAMIC SCREW",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-104870-113",
+    "description": "WDO, SHWRHD, TOP(008GSKT)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-29",
+    "variants": [
+      {
+        "description": "WDO, SHWRHD, TOP(008GSKT)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-104870-823",
+    "description": "WDO, SHWRHD, BTM(008GSKT)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-30",
+    "variants": [
+      {
+        "description": "WDO, SHWRHD, BTM(008GSKT)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-140069-002",
+    "description": "6\" UPPER INSULATOR",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-31",
+    "variants": [
+      {
+        "description": "6\" UPPER INSULATOR",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-140118-001",
+    "description": "CERAMIC FOCUS RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-32",
+    "variants": [
+      {
+        "description": "CERAMIC FOCUS RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-140163-001",
+    "description": "6\" HOT EDGE RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-33",
+    "variants": [
+      {
+        "description": "6\" HOT EDGE RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-330045-382",
+    "description": "THICKER MODIFY CERAMIC EDGE RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-34",
+    "variants": [
+      {
+        "description": "THICKER MODIFY CERAMIC EDGE RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-330892-007",
+    "description": "GDP CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-35",
+    "variants": [
+      {
+        "description": "GDP CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-331051-002",
+    "description": "UNIFORMITY RING CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-36",
+    "variants": [
+      {
+        "description": "UNIFORMITY RING CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-331089-001",
+    "description": "RING EDGE BOTTOM",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-37",
+    "variants": [
+      {
+        "description": "RING EDGE BOTTOM",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-443129-001",
+    "description": "FOCUS RING ESC INNER 8\"",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-38",
+    "variants": [
+      {
+        "description": "FOCUS RING ESC INNER 8\"",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-800330-004",
+    "description": "INSULA, RING, ESC, 300MM",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 1,
+    "id": "ceramic-39",
+    "variants": [
+      {
+        "description": "INSULA, RING, ESC, 300MM",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-20123",
+    "description": "HEATER, ISOLATOR CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-40",
+    "variants": [
+      {
+        "description": "HEATER, ISOLATOR CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-20521",
+    "description": "SPACER INSULATOR LIFTER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-41",
+    "variants": [
+      {
+        "description": "SPACER INSULATOR LIFTER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-20522",
+    "description": "LIFTER INSULATOR WASHER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-42",
+    "variants": [
+      {
+        "description": "LIFTER INSULATOR WASHER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-21462",
+    "description": "CERAMIC INSULATOR 11.3",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-43",
+    "variants": [
+      {
+        "description": "CERAMIC INSULATOR 11.3",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-21664",
+    "description": "CERAMIC INSULATOR",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-44",
+    "variants": [
+      {
+        "description": "CERAMIC INSULATOR",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-23093",
+    "description": "WASHER INSULATOR FOR PVD LIFTER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-45",
+    "variants": [
+      {
+        "description": "WASHER INSULATOR FOR PVD LIFTER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-25917",
+    "description": "ISOLATOR DC BIAS SHUTTER COMP",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-46",
+    "variants": [
+      {
+        "description": "ISOLATOR DC BIAS SHUTTER COMP",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-26254",
+    "description": "INSULATOR SOURCE 16\"",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-47",
+    "variants": [
+      {
+        "description": "INSULATOR SOURCE 16\"",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-42269",
+    "description": "RING CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-48",
+    "variants": [
+      {
+        "description": "RING CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-53882",
+    "description": "8' BLADE BUFFER HP",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-49",
+    "variants": [
+      {
+        "description": "8' BLADE BUFFER HP",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0041-70094",
+    "description": "CENTER PIN 202.4",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-50",
+    "variants": [
+      {
+        "description": "CENTER PIN 202.4",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0190-64465",
+    "description": "SMCS-OT-0049; FI BLADE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-51",
+    "variants": [
+      {
+        "description": "SMCS-OT-0049; FI BLADE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00136",
+    "description": "RING (FOCUS RING 195MM)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-52",
+    "variants": [
+      {
+        "description": "RING (FOCUS RING 195MM)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00137",
+    "description": "RING, FOCUS 195MM SEMINTCH N-FLT 1\"60 DE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-53",
+    "variants": [
+      {
+        "description": "RING, FOCUS 195MM SEMINTCH N-FLT 1\"60 DE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00247",
+    "description": "RING CAPTURE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-54",
+    "variants": [
+      {
+        "description": "RING CAPTURE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00250",
+    "description": "LID LINER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-55",
+    "variants": [
+      {
+        "description": "LID LINER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00261",
+    "description": "CHAMBER INSERT",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-56",
+    "variants": [
+      {
+        "description": "CHAMBER INSERT",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00278",
+    "description": "CERAMIC EDGE-RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-57",
+    "variants": [
+      {
+        "description": "CERAMIC EDGE-RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00296",
+    "description": "SLEEVE, JUNCTION, SIN, DXZ",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-58",
+    "variants": [
+      {
+        "description": "SLEEVE, JUNCTION, SIN, DXZ",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00307",
+    "description": "CAPTURE RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-59",
+    "variants": [
+      {
+        "description": "CAPTURE RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00316",
+    "description": "ISOLATOR PUMPING RING MID 200MM PRODUCER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-60",
+    "variants": [
+      {
+        "description": "ISOLATOR PUMPING RING MID 200MM PRODUCER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00317",
+    "description": "ISOLATOR PUMPING RING BOT 200MM PRODUCER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-61",
+    "variants": [
+      {
+        "description": "ISOLATOR PUMPING RING BOT 200MM PRODUCER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00353",
+    "description": "PIN, SPACER WXZ+",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-62",
+    "variants": [
+      {
+        "description": "PIN, SPACER WXZ+",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00354",
+    "description": "RING PURGE WXZ",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-63",
+    "variants": [
+      {
+        "description": "RING PURGE WXZ",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00402",
+    "description": "ISOLATOR PUMPING RING TOP 200MM PRODUCER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-64",
+    "variants": [
+      {
+        "description": "ISOLATOR PUMPING RING TOP 200MM PRODUCER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00403",
+    "description": "CERAMIC LINER MIDDLE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-65",
+    "variants": [
+      {
+        "description": "CERAMIC LINER MIDDLE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00501",
+    "description": "ISOLATOR BLOCK DXZ 200MM",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-66",
+    "variants": [
+      {
+        "description": "ISOLATOR BLOCK DXZ 200MM",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00576",
+    "description": "PIN WEIGHT",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-67",
+    "variants": [
+      {
+        "description": "PIN WEIGHT",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00621",
+    "description": "SHADOW RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-68",
+    "variants": [
+      {
+        "description": "SHADOW RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00622",
+    "description": "OUTER RING 200MM",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-69",
+    "variants": [
+      {
+        "description": "OUTER RING 200MM",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00624",
+    "description": "200MM PURGER RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-70",
+    "variants": [
+      {
+        "description": "200MM PURGER RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00667",
+    "description": "MIDDLE LINER LEFT",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-71",
+    "variants": [
+      {
+        "description": "MIDDLE LINER LEFT",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00689",
+    "description": "LID LINER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-72",
+    "variants": [
+      {
+        "description": "LID LINER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00796",
+    "description": "LIFT PIN",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-73",
+    "variants": [
+      {
+        "description": "LIFT PIN",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00991",
+    "description": "ULTIMA BLADE(SLOPE삭제)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-74",
+    "variants": [
+      {
+        "description": "ULTIMA BLADE(SLOPE삭제)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-01427",
+    "description": "ISOLATOR CERAMIC CVDLOW",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-75",
+    "variants": [
+      {
+        "description": "ISOLATOR CERAMIC CVDLOW",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-01798",
+    "description": "PIN LIFT, TXZ HEATER SINGLE TAPER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-76",
+    "variants": [
+      {
+        "description": "PIN LIFT, TXZ HEATER SINGLE TAPER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-02114",
+    "description": "HOUSING, DOUBLE RF CONN",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-77",
+    "variants": [
+      {
+        "description": "HOUSING, DOUBLE RF CONN",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-02116",
+    "description": "CERAMIC GAS INJECTOR",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-78",
+    "variants": [
+      {
+        "description": "CERAMIC GAS INJECTOR",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-02117",
+    "description": "CERAMIC DISTRIBUTION SEAL",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-79",
+    "variants": [
+      {
+        "description": "CERAMIC DISTRIBUTION SEAL",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-02518",
+    "description": "CERAMIC PIN LOADLOCK MODIFIED",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-80",
+    "variants": [
+      {
+        "description": "CERAMIC PIN LOADLOCK MODIFIED",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-02575",
+    "description": "LIFT PIN FIXED LIFT PIN 20 - CR-022",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-81",
+    "variants": [
+      {
+        "description": "LIFT PIN FIXED LIFT PIN 20 - CR-022",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-03306",
+    "description": "SHADOW RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-82",
+    "variants": [
+      {
+        "description": "SHADOW RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-03346",
+    "description": "AI2O3 DEPO RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-83",
+    "variants": [
+      {
+        "description": "AI2O3 DEPO RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-03442",
+    "description": "PURGE RING 6 SMF",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 2,
+    "id": "ceramic-84",
+    "variants": [
+      {
+        "description": "PURGE RING 6 SMF",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-04406",
+    "description": "NOZZLE INSERT IEP LID ASSY",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-85",
+    "variants": [
+      {
+        "description": "NOZZLE INSERT IEP LID ASSY",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-05216",
+    "description": "ULTIMA COVER RING-PARTICLE REDUCTION-수정",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-86",
+    "variants": [
+      {
+        "description": "ULTIMA COVER RING-PARTICLE REDUCTION-수정",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-06099",
+    "description": "AL2O3 DEPO RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-87",
+    "variants": [
+      {
+        "description": "AL2O3 DEPO RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-07238",
+    "description": "ACCESSORY_EXTERNAL INSULAOTR,",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-88",
+    "variants": [
+      {
+        "description": "ACCESSORY_EXTERNAL INSULAOTR,",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-07417",
+    "description": "CAP CAPTIVE FIXED",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-89",
+    "variants": [
+      {
+        "description": "CAP CAPTIVE FIXED",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-07505",
+    "description": "AL2O3 DEPO RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-90",
+    "variants": [
+      {
+        "description": "AL2O3 DEPO RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-08334",
+    "description": "SA HOOP",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-91",
+    "variants": [
+      {
+        "description": "SA HOOP",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-09072",
+    "description": "CERAMIC SHIELD WXZ",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-92",
+    "variants": [
+      {
+        "description": "CERAMIC SHIELD WXZ",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-09716",
+    "description": "CERAMIC LIFT FINGERS(PINS)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-93",
+    "variants": [
+      {
+        "description": "CERAMIC LIFT FINGERS(PINS)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-09827",
+    "description": "RING, PEDESTAL, ESC, 200MM, NOTCH, WEB",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-94",
+    "variants": [
+      {
+        "description": "RING, PEDESTAL, ESC, 200MM, NOTCH, WEB",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-09830",
+    "description": "RING PEDESTAL CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-95",
+    "variants": [
+      {
+        "description": "RING PEDESTAL CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-09933",
+    "description": "PIN WAFER LIFT HEATER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-96",
+    "variants": [
+      {
+        "description": "PIN WAFER LIFT HEATER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-09974",
+    "description": "SHIELD, L-SUPPORT, PUMPING INSERT",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-97",
+    "variants": [
+      {
+        "description": "SHIELD, L-SUPPORT, PUMPING INSERT",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10110",
+    "description": "P-CHUCK COVER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-98",
+    "variants": [
+      {
+        "description": "P-CHUCK COVER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10118",
+    "description": "P-CHUCK ARM 6\"",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-99",
+    "variants": [
+      {
+        "description": "P-CHUCK ARM 6\"",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10143",
+    "description": "CERAMIC CHAMBER INSERT",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-100",
+    "variants": [
+      {
+        "description": "CERAMIC CHAMBER INSERT",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10144",
+    "description": "ISOLATOR, PUMPING PLATE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-101",
+    "variants": [
+      {
+        "description": "ISOLATOR, PUMPING PLATE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10157",
+    "description": "LINER, JUNCTION, SIN, DXZ",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-102",
+    "variants": [
+      {
+        "description": "LINER, JUNCTION, SIN, DXZ",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10160",
+    "description": "CERAMIC LID LINER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-103",
+    "variants": [
+      {
+        "description": "CERAMIC LID LINER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10163",
+    "description": "PUMPING LID ISOLATOR - S-0442",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-104",
+    "variants": [
+      {
+        "description": "PUMPING LID ISOLATOR - S-0442",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10164",
+    "description": "SHIELD, PUMPING INSERT, SIN, DXZ",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-105",
+    "variants": [
+      {
+        "description": "SHIELD, PUMPING INSERT, SIN, DXZ",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10169",
+    "description": "CERAMIC EDGE RING - DXZ",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-106",
+    "variants": [
+      {
+        "description": "CERAMIC EDGE RING - DXZ",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10284",
+    "description": "PIN,LIFT,HEATER,DXZ",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-107",
+    "variants": [
+      {
+        "description": "PIN,LIFT,HEATER,DXZ",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10286",
+    "description": "LIFT PLATE FINGER RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-108",
+    "variants": [
+      {
+        "description": "LIFT PLATE FINGER RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10288",
+    "description": "COMPENSATOR, 200MM, DCVDC-CHUCK",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-109",
+    "variants": [
+      {
+        "description": "COMPENSATOR, 200MM, DCVDC-CHUCK",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10296",
+    "description": "INSULATOR, BULKHEAD, CATHODE,DPS",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-110",
+    "variants": [
+      {
+        "description": "INSULATOR, BULKHEAD, CATHODE,DPS",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-10650",
+    "description": "COVER, CERAMIC, PUMPING CHANNEL,GIGA-FIL",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-111",
+    "variants": [
+      {
+        "description": "COVER, CERAMIC, PUMPING CHANNEL,GIGA-FIL",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-11573",
+    "description": "DEPOSITION RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-112",
+    "variants": [
+      {
+        "description": "DEPOSITION RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-14283",
+    "description": "KEEPER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-113",
+    "variants": [
+      {
+        "description": "KEEPER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-16017",
+    "description": "RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-114",
+    "variants": [
+      {
+        "description": "RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-18053",
+    "description": "GUIDE LIFT PIN ULTIMA HDP",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-115",
+    "variants": [
+      {
+        "description": "GUIDE LIFT PIN ULTIMA HDP",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-18081",
+    "description": "COVER LOWER PROFILE HDP-CVD",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-116",
+    "variants": [
+      {
+        "description": "COVER LOWER PROFILE HDP-CVD",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-18109",
+    "description": "COLLAR,200MM SNNF,ULTIMA HDPC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-117",
+    "variants": [
+      {
+        "description": "COLLAR,200MM SNNF,ULTIMA HDPC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-19783",
+    "description": "OUTER,PUMPING PLATE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-118",
+    "variants": [
+      {
+        "description": "OUTER,PUMPING PLATE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-19793",
+    "description": "INNER,PUMPING PLATE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-119",
+    "variants": [
+      {
+        "description": "INNER,PUMPING PLATE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-20210",
+    "description": "INSULT DUOBLE RF CONNECTOR(IMP)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-120",
+    "variants": [
+      {
+        "description": "INSULT DUOBLE RF CONNECTOR(IMP)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-20285",
+    "description": "COVER INSULATOR",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-121",
+    "variants": [
+      {
+        "description": "COVER INSULATOR",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-20315",
+    "description": "BUTTON REST B101 CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-122",
+    "variants": [
+      {
+        "description": "BUTTON REST B101 CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-20331",
+    "description": "COVER RING 8\" B101 CERAMIC, 10.75\" OD",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-123",
+    "variants": [
+      {
+        "description": "COVER RING 8\" B101 CERAMIC, 10.75\" OD",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-20437",
+    "description": "DEPOSITION RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-124",
+    "variants": [
+      {
+        "description": "DEPOSITION RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-22733",
+    "description": "INSERT, CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-125",
+    "variants": [
+      {
+        "description": "INSERT, CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-28391",
+    "description": "FINGER END EFFECTOR",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-126",
+    "variants": [
+      {
+        "description": "FINGER END EFFECTOR",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35287",
+    "description": "BASE, CATHODE, INSULATOR, DPS GECO",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-127",
+    "variants": [
+      {
+        "description": "BASE, CATHODE, INSULATOR, DPS GECO",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35290",
+    "description": "HOUSING GAS FEED",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-128",
+    "variants": [
+      {
+        "description": "HOUSING GAS FEED",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35291",
+    "description": "CERAMIC GAS NOZZLE PLUG",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 9,
+    "sourceTable": 3,
+    "id": "ceramic-129",
+    "variants": [
+      {
+        "description": "CERAMIC GAS NOZZLE PLUG",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 9,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      9
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35295",
+    "description": "HOUSING, GAS FEED, DPS A3 CHAMBER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-130",
+    "variants": [
+      {
+        "description": "HOUSING, GAS FEED, DPS A3 CHAMBER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35296",
+    "description": "PLUG, INNER, GAS FEED, DPS A3",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-131",
+    "variants": [
+      {
+        "description": "PLUG, INNER, GAS FEED, DPS A3",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35323",
+    "description": "RING, CAPTURE, CERAMIC, 195MM",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-132",
+    "variants": [
+      {
+        "description": "RING, CAPTURE, CERAMIC, 195MM",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35611",
+    "description": "(L)SCREW TXZ LID LINER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-133",
+    "variants": [
+      {
+        "description": "(L)SCREW TXZ LID LINER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35842",
+    "description": "CERAMIC C RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-134",
+    "variants": [
+      {
+        "description": "CERAMIC C RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35843",
+    "description": "PUMPING RING, CERAMIC, TOP GIGA-FILL SAC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-135",
+    "variants": [
+      {
+        "description": "PUMPING RING, CERAMIC, TOP GIGA-FILL SAC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-36685",
+    "description": "RING,SINGLE,LOW PROFILE,200MM SNNF, CERA",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-136",
+    "variants": [
+      {
+        "description": "RING,SINGLE,LOW PROFILE,200MM SNNF, CERA",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-36699",
+    "description": "LIFT PIN",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-137",
+    "variants": [
+      {
+        "description": "LIFT PIN",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-36700",
+    "description": "LIFT PIN",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-138",
+    "variants": [
+      {
+        "description": "LIFT PIN",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-39140",
+    "description": "RING,FOCUS 195MM SEMI NTCH N-FLT 1\"60 DE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-139",
+    "variants": [
+      {
+        "description": "RING,FOCUS 195MM SEMI NTCH N-FLT 1\"60 DE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-39274",
+    "description": "CERAMIC LOWER LINER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-140",
+    "variants": [
+      {
+        "description": "CERAMIC LOWER LINER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-39324",
+    "description": "INSERT RING CHAMBER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-141",
+    "variants": [
+      {
+        "description": "INSERT RING CHAMBER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-40126",
+    "description": "BLADE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-142",
+    "variants": [
+      {
+        "description": "BLADE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-40156",
+    "description": "LIFT PIN CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-143",
+    "variants": [
+      {
+        "description": "LIFT PIN CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-72301",
+    "description": "SIDE PIN 207.4",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-144",
+    "variants": [
+      {
+        "description": "SIDE PIN 207.4",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-72828",
+    "description": "PIMN-2",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-145",
+    "variants": [
+      {
+        "description": "PIMN-2",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-73003",
+    "description": "CERAMIC S-F(SHORT)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-146",
+    "variants": [
+      {
+        "description": "CERAMIC S-F(SHORT)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-73741",
+    "description": "PC-SIDE PIN",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-147",
+    "variants": [
+      {
+        "description": "PC-SIDE PIN",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74014",
+    "description": "BUSH COVER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-148",
+    "variants": [
+      {
+        "description": "BUSH COVER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74059",
+    "description": "S-F LIP LONG SIDE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-149",
+    "variants": [
+      {
+        "description": "S-F LIP LONG SIDE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74060",
+    "description": "S-F LIPSHORTSIDE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-150",
+    "variants": [
+      {
+        "description": "S-F LIPSHORTSIDE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74061",
+    "description": "COVER LEFT(L-SHAPE)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-151",
+    "variants": [
+      {
+        "description": "COVER LEFT(L-SHAPE)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74062",
+    "description": "COVER RIGHT(L-SHAPE)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-152",
+    "variants": [
+      {
+        "description": "COVER RIGHT(L-SHAPE)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74180",
+    "description": "S-F LONG AL2O3",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-153",
+    "variants": [
+      {
+        "description": "S-F LONG AL2O3",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74181",
+    "description": "S-F SHORT AL2O3",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-154",
+    "variants": [
+      {
+        "description": "S-F SHORT AL2O3",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74362",
+    "description": "COVER V2 PIN LEFT SIDE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-155",
+    "variants": [
+      {
+        "description": "COVER V2 PIN LEFT SIDE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74363",
+    "description": "COVER V2 PIN RIGHT SIDE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-156",
+    "variants": [
+      {
+        "description": "COVER V2 PIN RIGHT SIDE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74466",
+    "description": "S-F LIP",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-157",
+    "variants": [
+      {
+        "description": "S-F LIP",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74474",
+    "description": "L-SHAPE LEFT",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-158",
+    "variants": [
+      {
+        "description": "L-SHAPE LEFT",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74475",
+    "description": "L-SHAPE RIGHT",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-159",
+    "variants": [
+      {
+        "description": "L-SHAPE RIGHT",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-73758",
+    "description": "SMCS-OT-0049; FI BLADE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-160",
+    "variants": [
+      {
+        "description": "SMCS-OT-0049; FI BLADE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0042-72575",
+    "description": "RING (FOCUS RING 195MM)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-161",
+    "variants": [
+      {
+        "description": "RING (FOCUS RING 195MM)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-71558",
+    "description": "RING, FOCUS 195MM SEMINTCH N-FLT 1\"60 DE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-162",
+    "variants": [
+      {
+        "description": "RING, FOCUS 195MM SEMINTCH N-FLT 1\"60 DE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-73004",
+    "description": "RING CAPTURE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-163",
+    "variants": [
+      {
+        "description": "RING CAPTURE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-73042",
+    "description": "LID LINER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-164",
+    "variants": [
+      {
+        "description": "LID LINER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-73878",
+    "description": "CHAMBER INSERT",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-165",
+    "variants": [
+      {
+        "description": "CHAMBER INSERT",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74169",
+    "description": "CERAMIC EDGE-RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-166",
+    "variants": [
+      {
+        "description": "CERAMIC EDGE-RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74170",
+    "description": "SLEEVE, JUNCTION, SIN, DXZ",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-167",
+    "variants": [
+      {
+        "description": "SLEEVE, JUNCTION, SIN, DXZ",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74171",
+    "description": "CAPTURE RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-168",
+    "variants": [
+      {
+        "description": "CAPTURE RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74172",
+    "description": "ISOLATOR PUMPING RING MID 200MM PRODUCER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-169",
+    "variants": [
+      {
+        "description": "ISOLATOR PUMPING RING MID 200MM PRODUCER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74173",
+    "description": "ISOLATOR PUMPING RING BOT 200MM PRODUCER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-170",
+    "variants": [
+      {
+        "description": "ISOLATOR PUMPING RING BOT 200MM PRODUCER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-74185",
+    "description": "PIN, SPACER WXZ+",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 1,
+    "id": "ceramic-171",
+    "variants": [
+      {
+        "description": "PIN, SPACER WXZ+",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-251847-00",
+    "description": "HEATER, ISOLATOR CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-172",
+    "variants": [
+      {
+        "description": "HEATER, ISOLATOR CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-263147-00",
+    "description": "SPACER INSULATOR LIFTER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-173",
+    "variants": [
+      {
+        "description": "SPACER INSULATOR LIFTER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-268169-00",
+    "description": "LIFTER INSULATOR WASHER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-174",
+    "variants": [
+      {
+        "description": "LIFTER INSULATOR WASHER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-268171-00",
+    "description": "CERAMIC INSULATOR 11.3",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-175",
+    "variants": [
+      {
+        "description": "CERAMIC INSULATOR 11.3",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-270512-00",
+    "description": "CERAMIC INSULATOR",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-176",
+    "variants": [
+      {
+        "description": "CERAMIC INSULATOR",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-277460-00",
+    "description": "WASHER INSULATOR FOR PVD LIFTER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-177",
+    "variants": [
+      {
+        "description": "WASHER INSULATOR FOR PVD LIFTER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-277463-00",
+    "description": "ISOLATOR DC BIAS SHUTTER COMP",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-178",
+    "variants": [
+      {
+        "description": "ISOLATOR DC BIAS SHUTTER COMP",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-325718-00",
+    "description": "INSULATOR SOURCE 16\"",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-179",
+    "variants": [
+      {
+        "description": "INSULATOR SOURCE 16\"",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-384189-00",
+    "description": "RING CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-180",
+    "variants": [
+      {
+        "description": "RING CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-032502-00",
+    "description": "SPEED PEDESTAL LIFT PINS CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-181",
+    "variants": [
+      {
+        "description": "SPEED PEDESTAL LIFT PINS CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-032503-00",
+    "description": "SPD, RING INSULATOR CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-182",
+    "variants": [
+      {
+        "description": "SPD, RING INSULATOR CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-034333-00",
+    "description": "CERAMIC LONG NOZZLE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-183",
+    "variants": [
+      {
+        "description": "CERAMIC LONG NOZZLE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-051711-25",
+    "description": "NOVELLUS, INJECTOR NOZZLE 63.5L 2, 5INCH",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-184",
+    "variants": [
+      {
+        "description": "NOVELLUS, INJECTOR NOZZLE 63.5L 2, 5INCH",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-052619-00",
+    "description": "RING TONG RING LIFT",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-185",
+    "variants": [
+      {
+        "description": "RING TONG RING LIFT",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-103651-01",
+    "description": "SPEED CERAMIC GUIDE PLATE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-186",
+    "variants": [
+      {
+        "description": "SPEED CERAMIC GUIDE PLATE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-108330-00",
+    "description": "SPRING MODIFY",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-187",
+    "variants": [
+      {
+        "description": "SPRING MODIFY",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-11606-00",
+    "description": "INSULATOR GASDIST CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-188",
+    "variants": [
+      {
+        "description": "INSULATOR GASDIST CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-250878-00",
+    "description": "SCREW,MORE,ALUMINA,10-32X",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-189",
+    "variants": [
+      {
+        "description": "SCREW,MORE,ALUMINA,10-32X",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-00043-02",
+    "description": "ADJUSTER, CERAMIC, GAS PLATE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-190",
+    "variants": [
+      {
+        "description": "ADJUSTER, CERAMIC, GAS PLATE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-00475-00",
+    "description": "INSULATOR GAS FEERTHRU CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-191",
+    "variants": [
+      {
+        "description": "INSULATOR GAS FEERTHRU CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-00558-01",
+    "description": "SLEEVE HTR LEAD 2.00\"(CERAMIC)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-192",
+    "variants": [
+      {
+        "description": "SLEEVE HTR LEAD 2.00\"(CERAMIC)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-00558-02",
+    "description": "SHIELD HEATER LEAD 2.75\"",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-193",
+    "variants": [
+      {
+        "description": "SHIELD HEATER LEAD 2.75\"",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-00700-00",
+    "description": "200MM CERAMIC BOTTOM PLATE(OEM DESIGN)",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-194",
+    "variants": [
+      {
+        "description": "200MM CERAMIC BOTTOM PLATE(OEM DESIGN)",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-00742-00",
+    "description": "TUBE TC CERAMIC",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-195",
+    "variants": [
+      {
+        "description": "TUBE TC CERAMIC",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMEC",
+    "partNo": "625-00264-000",
+    "description": "200MM PURGER RING",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-196",
+    "variants": [
+      {
+        "description": "200MM PURGER RING",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMEC",
+    "partNo": "625-08825-060",
+    "description": "MIDDLE LINER LEFT",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-197",
+    "variants": [
+      {
+        "description": "MIDDLE LINER LEFT",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-031535-005",
+    "description": "LID LINER",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-198",
+    "variants": [
+      {
+        "description": "LID LINER",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-031257-829",
+    "description": "8' BLADE BUFFER HP",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-199",
+    "variants": [
+      {
+        "description": "8' BLADE BUFFER HP",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "885-4300173-3",
+    "description": "CENTER PIN 202.4",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-200",
+    "variants": [
+      {
+        "description": "CENTER PIN 202.4",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "3690-11038",
+    "description": "OUTER RING 200MM",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-201",
+    "variants": [
+      {
+        "description": "OUTER RING 200MM",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0246-01192",
+    "description": "CERAMIC LINER MIDDLE",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-202",
+    "variants": [
+      {
+        "description": "CERAMIC LINER MIDDLE",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0399-00850",
+    "description": "ISOLATOR BLOCK DXZ 200MM",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-203",
+    "variants": [
+      {
+        "description": "ISOLATOR BLOCK DXZ 200MM",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0512-00627",
+    "description": "PIN WEIGHT",
+    "tool": "",
+    "size": "",
+    "material": "Al2O3",
+    "sourceSlide": 10,
+    "sourceTable": 2,
+    "id": "ceramic-204",
+    "variants": [
+      {
+        "description": "PIN WEIGHT",
+        "tool": "",
+        "size": "",
+        "material": "Al2O3",
+        "sourceSlide": 10,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00679",
+    "description": "CLAMP",
+    "tool": "",
+    "size": "",
+    "material": "AlN",
+    "sourceSlide": 10,
+    "sourceTable": 3,
+    "id": "ceramic-205",
+    "variants": [
+      {
+        "description": "CLAMP",
+        "tool": "",
+        "size": "",
+        "material": "AlN",
+        "sourceSlide": 10,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00680",
+    "description": "PIN",
+    "tool": "",
+    "size": "",
+    "material": "AlN",
+    "sourceSlide": 10,
+    "sourceTable": 3,
+    "id": "ceramic-206",
+    "variants": [
+      {
+        "description": "PIN",
+        "tool": "",
+        "size": "",
+        "material": "AlN",
+        "sourceSlide": 10,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-04302",
+    "description": "ALN SHADOW RING",
+    "tool": "",
+    "size": "",
+    "material": "AlN",
+    "sourceSlide": 10,
+    "sourceTable": 3,
+    "id": "ceramic-207",
+    "variants": [
+      {
+        "description": "ALN SHADOW RING",
+        "tool": "",
+        "size": "",
+        "material": "AlN",
+        "sourceSlide": 10,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-07156",
+    "description": "WINDOW FRONT ALN 360THK UWAVE",
+    "tool": "",
+    "size": "",
+    "material": "AlN",
+    "sourceSlide": 10,
+    "sourceTable": 3,
+    "id": "ceramic-208",
+    "variants": [
+      {
+        "description": "WINDOW FRONT ALN 360THK UWAVE",
+        "tool": "",
+        "size": "",
+        "material": "AlN",
+        "sourceSlide": 10,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-22486",
+    "description": "BLADE_TIO2",
+    "tool": "",
+    "size": "",
+    "material": "TiO2",
+    "sourceSlide": 10,
+    "sourceTable": 4,
+    "id": "ceramic-209",
+    "variants": [
+      {
+        "description": "BLADE_TIO2",
+        "tool": "",
+        "size": "",
+        "material": "TiO2",
+        "sourceSlide": 10,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-06355",
+    "description": "ROBOT BLADE CERAMIC(TiO2)",
+    "tool": "",
+    "size": "",
+    "material": "TiO2",
+    "sourceSlide": 10,
+    "sourceTable": 4,
+    "id": "ceramic-210",
+    "variants": [
+      {
+        "description": "ROBOT BLADE CERAMIC(TiO2)",
+        "tool": "",
+        "size": "",
+        "material": "TiO2",
+        "sourceSlide": 10,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-08347",
+    "description": "TIO2 BLADE",
+    "tool": "",
+    "size": "",
+    "material": "TiO2",
+    "sourceSlide": 10,
+    "sourceTable": 4,
+    "id": "ceramic-211",
+    "variants": [
+      {
+        "description": "TIO2 BLADE",
+        "tool": "",
+        "size": "",
+        "material": "TiO2",
+        "sourceSlide": 10,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-17144",
+    "description": "TIO2 BLADE",
+    "tool": "",
+    "size": "",
+    "material": "TiO2",
+    "sourceSlide": 10,
+    "sourceTable": 4,
+    "id": "ceramic-212",
+    "variants": [
+      {
+        "description": "TIO2 BLADE",
+        "tool": "",
+        "size": "",
+        "material": "TiO2",
+        "sourceSlide": 10,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-450605-11",
+    "description": "WINDOW GAS TEL VIGUS",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-213",
+    "variants": [
+      {
+        "description": "WINDOW GAS TEL VIGUS",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-406499-11",
+    "description": "WINDOW DEPO SAF 0.5 SP",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-214",
+    "variants": [
+      {
+        "description": "WINDOW DEPO SAF 0.5 SP",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-410333-1",
+    "description": "WINDOW GAS TEL VIGUS 2L MODIFY",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-215",
+    "variants": [
+      {
+        "description": "WINDOW GAS TEL VIGUS 2L MODIFY",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-800621-012",
+    "description": "PIN, 300MM PIN LIFT",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-216",
+    "variants": [
+      {
+        "description": "PIN, 300MM PIN LIFT",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-800621-021",
+    "description": "PIN, LEFR, SAPPHIRE, FLAT TOP",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-217",
+    "variants": [
+      {
+        "description": "PIN, LEFR, SAPPHIRE, FLAT TOP",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-01784",
+    "description": "ISOLATOR RF CERAMIC BLOCK",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-218",
+    "variants": [
+      {
+        "description": "ISOLATOR RF CERAMIC BLOCK",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-01195",
+    "description": "WINDOW; SHPPHIRE(31.8)",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-219",
+    "variants": [
+      {
+        "description": "WINDOW; SHPPHIRE(31.8)",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-71026",
+    "description": "WINDOW SIGHT GLASS",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-220",
+    "variants": [
+      {
+        "description": "WINDOW SIGHT GLASS",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "21-100610-00",
+    "description": "WHEEL, CENTERRING ALTUS 300MM",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-221",
+    "variants": [
+      {
+        "description": "WHEEL, CENTERRING ALTUS 300MM",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-054296-00",
+    "description": "PIN(SAPPHRE)",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-222",
+    "variants": [
+      {
+        "description": "PIN(SAPPHRE)",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-055546-04",
+    "description": "PIN WAFER LIFT HDP",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-223",
+    "variants": [
+      {
+        "description": "PIN WAFER LIFT HDP",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-260932-00",
+    "description": "SHIM SAPPHIRE",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-224",
+    "variants": [
+      {
+        "description": "SHIM SAPPHIRE",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-260932-01",
+    "description": "SHIM SAPPHIRE",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-225",
+    "variants": [
+      {
+        "description": "SHIM SAPPHIRE",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-260932-03",
+    "description": "SHIM SAPPHIRE",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-226",
+    "variants": [
+      {
+        "description": "SHIM SAPPHIRE",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-260932-05",
+    "description": "SHIM SAPPHIRE",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-227",
+    "variants": [
+      {
+        "description": "SHIM SAPPHIRE",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-260932-06",
+    "description": "SHIM SAPPHIRE",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-228",
+    "variants": [
+      {
+        "description": "SHIM SAPPHIRE",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-260932-07",
+    "description": "SHIM SAPPHIRE",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-229",
+    "variants": [
+      {
+        "description": "SHIM SAPPHIRE",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "NOVELLUS",
+    "partNo": "15-284674-00",
+    "description": "SAPPHIRE NOVELLUS EXELES",
+    "tool": "",
+    "size": "",
+    "material": "Sapphire",
+    "sourceSlide": 10,
+    "sourceTable": 6,
+    "id": "ceramic-230",
+    "variants": [
+      {
+        "description": "SAPPHIRE NOVELLUS EXELES",
+        "tool": "",
+        "size": "",
+        "material": "Sapphire",
+        "sourceSlide": 10,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  }
+]

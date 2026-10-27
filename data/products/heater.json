@@ -1,0 +1,2338 @@
+[
+  {
+    "oem": "AMAT",
+    "partNo": "0010-03840",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-1",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-03843",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-2",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-02342",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-3",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-64431",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-4",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-64434",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-5",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-51612",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-6",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-63358",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-7",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-61428",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-8",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-25415",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-9",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-07899",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-10",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-08901",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-11",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-35527",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-12",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-63224",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-13",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-37010",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-14",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-63221",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-15",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-02467",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-16",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-64556",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-17",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0190-03501",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-18",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-12282",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-19",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-00963",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-20",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-25323",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-21",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-21246",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-22",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-13626",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-23",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-25735",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-24",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-76152",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-25",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-70254",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 1,
+    "id": "heater-26",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-53901",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-27",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-59788",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-28",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-53618",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-29",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-83530",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-30",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-59796",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-31",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-59799",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-32",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-26264",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-33",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-59787",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-34",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-63447",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-35",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-27432",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-36",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-13703",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-37",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-49546",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-38",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-27433",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-39",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-15418",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-40",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-13225",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-41",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-19706",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-42",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-14173",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-43",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-12903",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-44",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-24057",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-45",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-17798",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-46",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0041-75950",
+    "description": "AlN Heater",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 2,
+    "id": "heater-47",
+    "variants": [
+      {
+        "description": "AlN Heater",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0041-34851",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-48",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-99952",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-49",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09942",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-50",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-51396",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-51",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09996",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-52",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0041-34854",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-53",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-99959",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-54",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0041-88046",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-55",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-02549",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-56",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-18136",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-57",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-10204",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-58",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-99949",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-59",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-10327",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-60",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0041-34688",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-61",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-99997",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-62",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0090-35112",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-63",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0090-35133",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-64",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-15668",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-65",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-15452",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-66",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-05965",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-67",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-39990",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-68",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0190-81399",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-69",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-40980",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-70",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-99964",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-71",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-10257",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-72",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09957",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-73",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09797",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-74",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-18053",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-75",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-54755",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-76",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-18208",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-77",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-18219",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-78",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-99998",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 3,
+    "id": "heater-79",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "839-440462-508",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH / 8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 4,
+    "id": "heater-80",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 4
+      },
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "839-440462-506",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 4,
+    "id": "heater-81",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "839-440462-106",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 4,
+    "id": "heater-82",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "839-036536-001",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "6 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 4,
+    "id": "heater-83",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "6 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "839-440462-108",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 4,
+    "id": "heater-84",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "831-102001-136",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 4,
+    "id": "heater-85",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-33215",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 4,
+    "id": "heater-86",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-48594",
+    "description": "AlN ESC",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 4,
+    "id": "heater-87",
+    "variants": [
+      {
+        "description": "AlN ESC",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-20225",
+    "description": "AlN Magnet",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 5,
+    "id": "heater-88",
+    "variants": [
+      {
+        "description": "AlN Magnet",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-20258",
+    "description": "AlN Magnet",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 5,
+    "id": "heater-89",
+    "variants": [
+      {
+        "description": "AlN Magnet",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-20328",
+    "description": "AlN Magnet",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 5,
+    "id": "heater-90",
+    "variants": [
+      {
+        "description": "AlN Magnet",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-21810",
+    "description": "AlN Magnet",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 5,
+    "id": "heater-91",
+    "variants": [
+      {
+        "description": "AlN Magnet",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-21844",
+    "description": "AlN Magnet",
+    "tool": "",
+    "size": "8 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 5,
+    "id": "heater-92",
+    "variants": [
+      {
+        "description": "AlN Magnet",
+        "tool": "",
+        "size": "8 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-03485",
+    "description": "AlN Magnet",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 5,
+    "id": "heater-93",
+    "variants": [
+      {
+        "description": "AlN Magnet",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-03486",
+    "description": "AlN Magnet",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 5,
+    "id": "heater-94",
+    "variants": [
+      {
+        "description": "AlN Magnet",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-03487",
+    "description": "AlN Magnet",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 5,
+    "id": "heater-95",
+    "variants": [
+      {
+        "description": "AlN Magnet",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-03488",
+    "description": "AlN Magnet",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 5,
+    "id": "heater-96",
+    "variants": [
+      {
+        "description": "AlN Magnet",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-25739",
+    "description": "AlN Magnet",
+    "tool": "",
+    "size": "12 INCH",
+    "material": "AlN",
+    "sourceSlide": 12,
+    "sourceTable": 5,
+    "id": "heater-97",
+    "variants": [
+      {
+        "description": "AlN Magnet",
+        "tool": "",
+        "size": "12 INCH",
+        "material": "AlN",
+        "sourceSlide": 12,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      12
+    ]
+  }
+]

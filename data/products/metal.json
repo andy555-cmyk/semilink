@@ -1,0 +1,6778 @@
+[
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00679",
+    "description": "CLAMP",
+    "tool": "",
+    "size": "",
+    "material": "Aluminum",
+    "sourceSlide": 10,
+    "sourceTable": 5,
+    "id": "metal-1",
+    "variants": [
+      {
+        "description": "CLAMP",
+        "tool": "",
+        "size": "",
+        "material": "Aluminum",
+        "sourceSlide": 10,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-00680",
+    "description": "PIN",
+    "tool": "",
+    "size": "",
+    "material": "Aluminum",
+    "sourceSlide": 10,
+    "sourceTable": 5,
+    "id": "metal-2",
+    "variants": [
+      {
+        "description": "PIN",
+        "tool": "",
+        "size": "",
+        "material": "Aluminum",
+        "sourceSlide": 10,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      10
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-09136",
+    "description": "HANGER LAMP MODULE",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-3",
+    "variants": [
+      {
+        "description": "HANGER LAMP MODULE",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-10219",
+    "description": "LID HANDLE MOUNT",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-4",
+    "variants": [
+      {
+        "description": "LID HANDLE MOUNT",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-09430",
+    "description": "COLLIMATOR 6\"",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-5",
+    "variants": [
+      {
+        "description": "COLLIMATOR 6\"",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-10221",
+    "description": "GAS CHANNEL COVER",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-6",
+    "variants": [
+      {
+        "description": "GAS CHANNEL COVER",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-09604",
+    "description": "HOUSING",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-7",
+    "variants": [
+      {
+        "description": "HOUSING",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-38119",
+    "description": "FACE PLATE DXZ DCVD CENTER HOLE",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-8",
+    "variants": [
+      {
+        "description": "FACE PLATE DXZ DCVD CENTER HOLE",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-10134",
+    "description": "MANIFOLD OUTPUT PL",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-9",
+    "variants": [
+      {
+        "description": "MANIFOLD OUTPUT PL",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-00906",
+    "description": "BASE,HEATER,NITRIDE550",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-10",
+    "variants": [
+      {
+        "description": "BASE,HEATER,NITRIDE550",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-10768",
+    "description": "BACK PLATE DOUBLE SEALING RING SLAMP",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-11",
+    "variants": [
+      {
+        "description": "BACK PLATE DOUBLE SEALING RING SLAMP",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-01075",
+    "description": "Base Connector Heater",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-12",
+    "variants": [
+      {
+        "description": "Base Connector Heater",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-10770",
+    "description": "BASE DOUBLE SEALING RING LAMP MODULE",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-13",
+    "variants": [
+      {
+        "description": "BASE DOUBLE SEALING RING LAMP MODULE",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09094",
+    "description": "CHAMBER 200MM CVD",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-14",
+    "variants": [
+      {
+        "description": "CHAMBER 200MM CVD",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-20340",
+    "description": "DOOR TRANSFER SLIT VALVE",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-15",
+    "variants": [
+      {
+        "description": "DOOR TRANSFER SLIT VALVE",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09095",
+    "description": "GAS BOX,WCVD",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-16",
+    "variants": [
+      {
+        "description": "GAS BOX,WCVD",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-23106",
+    "description": "CLEAR COVER, PVD CH",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-17",
+    "variants": [
+      {
+        "description": "CLEAR COVER, PVD CH",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09136",
+    "description": "CHAMBER 200MM BW",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-18",
+    "variants": [
+      {
+        "description": "CHAMBER 200MM BW",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-26961",
+    "description": "BLADE, 8\" BUFFER, THIN METAL",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-19",
+    "variants": [
+      {
+        "description": "BLADE, 8\" BUFFER, THIN METAL",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09286",
+    "description": "CHAMBER 4,5,6\" CV",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-20",
+    "variants": [
+      {
+        "description": "CHAMBER 4,5,6\" CV",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-30681",
+    "description": "MANIFOLD INPUT SACVD",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-21",
+    "variants": [
+      {
+        "description": "MANIFOLD INPUT SACVD",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09323",
+    "description": "GAS BOX UNIVERSAL LID",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-22",
+    "variants": [
+      {
+        "description": "GAS BOX UNIVERSAL LID",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-32259",
+    "description": "Gas Distribution Plate 119 hole",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-23",
+    "variants": [
+      {
+        "description": "Gas Distribution Plate 119 hole",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09723",
+    "description": "Unibody, Etch Chamber",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-24",
+    "variants": [
+      {
+        "description": "Unibody, Etch Chamber",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-34840",
+    "description": "REV MANIFOLD OUT WB",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-25",
+    "variants": [
+      {
+        "description": "REV MANIFOLD OUT WB",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-32073",
+    "description": "GAS BOX UNIVERSAL LID W/ALIGNMENT HOLES",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-26",
+    "variants": [
+      {
+        "description": "GAS BOX UNIVERSAL LID W/ALIGNMENT HOLES",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-38883",
+    "description": "HOUSING",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-27",
+    "variants": [
+      {
+        "description": "HOUSING",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-32676",
+    "description": "LID HANDLE",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-28",
+    "variants": [
+      {
+        "description": "LID HANDLE",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-75988",
+    "description": "LIFTER 200MM WAFER ORIENTER OPTIMA",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 1,
+    "id": "metal-29",
+    "variants": [
+      {
+        "description": "LIFTER 200MM WAFER ORIENTER OPTIMA",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-32680",
+    "description": "CHAMBER LID",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-30",
+    "variants": [
+      {
+        "description": "CHAMBER LID",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-03637",
+    "description": "FACEPLATE SILANE PRODUCER 200MM",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-31",
+    "variants": [
+      {
+        "description": "FACEPLATE SILANE PRODUCER 200MM",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-06044",
+    "description": "INSERT MIXING BLOCK FLUORINE GENERATOR",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-32",
+    "variants": [
+      {
+        "description": "INSERT MIXING BLOCK FLUORINE GENERATOR",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-09097",
+    "description": "PLATE,LINER ALGNMENT,VESPEL",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-33",
+    "variants": [
+      {
+        "description": "PLATE,LINER ALGNMENT,VESPEL",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-09104",
+    "description": "LOWER CHAMBER LINER",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-34",
+    "variants": [
+      {
+        "description": "LOWER CHAMBER LINER",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-09718",
+    "description": "LINER SLIT VALVE",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-35",
+    "variants": [
+      {
+        "description": "LINER SLIT VALVE",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-09787",
+    "description": "LID PUMPING PLATE SIN DXZ",
+    "tool": "P-5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-36",
+    "variants": [
+      {
+        "description": "LID PUMPING PLATE SIN DXZ",
+        "tool": "P-5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-10135",
+    "description": "MANIFOLD WATER PL",
+    "tool": "P-5000 CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-37",
+    "variants": [
+      {
+        "description": "MANIFOLD WATER PL",
+        "tool": "P-5000 CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-10936",
+    "description": "8 INCH BLOCKER PERF. PLATE, SILANE 200MM",
+    "tool": "P-5000 CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-38",
+    "variants": [
+      {
+        "description": "8 INCH BLOCKER PERF. PLATE, SILANE 200MM",
+        "tool": "P-5000 CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-30602",
+    "description": "PLUMBING PLATE, 200MM, SHADOW RING",
+    "tool": "P-5000 CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-39",
+    "variants": [
+      {
+        "description": "PLUMBING PLATE, 200MM, SHADOW RING",
+        "tool": "P-5000 CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-31035",
+    "description": "Manifold Input BWCVD, Gas Box, CVD Chamber",
+    "tool": "P-5000 CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-40",
+    "variants": [
+      {
+        "description": "Manifold Input BWCVD, Gas Box, CVD Chamber",
+        "tool": "P-5000 CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-39500",
+    "description": "HANDLE, MOLDED, PUMPING PLATE, DXZ",
+    "tool": "P-5000 CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-41",
+    "variants": [
+      {
+        "description": "HANDLE, MOLDED, PUMPING PLATE, DXZ",
+        "tool": "P-5000 CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-09760",
+    "description": "GAS BOX DXZ",
+    "tool": "P-5000 CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-42",
+    "variants": [
+      {
+        "description": "GAS BOX DXZ",
+        "tool": "P-5000 CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-10296",
+    "description": "OUTPUT MANIFOLD UNIV CH. W/ALIGN HOLES",
+    "tool": "P-5000 CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-43",
+    "variants": [
+      {
+        "description": "OUTPUT MANIFOLD UNIV CH. W/ALIGN HOLES",
+        "tool": "P-5000 CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-19495",
+    "description": "HOOP 200MM",
+    "tool": "P-5000 CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-44",
+    "variants": [
+      {
+        "description": "HOOP 200MM",
+        "tool": "P-5000 CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-34736",
+    "description": "MANIFOLD INPUT DXZ",
+    "tool": "P-5000 CVD DXZ",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-45",
+    "variants": [
+      {
+        "description": "MANIFOLD INPUT DXZ",
+        "tool": "P-5000 CVD DXZ",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-10589",
+    "description": "PLATE INTERNAL PUMPING CHNL ASP 200MM",
+    "tool": "P-5000 ETCH",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-46",
+    "variants": [
+      {
+        "description": "PLATE INTERNAL PUMPING CHNL ASP 200MM",
+        "tool": "P-5000 ETCH",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-22578",
+    "description": "COVER SYSTEM LEFT MANIFOLD GASLINES",
+    "tool": "P-5000 MXP",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-47",
+    "variants": [
+      {
+        "description": "COVER SYSTEM LEFT MANIFOLD GASLINES",
+        "tool": "P-5000 MXP",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-32260",
+    "description": "Gas Distribution Plate, 37 Hole",
+    "tool": "P-5000 MXP",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-48",
+    "variants": [
+      {
+        "description": "Gas Distribution Plate, 37 Hole",
+        "tool": "P-5000 MXP",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-33164",
+    "description": "HOUSING, THROTTLE VALVE",
+    "tool": "P-5000 MXP / CENTURA MXP",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-49",
+    "variants": [
+      {
+        "description": "HOUSING, THROTTLE VALVE",
+        "tool": "P-5000 MXP / CENTURA MXP",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-09007",
+    "description": "COVER UNI-LID SSGD MXP",
+    "tool": "P-5000 MXP METAL",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-50",
+    "variants": [
+      {
+        "description": "COVER UNI-LID SSGD MXP",
+        "tool": "P-5000 MXP METAL",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-30198",
+    "description": "TUBE EXTERNAL TAPERED EXT CATHODE",
+    "tool": "P-5000 MXP POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-51",
+    "variants": [
+      {
+        "description": "TUBE EXTERNAL TAPERED EXT CATHODE",
+        "tool": "P-5000 MXP POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-31493",
+    "description": "GAS DISTRIBUTION PLATE, 133 HOLES",
+    "tool": "P-5000 MXP POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-52",
+    "variants": [
+      {
+        "description": "GAS DISTRIBUTION PLATE, 133 HOLES",
+        "tool": "P-5000 MXP POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-19003",
+    "description": "INSERT SLIT VALVE SHO",
+    "tool": "SUPER-E",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-53",
+    "variants": [
+      {
+        "description": "INSERT SLIT VALVE SHO",
+        "tool": "SUPER-E",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-06092",
+    "description": "DOOR, SLIT LINER",
+    "tool": "SUPER-E",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-54",
+    "variants": [
+      {
+        "description": "DOOR, SLIT LINER",
+        "tool": "SUPER-E",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-34866",
+    "description": "LINER CATHODE MAG RING WAFFEL-LESS",
+    "tool": "SUPER-E",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 2,
+    "id": "metal-55",
+    "variants": [
+      {
+        "description": "LINER CATHODE MAG RING WAFFEL-LESS",
+        "tool": "SUPER-E",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-15683",
+    "description": "PLATE THROTTLE VALVE BLANK-OFF METAL",
+    "tool": "DPS METAL",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-56",
+    "variants": [
+      {
+        "description": "PLATE THROTTLE VALVE BLANK-OFF METAL",
+        "tool": "DPS METAL",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-31627",
+    "description": "FLANGE BASE ESC",
+    "tool": "DPS METAL",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-57",
+    "variants": [
+      {
+        "description": "FLANGE BASE ESC",
+        "tool": "DPS METAL",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-33804",
+    "description": "ADAPTER,GAS FEED,DPS MEC",
+    "tool": "DPS METAL",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-58",
+    "variants": [
+      {
+        "description": "ADAPTER,GAS FEED,DPS MEC",
+        "tool": "DPS METAL",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-33805",
+    "description": "COVER,GAS FEED,DPS MEC",
+    "tool": "DPS METAL",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-59",
+    "variants": [
+      {
+        "description": "COVER,GAS FEED,DPS MEC",
+        "tool": "DPS METAL",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-34431",
+    "description": "BRACKET, ENDPOINT, DPS MEC",
+    "tool": "DPS METAL",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-60",
+    "variants": [
+      {
+        "description": "BRACKET, ENDPOINT, DPS MEC",
+        "tool": "DPS METAL",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-01421",
+    "description": "DPS UPPER CHAMBER METAL",
+    "tool": "DPS METAL",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-61",
+    "variants": [
+      {
+        "description": "DPS UPPER CHAMBER METAL",
+        "tool": "DPS METAL",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-09601",
+    "description": "DPS UPPER CHAMBER METAL",
+    "tool": "DPS METAL",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-62",
+    "variants": [
+      {
+        "description": "DPS UPPER CHAMBER METAL",
+        "tool": "DPS METAL",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-38847",
+    "description": "BRACKET, ENDPOINT, POLY DPS-A3",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-63",
+    "variants": [
+      {
+        "description": "BRACKET, ENDPOINT, POLY DPS-A3",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-38849",
+    "description": "BRACKET, VIEW WINDOW, POLY DPS",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-64",
+    "variants": [
+      {
+        "description": "BRACKET, VIEW WINDOW, POLY DPS",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-38923",
+    "description": "ENDPOINT PLUG, DPS",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-65",
+    "variants": [
+      {
+        "description": "ENDPOINT PLUG, DPS",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-00540",
+    "description": "DPS POLY UPPER CHAMBER LID",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-66",
+    "variants": [
+      {
+        "description": "DPS POLY UPPER CHAMBER LID",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-32190",
+    "description": "BASE COOLING 200MM CATHODE DPS",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-67",
+    "variants": [
+      {
+        "description": "BASE COOLING 200MM CATHODE DPS",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-36625",
+    "description": "Cover, Side Lower Chamber, DPS",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-68",
+    "variants": [
+      {
+        "description": "Cover, Side Lower Chamber, DPS",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-36626",
+    "description": "CLAMP VIEWPORT LOWER CHAMBER DPS",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-69",
+    "variants": [
+      {
+        "description": "CLAMP VIEWPORT LOWER CHAMBER DPS",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-38851",
+    "description": "FILTER, UV, VIEW WINDOW, POLY DPS",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-70",
+    "variants": [
+      {
+        "description": "FILTER, UV, VIEW WINDOW, POLY DPS",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0050-38481",
+    "description": "BRACKET, MANOMETER, DPS MEC",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-71",
+    "variants": [
+      {
+        "description": "BRACKET, MANOMETER, DPS MEC",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-33806",
+    "description": "DPS UPPER CHAMBER POLY",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-72",
+    "variants": [
+      {
+        "description": "DPS UPPER CHAMBER POLY",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-13833",
+    "description": "DPS UPPER CHAMBER POLY",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-73",
+    "variants": [
+      {
+        "description": "DPS UPPER CHAMBER POLY",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-33808",
+    "description": "ADAPTER GAS FEED ASSY A3 DP",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-74",
+    "variants": [
+      {
+        "description": "ADAPTER GAS FEED ASSY A3 DP",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-33810",
+    "description": "COVER GAS FEED ASSY A3 DPS",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-75",
+    "variants": [
+      {
+        "description": "COVER GAS FEED ASSY A3 DPS",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-33815",
+    "description": "PLATE, BLANKOFF, DPS MEC",
+    "tool": "DPS POLY",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-76",
+    "variants": [
+      {
+        "description": "PLATE, BLANKOFF, DPS MEC",
+        "tool": "DPS POLY",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-03260",
+    "description": "DOOR, SLIT VALVE DOOR, EMAX",
+    "tool": "E-MAX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-77",
+    "variants": [
+      {
+        "description": "DOOR, SLIT VALVE DOOR, EMAX",
+        "tool": "E-MAX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-34865",
+    "description": "LINER DGDP CHAMBER WAFFLE-LESS 200MM",
+    "tool": "E-MAX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-78",
+    "variants": [
+      {
+        "description": "LINER DGDP CHAMBER WAFFLE-LESS 200MM",
+        "tool": "E-MAX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-79920",
+    "description": "LINER,CATHODE,MAG RING,WAFFLE-LESS, DIRECT-COOL",
+    "tool": "E-MAX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-79",
+    "variants": [
+      {
+        "description": "LINER,CATHODE,MAG RING,WAFFLE-LESS, DIRECT-COOL",
+        "tool": "E-MAX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-79925",
+    "description": "DOOR,SLIT VALVE,WAFFLE-LESS",
+    "tool": "E-MAX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-80",
+    "variants": [
+      {
+        "description": "DOOR,SLIT VALVE,WAFFLE-LESS",
+        "tool": "E-MAX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-50414",
+    "description": "DOOR,SLIT VALVE,WAFFLE-LESS",
+    "tool": "E-MAX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-81",
+    "variants": [
+      {
+        "description": "DOOR,SLIT VALVE,WAFFLE-LESS",
+        "tool": "E-MAX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-90491",
+    "description": "LINER CHAMBER 1.25 GAP 200MM EMAX",
+    "tool": "E-MAX CT +",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 19,
+    "sourceTable": 3,
+    "id": "metal-82",
+    "variants": [
+      {
+        "description": "LINER CHAMBER 1.25 GAP 200MM EMAX",
+        "tool": "E-MAX CT +",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 19,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      19
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-10767",
+    "description": "PLATE, COOLING WATER INLET, LAMP MODULE",
+    "tool": "ENDURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-83",
+    "variants": [
+      {
+        "description": "PLATE, COOLING WATER INLET, LAMP MODULE",
+        "tool": "ENDURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-10769",
+    "description": "PLUG SIDE COOLING WATER INLET, LAMP MODULE",
+    "tool": "ENDURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-84",
+    "variants": [
+      {
+        "description": "PLUG SIDE COOLING WATER INLET, LAMP MODULE",
+        "tool": "ENDURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09036",
+    "description": "SUPPORT BUS BAR",
+    "tool": "ENDURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-85",
+    "variants": [
+      {
+        "description": "SUPPORT BUS BAR",
+        "tool": "ENDURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-13963",
+    "description": "SUPPORT BUS BAR",
+    "tool": "ENDURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-86",
+    "variants": [
+      {
+        "description": "SUPPORT BUS BAR",
+        "tool": "ENDURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-09423",
+    "description": "BUS BAR, LAMP",
+    "tool": "ENDURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-87",
+    "variants": [
+      {
+        "description": "BUS BAR, LAMP",
+        "tool": "ENDURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-10162",
+    "description": "DIFFUSER 200MM",
+    "tool": "ENDURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-88",
+    "variants": [
+      {
+        "description": "DIFFUSER 200MM",
+        "tool": "ENDURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-22844",
+    "description": "PEDESTAL SHIELD, 8\" PRECLEAN",
+    "tool": "ENDURA 5500",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-89",
+    "variants": [
+      {
+        "description": "PEDESTAL SHIELD, 8\" PRECLEAN",
+        "tool": "ENDURA 5500",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-26588",
+    "description": "8 inch PCII ShielD",
+    "tool": "ENDURA 5500",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-90",
+    "variants": [
+      {
+        "description": "8 inch PCII ShielD",
+        "tool": "ENDURA 5500",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-26823",
+    "description": "SHIELD 6\" HTHU DEPO LOW KNEE",
+    "tool": "ENDURA 5500",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-91",
+    "variants": [
+      {
+        "description": "SHIELD 6\" HTHU DEPO LOW KNEE",
+        "tool": "ENDURA 5500",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-27123",
+    "description": "PEDESTAL, PCII 8\" SNNF",
+    "tool": "ENDURA 5500",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-92",
+    "variants": [
+      {
+        "description": "PEDESTAL, PCII 8\" SNNF",
+        "tool": "ENDURA 5500",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-20133",
+    "description": "COOLDOWN FLANGE",
+    "tool": "ENDURA 5500",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-93",
+    "variants": [
+      {
+        "description": "COOLDOWN FLANGE",
+        "tool": "ENDURA 5500",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-22274",
+    "description": "ADAPTER, REV 4.3/4.2 VECTRA IMP",
+    "tool": "ENDURA 5500",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-94",
+    "variants": [
+      {
+        "description": "ADAPTER, REV 4.3/4.2 VECTRA IMP",
+        "tool": "ENDURA 5500",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-26967",
+    "description": "PC II Gas Trench Cover",
+    "tool": "ENDURA PVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-95",
+    "variants": [
+      {
+        "description": "PC II Gas Trench Cover",
+        "tool": "ENDURA PVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-09139",
+    "description": "RETAINER SOCKET",
+    "tool": "ION IMPLANT",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-96",
+    "variants": [
+      {
+        "description": "RETAINER SOCKET",
+        "tool": "ION IMPLANT",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09558",
+    "description": "LID TOP AS",
+    "tool": "METAL ETCH",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-97",
+    "variants": [
+      {
+        "description": "LID TOP AS",
+        "tool": "METAL ETCH",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-09835",
+    "description": "LINER POLY MXP PLUS 1/4 THICK",
+    "tool": "MXP +",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-98",
+    "variants": [
+      {
+        "description": "LINER POLY MXP PLUS 1/4 THICK",
+        "tool": "MXP +",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-10223",
+    "description": "LINER CHAMBER CLAMP LID / OUTER CHAMBER LINER",
+    "tool": "MXP + / CENTURA MXP",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-99",
+    "variants": [
+      {
+        "description": "LINER CHAMBER CLAMP LID",
+        "tool": "MXP +",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      },
+      {
+        "description": "OUTER CHAMBER LINER",
+        "tool": "CENTURA MXP",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-31942",
+    "description": "MXP+ CHAMBER BODY",
+    "tool": "MXP +",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-100",
+    "variants": [
+      {
+        "description": "MXP+ CHAMBER BODY",
+        "tool": "MXP +",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-03568",
+    "description": "FACEPLATE 200MM SACVD",
+    "tool": "PRODUCER",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-101",
+    "variants": [
+      {
+        "description": "FACEPLATE 200MM SACVD",
+        "tool": "PRODUCER",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-00221",
+    "description": "CHAMBER STD 200MM(NIT)",
+    "tool": "PRODUCER",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-102",
+    "variants": [
+      {
+        "description": "CHAMBER STD 200MM(NIT)",
+        "tool": "PRODUCER",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-01618",
+    "description": "MANIFOLD, INPUT, 200MM",
+    "tool": "PRODUCER",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-103",
+    "variants": [
+      {
+        "description": "MANIFOLD, INPUT, 200MM",
+        "tool": "PRODUCER",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-01834",
+    "description": "MANIFOLD INPUT DXZ FLUORINE",
+    "tool": "PRODUCER",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-104",
+    "variants": [
+      {
+        "description": "MANIFOLD INPUT DXZ FLUORINE",
+        "tool": "PRODUCER",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-02520",
+    "description": "GAS BOX, SILANE, 200MM",
+    "tool": "PRODUCER",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-105",
+    "variants": [
+      {
+        "description": "GAS BOX, SILANE, 200MM",
+        "tool": "PRODUCER",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-39064",
+    "description": "SUPPORT CENTER RPS2 LID 200MM",
+    "tool": "PRODUCER",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-106",
+    "variants": [
+      {
+        "description": "SUPPORT CENTER RPS2 LID 200MM",
+        "tool": "PRODUCER",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-47723",
+    "description": "MANIFOLD OUTPUT 1 HOLE RIGHT 200MM",
+    "tool": "PRODUCER",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-107",
+    "variants": [
+      {
+        "description": "MANIFOLD OUTPUT 1 HOLE RIGHT 200MM",
+        "tool": "PRODUCER",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-47724",
+    "description": "MANIFOLD, OUTPUT, 1 HOLE, LEFT, 200MM",
+    "tool": "PRODUCER",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-108",
+    "variants": [
+      {
+        "description": "MANIFOLD, OUTPUT, 1 HOLE, LEFT, 200MM",
+        "tool": "PRODUCER",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-53927",
+    "description": "GAS BOX CHAMBER LID 200MM PRODUCER",
+    "tool": "PRODUCER",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-109",
+    "variants": [
+      {
+        "description": "GAS BOX CHAMBER LID 200MM PRODUCER",
+        "tool": "PRODUCER",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-89620",
+    "description": "BUFFER ROBOT BLADE",
+    "tool": "PRODUCER",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 1,
+    "id": "metal-110",
+    "variants": [
+      {
+        "description": "BUFFER ROBOT BLADE",
+        "tool": "PRODUCER",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-01572",
+    "description": "FACEPLATE GIGA-FILL SACVD BPSG CENT 23",
+    "tool": "CENTURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-111",
+    "variants": [
+      {
+        "description": "FACEPLATE GIGA-FILL SACVD BPSG CENT 23",
+        "tool": "CENTURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-09914",
+    "description": "PLATE,BLOCKER,DXZ SACVD",
+    "tool": "CENTURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-112",
+    "variants": [
+      {
+        "description": "PLATE,BLOCKER,DXZ SACVD",
+        "tool": "CENTURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-10666",
+    "description": "BLOCK GAS/WTR CHAMBER LID GIGA-FILL SACVD",
+    "tool": "CENTURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-113",
+    "variants": [
+      {
+        "description": "BLOCK GAS/WTR CHAMBER LID GIGA-FILL SACVD",
+        "tool": "CENTURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-02609",
+    "description": "LINER, CATHODE, MAGNET SUPER-E",
+    "tool": "CENTURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-114",
+    "variants": [
+      {
+        "description": "LINER, CATHODE, MAGNET SUPER-E",
+        "tool": "CENTURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-02954",
+    "description": "VDE MOUNTING RING",
+    "tool": "CENTURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-115",
+    "variants": [
+      {
+        "description": "VDE MOUNTING RING",
+        "tool": "CENTURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-2818",
+    "description": "BLOCK, MIXING, LID GIGA-FILL SACVD",
+    "tool": "CENTURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-116",
+    "variants": [
+      {
+        "description": "BLOCK, MIXING, LID GIGA-FILL SACVD",
+        "tool": "CENTURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-39619",
+    "description": "LID CLAMP SLIT VALVE DOOR 200MM",
+    "tool": "CENTURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-117",
+    "variants": [
+      {
+        "description": "LID CLAMP SLIT VALVE DOOR 200MM",
+        "tool": "CENTURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-52451",
+    "description": "FACE PLATE, BKM3 TXZ 200MM",
+    "tool": "CENTURA",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-118",
+    "variants": [
+      {
+        "description": "FACE PLATE, BKM3 TXZ 200MM",
+        "tool": "CENTURA",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-37053",
+    "description": "BRACKET RECESSED ENDPOINT WINDOW",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-119",
+    "variants": [
+      {
+        "description": "BRACKET RECESSED ENDPOINT WINDOW",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09893",
+    "description": "CHAMBER BODY R2 EDGES GAS FEED",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-120",
+    "variants": [
+      {
+        "description": "CHAMBER BODY R2 EDGES GAS FEED",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-33803",
+    "description": "PAD,FOOT UPPER CHAMBER DPSWMEC",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-121",
+    "variants": [
+      {
+        "description": "PAD,FOOT UPPER CHAMBER DPSWMEC",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-33998",
+    "description": "LINER, SLIT LINER DOOR",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-122",
+    "variants": [
+      {
+        "description": "LINER, SLIT LINER DOOR",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0190-28684",
+    "description": "LINER TEFLON RING",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-123",
+    "variants": [
+      {
+        "description": "LINER TEFLON RING",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-01412",
+    "description": "ACTULATOR ASS'Y-SLIT LINER DOOR",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-124",
+    "variants": [
+      {
+        "description": "ACTULATOR ASS'Y-SLIT LINER DOOR",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-30365",
+    "description": "ASSY TOWER LARGE",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-125",
+    "variants": [
+      {
+        "description": "ASSY TOWER LARGE",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0010-30366",
+    "description": "ASSY TOWER SMALL",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-126",
+    "variants": [
+      {
+        "description": "ASSY TOWER SMALL",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-10187",
+    "description": "CLAMP RING Q WINDOWS 200MM",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-127",
+    "variants": [
+      {
+        "description": "CLAMP RING Q WINDOWS 200MM",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-19002",
+    "description": "DOOR SLIT VALVE SHO",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-128",
+    "variants": [
+      {
+        "description": "DOOR SLIT VALVE SHO",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-23981",
+    "description": "SIDE RECEIVER",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-129",
+    "variants": [
+      {
+        "description": "SIDE RECEIVER",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-31774",
+    "description": "CYLINDER HOT INNER",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-130",
+    "variants": [
+      {
+        "description": "CYLINDER HOT INNER",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-34297",
+    "description": "TOP COVER SSGD R2 CHAMBER",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-131",
+    "variants": [
+      {
+        "description": "TOP COVER SSGD R2 CHAMBER",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-34694",
+    "description": "LINER GDP R2 OXIDEGECO",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-132",
+    "variants": [
+      {
+        "description": "LINER GDP R2 OXIDEGECO",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-34695",
+    "description": "LINER CATHODE FULL FLOW OXIDE ETCH",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-133",
+    "variants": [
+      {
+        "description": "LINER CATHODE FULL FLOW OXIDE ETCH",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-38055",
+    "description": "SUPPORT PEDESTAL / EXTERNAL CATHODE",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-134",
+    "variants": [
+      {
+        "description": "SUPPORT PEDESTAL / EXTERNAL CATHODE",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-75041",
+    "description": "DOOR LOAD LOCK PLATE",
+    "tool": "CENTURA 5200",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-135",
+    "variants": [
+      {
+        "description": "DOOR LOAD LOCK PLATE",
+        "tool": "CENTURA 5200",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-77343",
+    "description": "FLEXURE",
+    "tool": "CMP",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 2,
+    "id": "metal-136",
+    "variants": [
+      {
+        "description": "FLEXURE",
+        "tool": "CMP",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-09525",
+    "description": "PORT,VACUUM,WINDOW,ASP",
+    "tool": "CENTURA 5200 R2 / P-5000 R2",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-137",
+    "variants": [
+      {
+        "description": "PORT,VACUUM,WINDOW,ASP",
+        "tool": "CENTURA 5200 R2 / P-5000 R2",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-31885",
+    "description": "SHIELD FRONT",
+    "tool": "CENTURA 5200 R2 / P-5000 R2 5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-138",
+    "variants": [
+      {
+        "description": "SHIELD FRONT",
+        "tool": "CENTURA 5200 R2 / P-5000 R2 5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-31886",
+    "description": "SHIELD LEFT",
+    "tool": "CENTURA 5200 R2 / P-5000 R2 5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-139",
+    "variants": [
+      {
+        "description": "SHIELD LEFT",
+        "tool": "CENTURA 5200 R2 / P-5000 R2 5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-31887",
+    "description": "SHIELD-REAR RIGHT R2 5000",
+    "tool": "CENTURA 5200 R2 / P-5000 R2 5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-140",
+    "variants": [
+      {
+        "description": "SHIELD-REAR RIGHT R2 5000",
+        "tool": "CENTURA 5200 R2 / P-5000 R2 5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-31888",
+    "description": "SHIELD REAR LEFT R2 5000",
+    "tool": "CENTURA 5200 R2 / P-5000 R2 5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-141",
+    "variants": [
+      {
+        "description": "SHIELD REAR LEFT R2 5000",
+        "tool": "CENTURA 5200 R2 / P-5000 R2 5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-31889",
+    "description": "SHIELD RIGHT",
+    "tool": "CENTURA 5200 R2 / P-5000 R2 5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-142",
+    "variants": [
+      {
+        "description": "SHIELD RIGHT",
+        "tool": "CENTURA 5200 R2 / P-5000 R2 5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-31890",
+    "description": "COVER SHIELD FRONT",
+    "tool": "CENTURA 5200 R2 / P-5000 R2 5000",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-143",
+    "variants": [
+      {
+        "description": "COVER SHIELD FRONT",
+        "tool": "CENTURA 5200 R2 / P-5000 R2 5000",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-31953",
+    "description": "ADAPTER GV LOWER CHAMBER DPS MEC",
+    "tool": "CENTURA DPS",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-144",
+    "variants": [
+      {
+        "description": "ADAPTER GV LOWER CHAMBER DPS MEC",
+        "tool": "CENTURA DPS",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-32117",
+    "description": "HOUSING INNER THROTTLE VALVE",
+    "tool": "CENTURA DXZ CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-145",
+    "variants": [
+      {
+        "description": "HOUSING INNER THROTTLE VALVE",
+        "tool": "CENTURA DXZ CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-04793",
+    "description": "SPOOL EXHAUST CHAMBER TICL4 TIN",
+    "tool": "CENTURA DXZ CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-146",
+    "variants": [
+      {
+        "description": "SPOOL EXHAUST CHAMBER TICL4 TIN",
+        "tool": "CENTURA DXZ CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-06043",
+    "description": "ADAPTOR DXZ TOP MOUNT FLOURINE GENERATOR",
+    "tool": "CENTURA DXZ CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-147",
+    "variants": [
+      {
+        "description": "ADAPTOR DXZ TOP MOUNT FLOURINE GENERATOR",
+        "tool": "CENTURA DXZ CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-09761",
+    "description": "GAS BOX, SIN, DXZ",
+    "tool": "CENTURA DXZ CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-148",
+    "variants": [
+      {
+        "description": "GAS BOX, SIN, DXZ",
+        "tool": "CENTURA DXZ CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-01783",
+    "description": "ADAPTER GAS LINE DXZ",
+    "tool": "CENTURA DXZ CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-149",
+    "variants": [
+      {
+        "description": "ADAPTER GAS LINE DXZ",
+        "tool": "CENTURA DXZ CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-53913",
+    "description": "MANIFOLD OUTPUT MIXING DXZ FLUORINE",
+    "tool": "CENTURA DXZ CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-150",
+    "variants": [
+      {
+        "description": "MANIFOLD OUTPUT MIXING DXZ FLUORINE",
+        "tool": "CENTURA DXZ CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-09138",
+    "description": "SOCKET LAMP",
+    "tool": "CENTURA DXZ CVD/Ultima HDP-CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-151",
+    "variants": [
+      {
+        "description": "SOCKET LAMP",
+        "tool": "CENTURA DXZ CVD/Ultima HDP-CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-36022",
+    "description": "TXZ OUTPUT MANIFOLD",
+    "tool": "CENTURA DXZ/TXZ CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-152",
+    "variants": [
+      {
+        "description": "TXZ OUTPUT MANIFOLD",
+        "tool": "CENTURA DXZ/TXZ CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-64327",
+    "description": "HOUSING, GRIP ACTION SUSCEPTOR SUPPORT SHAFT",
+    "tool": "CENTURA EPI",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-153",
+    "variants": [
+      {
+        "description": "HOUSING, GRIP ACTION SUSCEPTOR SUPPORT SHAFT",
+        "tool": "CENTURA EPI",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-35132",
+    "description": "BASE PLATE EPI CHAMBER",
+    "tool": "CENTURA EPI",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-154",
+    "variants": [
+      {
+        "description": "BASE PLATE EPI CHAMBER",
+        "tool": "CENTURA EPI",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-61877",
+    "description": "LID, PUMPING PLATE, TEOS, GIGAFIL, SACVD",
+    "tool": "CENTURA GIGAFILL SACVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-155",
+    "variants": [
+      {
+        "description": "LID, PUMPING PLATE, TEOS, GIGAFIL, SACVD",
+        "tool": "CENTURA GIGAFILL SACVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-32046",
+    "description": "BASE EXTENSION ESC FOCUS RING",
+    "tool": "CENTURA MXP",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-156",
+    "variants": [
+      {
+        "description": "BASE EXTENSION ESC FOCUS RING",
+        "tool": "CENTURA MXP",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-38663",
+    "description": "SPACER,SLIT VALVE MXP CENTURA",
+    "tool": "CENTURA MXP",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-157",
+    "variants": [
+      {
+        "description": "SPACER,SLIT VALVE MXP CENTURA",
+        "tool": "CENTURA MXP",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-04993",
+    "description": "BLOCK GAS FEED",
+    "tool": "ULTIMA HDP-CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-158",
+    "variants": [
+      {
+        "description": "BLOCK GAS FEED",
+        "tool": "ULTIMA HDP-CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-31108",
+    "description": "ADAPTER STRAIN RELIEF PRSP3",
+    "tool": "ULTIMA HDP-CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-159",
+    "variants": [
+      {
+        "description": "ADAPTER STRAIN RELIEF PRSP3",
+        "tool": "ULTIMA HDP-CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-04650",
+    "description": "RING, SYM. GAS DIST. 24 PORTS, ULTIMA",
+    "tool": "ULTIMA HDP-CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-160",
+    "variants": [
+      {
+        "description": "RING, SYM. GAS DIST. 24 PORTS, ULTIMA",
+        "tool": "ULTIMA HDP-CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-62900",
+    "description": "CENTER GAS FEED BLOCK TOP CLEAN ULTIMA1",
+    "tool": "ULTIMA HDP-CVD",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 20,
+    "sourceTable": 3,
+    "id": "metal-161",
+    "variants": [
+      {
+        "description": "CENTER GAS FEED BLOCK TOP CLEAN ULTIMA1",
+        "tool": "ULTIMA HDP-CVD",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 20,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      20
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-331211-002",
+    "description": "LINER, CHAMBER",
+    "tool": "TCP",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-162",
+    "variants": [
+      {
+        "description": "LINER, CHAMBER",
+        "tool": "TCP",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-330394-001",
+    "description": "BRKT, FXTR, QTZ LINER",
+    "tool": "TCP 9400",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-163",
+    "variants": [
+      {
+        "description": "BRKT, FXTR, QTZ LINER",
+        "tool": "TCP 9400",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "718-092326-082",
+    "description": "ELECTRODE, CAP, ESC 8 INCH FLATTED REV B",
+    "tool": "TCP 9400 / 9600",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-164",
+    "variants": [
+      {
+        "description": "ELECTRODE, CAP, ESC 8 INCH FLATTED REV B",
+        "tool": "TCP 9400 / 9600",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-028306-001",
+    "description": "PLUNGER SET",
+    "tool": "TCP 9400 / 9608",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-165",
+    "variants": [
+      {
+        "description": "PLUNGER SET",
+        "tool": "TCP 9400 / 9608",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-330236-001",
+    "description": "6\" SPLIT CHAMBER",
+    "tool": "TCP 9400 / 9608 / 6INCH",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-166",
+    "variants": [
+      {
+        "description": "6\" SPLIT CHAMBER",
+        "tool": "TCP 9400 / 9608 / 6INCH",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-031507-002",
+    "description": "HOUSING LOWER REACTION CHAMBER",
+    "tool": "TCP 9608",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-167",
+    "variants": [
+      {
+        "description": "HOUSING LOWER REACTION CHAMBER",
+        "tool": "TCP 9608",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-12101-008",
+    "description": "ARMHOLDER(XLL)",
+    "tool": "TCP 9608",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-168",
+    "variants": [
+      {
+        "description": "ARMHOLDER(XLL)",
+        "tool": "TCP 9608",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-028552-001",
+    "description": "Upper Electrode Ring Clamp",
+    "tool": "TCP 9400 PTX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-169",
+    "variants": [
+      {
+        "description": "Upper Electrode Ring Clamp",
+        "tool": "TCP 9400 PTX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-330135-002",
+    "description": "BOTTOM GAS FEED RING",
+    "tool": "TCP 9400 PTX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-170",
+    "variants": [
+      {
+        "description": "BOTTOM GAS FEED RING",
+        "tool": "TCP 9400 PTX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-330825-006",
+    "description": "LINER, CHAMBER, AL, EXTEND ALLI",
+    "tool": "TCP 9400 PTX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-171",
+    "variants": [
+      {
+        "description": "LINER, CHAMBER, AL, EXTEND ALLI",
+        "tool": "TCP 9400 PTX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-330984-001",
+    "description": "GAS INJ FXD GAP BOTTOM RING",
+    "tool": "TCP 9400 PTX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-172",
+    "variants": [
+      {
+        "description": "GAS INJ FXD GAP BOTTOM RING",
+        "tool": "TCP 9400 PTX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-331218-001",
+    "description": "BELLOWS COLLAR NUT",
+    "tool": "TCP 9400 PTX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-173",
+    "variants": [
+      {
+        "description": "BELLOWS COLLAR NUT",
+        "tool": "TCP 9400 PTX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-030329-002",
+    "description": "CHAMBER LINER",
+    "tool": "TCP 9400 SE",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-174",
+    "variants": [
+      {
+        "description": "CHAMBER LINER",
+        "tool": "TCP 9400 SE",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-330135-001",
+    "description": "GAS INJECTION RING",
+    "tool": "TCP 9400 SE",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-175",
+    "variants": [
+      {
+        "description": "GAS INJECTION RING",
+        "tool": "TCP 9400 SE",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "714-495015-001",
+    "description": "liner transition manifold (vacuum u-lin)",
+    "tool": "TCP 9600 PTX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-176",
+    "variants": [
+      {
+        "description": "liner transition manifold (vacuum u-lin)",
+        "tool": "TCP 9600 PTX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-330889-002",
+    "description": "RING GROUND CHAMBER",
+    "tool": "TCP 9600 PTX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-177",
+    "variants": [
+      {
+        "description": "RING GROUND CHAMBER",
+        "tool": "TCP 9600 PTX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-495014-001",
+    "description": "CHAMBER TUNNEL LINER",
+    "tool": "TCP 9600 PTX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-178",
+    "variants": [
+      {
+        "description": "CHAMBER TUNNEL LINER",
+        "tool": "TCP 9600 PTX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "839-495013-001",
+    "description": "LINER, CHAMBER VAT65 TRNSN MANF",
+    "tool": "TCP 9600 PTX",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-179",
+    "variants": [
+      {
+        "description": "LINER, CHAMBER VAT65 TRNSN MANF",
+        "tool": "TCP 9600 PTX",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "714-330982-001",
+    "description": "LINER CHAMBER",
+    "tool": "TCP 9600 SE",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-180",
+    "variants": [
+      {
+        "description": "LINER CHAMBER",
+        "tool": "TCP 9600 SE",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-028405-001",
+    "description": "LOWER CHAMBER HOUSING",
+    "tool": "TCP 9600 SE",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-181",
+    "variants": [
+      {
+        "description": "LOWER CHAMBER HOUSING",
+        "tool": "TCP 9600 SE",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-330981-001",
+    "description": "LINER WIN SIDE",
+    "tool": "TCP 9600 SE",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-182",
+    "variants": [
+      {
+        "description": "LINER WIN SIDE",
+        "tool": "TCP 9600 SE",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-330982-002",
+    "description": "LINER PUMP PORT O-SHAPE",
+    "tool": "TCP 9600 SE",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 1,
+    "id": "metal-183",
+    "variants": [
+      {
+        "description": "LINER PUMP PORT O-SHAPE",
+        "tool": "TCP 9600 SE",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-011629-006",
+    "description": "ANODE",
+    "tool": "RAINBOW 4400",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-184",
+    "variants": [
+      {
+        "description": "ANODE",
+        "tool": "RAINBOW 4400",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-011673-006",
+    "description": "DOME ELECTRODE",
+    "tool": "RAINBOW 4400",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-185",
+    "variants": [
+      {
+        "description": "DOME ELECTRODE",
+        "tool": "RAINBOW 4400",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-011531-014",
+    "description": "ELECTRODE,ALUM.ANODE 8\"",
+    "tool": "RAINBOW 4426",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-186",
+    "variants": [
+      {
+        "description": "ELECTRODE,ALUM.ANODE 8\"",
+        "tool": "RAINBOW 4426",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-030136-003",
+    "description": "HOT EDGE RING",
+    "tool": "RAINBOW 4426",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-187",
+    "variants": [
+      {
+        "description": "HOT EDGE RING",
+        "tool": "RAINBOW 4426",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-140286-001",
+    "description": "FOCUS RING",
+    "tool": "RAINBOW 4426",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-188",
+    "variants": [
+      {
+        "description": "FOCUS RING",
+        "tool": "RAINBOW 4426",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-030136-001",
+    "description": "CERAMIC EDGE RING",
+    "tool": "RAINBOW 4428 / 6INCH",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-189",
+    "variants": [
+      {
+        "description": "CERAMIC EDGE RING",
+        "tool": "RAINBOW 4428 / 6INCH",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-018991-208",
+    "description": "ELECTRODE ALUMINUM ANODIZED",
+    "tool": "RAINBOW 44288XL",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-190",
+    "variants": [
+      {
+        "description": "ELECTRODE ALUMINUM ANODIZED",
+        "tool": "RAINBOW 44288XL",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-028554-002",
+    "description": "PLATE UPPER SEAL 8INCH ELECTRODE",
+    "tool": "RAINBOW 4728",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-191",
+    "variants": [
+      {
+        "description": "PLATE UPPER SEAL 8INCH ELECTRODE",
+        "tool": "RAINBOW 4728",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-11035-002",
+    "description": "PLATE LOWER END CHAMBER BASE",
+    "tool": "RAINBOW 4728",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-192",
+    "variants": [
+      {
+        "description": "PLATE LOWER END CHAMBER BASE",
+        "tool": "RAINBOW 4728",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-12110-001",
+    "description": "ARM SHAFT COVER LOWER",
+    "tool": "RAINBOW 4728",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-193",
+    "variants": [
+      {
+        "description": "ARM SHAFT COVER LOWER",
+        "tool": "RAINBOW 4728",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-12205-002",
+    "description": "BELLOWS HOUSING",
+    "tool": "RAINBOW 4728",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-194",
+    "variants": [
+      {
+        "description": "BELLOWS HOUSING",
+        "tool": "RAINBOW 4728",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-12233-002",
+    "description": "GATE INNER DOOR HD ANODIZE",
+    "tool": "RAINBOW 4728",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-195",
+    "variants": [
+      {
+        "description": "GATE INNER DOOR HD ANODIZE",
+        "tool": "RAINBOW 4728",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-011622-001",
+    "description": "Lifter Wafer, 4 Pin, 8″",
+    "tool": "RAINBOW 4728",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-196",
+    "variants": [
+      {
+        "description": "Lifter Wafer, 4 Pin, 8″",
+        "tool": "RAINBOW 4728",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-S073200-001",
+    "description": "DEPOSITION COVER",
+    "tool": "KK-482",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-197",
+    "variants": [
+      {
+        "description": "DEPOSITION COVER",
+        "tool": "KK-482",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-S073234-002",
+    "description": "DEPOSITION UPPER R/C",
+    "tool": "KK-485",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-198",
+    "variants": [
+      {
+        "description": "DEPOSITION UPPER R/C",
+        "tool": "KK-485",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-S073234-003",
+    "description": "DEPOSITION COVER R/C",
+    "tool": "KK-485",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-199",
+    "variants": [
+      {
+        "description": "DEPOSITION COVER R/C",
+        "tool": "KK-485",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-140287-002",
+    "description": "CLAMP RING UPPER ELECTRODE",
+    "tool": "Exelan",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-200",
+    "variants": [
+      {
+        "description": "CLAMP RING UPPER ELECTRODE",
+        "tool": "Exelan",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-140287-003",
+    "description": "RING CLAMP UPPER ELECTRODE",
+    "tool": "Exelan",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 21,
+    "sourceTable": 2,
+    "id": "metal-201",
+    "variants": [
+      {
+        "description": "RING CLAMP UPPER ELECTRODE",
+        "tool": "Exelan",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 21,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      21
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-120695-12",
+    "description": "SHIELD DEPO 85DRM",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-202",
+    "variants": [
+      {
+        "description": "SHIELD DEPO 85DRM",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-500139-11",
+    "description": "UPPER ELECTRODE",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-203",
+    "variants": [
+      {
+        "description": "UPPER ELECTRODE",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-221024-14",
+    "description": "UPPER COOLING PLATE",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-204",
+    "variants": [
+      {
+        "description": "UPPER COOLING PLATE",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D80-000760-11",
+    "description": "APC BUTTERFLY PLATE",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-205",
+    "variants": [
+      {
+        "description": "APC BUTTERFLY PLATE",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-221584-12",
+    "description": "UPPER COOLING PLATE",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-206",
+    "variants": [
+      {
+        "description": "UPPER COOLING PLATE",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-100670-13",
+    "description": "UPPER ELECTRODE",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-207",
+    "variants": [
+      {
+        "description": "UPPER ELECTRODE",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-101398-12",
+    "description": "SHIELD DEPO 85DRM",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-208",
+    "variants": [
+      {
+        "description": "SHIELD DEPO 85DRM",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-101748-11",
+    "description": "PLATE BAFFLE E",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-209",
+    "variants": [
+      {
+        "description": "PLATE BAFFLE E",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-201588-12",
+    "description": "UPPER ELECTRODE, P",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-210",
+    "variants": [
+      {
+        "description": "UPPER ELECTRODE, P",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-201595-15",
+    "description": "SHIELD DEPO 85DRM",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-211",
+    "variants": [
+      {
+        "description": "SHIELD DEPO 85DRM",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-202204-11",
+    "description": "UPPER ELECTRODE",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-212",
+    "variants": [
+      {
+        "description": "UPPER ELECTRODE",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-204619-11",
+    "description": "COVER BELLOW A-5",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-213",
+    "variants": [
+      {
+        "description": "COVER BELLOW A-5",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-302209-15",
+    "description": "FOCUS RING 8”",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-214",
+    "variants": [
+      {
+        "description": "FOCUS RING 8”",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-303124-21",
+    "description": "SHIELD DEPO 85-2",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-215",
+    "variants": [
+      {
+        "description": "SHIELD DEPO 85-2",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-308540-12",
+    "description": "SUPPORT SHIELD DEPO CE-Y",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-216",
+    "variants": [
+      {
+        "description": "SUPPORT SHIELD DEPO CE-Y",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-309697-11",
+    "description": "WINDOW PLATE",
+    "tool": "DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 1,
+    "id": "metal-217",
+    "variants": [
+      {
+        "description": "WINDOW PLATE",
+        "tool": "DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-200733-11",
+    "description": "SHIELD RING",
+    "tool": "DRM2",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 2,
+    "id": "metal-218",
+    "variants": [
+      {
+        "description": "SHIELD RING",
+        "tool": "DRM2",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-201429-15",
+    "description": "UPPER ELECTRODE",
+    "tool": "DRM2",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 2,
+    "id": "metal-219",
+    "variants": [
+      {
+        "description": "UPPER ELECTRODE",
+        "tool": "DRM2",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-202177-12",
+    "description": "UPPER ELECTRODE",
+    "tool": "DRM2",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 2,
+    "id": "metal-220",
+    "variants": [
+      {
+        "description": "UPPER ELECTRODE",
+        "tool": "DRM2",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-303124-14",
+    "description": "SHIELD DEPO 85-2",
+    "tool": "DRM2",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 2,
+    "id": "metal-221",
+    "variants": [
+      {
+        "description": "SHIELD DEPO 85-2",
+        "tool": "DRM2",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1805-22008-11",
+    "description": "VIEW PORT",
+    "tool": "UNITY-ll DI",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 2,
+    "id": "metal-222",
+    "variants": [
+      {
+        "description": "VIEW PORT",
+        "tool": "UNITY-ll DI",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-223289-13",
+    "description": "EXHAUST SLIT",
+    "tool": "UNITY-ll DI",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 2,
+    "id": "metal-223",
+    "variants": [
+      {
+        "description": "EXHAUST SLIT",
+        "tool": "UNITY-ll DI",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-223352-11",
+    "description": "ETCH CHAMBER LINER",
+    "tool": "UNITY-ll DI",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 2,
+    "id": "metal-224",
+    "variants": [
+      {
+        "description": "ETCH CHAMBER LINER",
+        "tool": "UNITY-ll DI",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-325569-13",
+    "description": "Wall Aluminum Chamber, Upper, Ground",
+    "tool": "UNITY-ll DI",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 2,
+    "id": "metal-225",
+    "variants": [
+      {
+        "description": "Wall Aluminum Chamber, Upper, Ground",
+        "tool": "UNITY-ll DI",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-325571-14",
+    "description": "EXHAUST PLATE RIGHT",
+    "tool": "UNITY-ll DI",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 2,
+    "id": "metal-226",
+    "variants": [
+      {
+        "description": "EXHAUST PLATE RIGHT",
+        "tool": "UNITY-ll DI",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-325572-14",
+    "description": "EXHAUST PLATE LEFT",
+    "tool": "UNITY-ll DI",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 2,
+    "id": "metal-227",
+    "variants": [
+      {
+        "description": "EXHAUST PLATE LEFT",
+        "tool": "UNITY-ll DI",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-101475-11",
+    "description": "PLATE BAFFLE 0-15",
+    "tool": "UNITY-ll DRM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 2,
+    "id": "metal-228",
+    "variants": [
+      {
+        "description": "PLATE BAFFLE 0-15",
+        "tool": "UNITY-ll DRM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-224912-11",
+    "description": "COOLING PLATE",
+    "tool": "8500 SCCM",
+    "size": "8 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 22,
+    "sourceTable": 2,
+    "id": "metal-229",
+    "variants": [
+      {
+        "description": "COOLING PLATE",
+        "tool": "8500 SCCM",
+        "size": "8 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 22,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      22
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-41703",
+    "description": "SLIT Valve Door",
+    "tool": "DPSⅡ",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 1,
+    "id": "metal-230",
+    "variants": [
+      {
+        "description": "SLIT Valve Door",
+        "tool": "DPSⅡ",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-88340",
+    "description": "Upper Chamber Liner",
+    "tool": "DPSⅡ Metal",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 1,
+    "id": "metal-231",
+    "variants": [
+      {
+        "description": "Upper Chamber Liner",
+        "tool": "DPSⅡ Metal",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-42764",
+    "description": "Metal Lower Liner",
+    "tool": "DPS (OPUS)",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 1,
+    "id": "metal-232",
+    "variants": [
+      {
+        "description": "Metal Lower Liner",
+        "tool": "DPS (OPUS)",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-08152",
+    "description": "Metal Lower Liner",
+    "tool": "DPS (OPUS)",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 1,
+    "id": "metal-233",
+    "variants": [
+      {
+        "description": "Metal Lower Liner",
+        "tool": "DPS (OPUS)",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0041-89596",
+    "description": "CATHDOE SLEEVE",
+    "tool": "SYM3",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 1,
+    "id": "metal-234",
+    "variants": [
+      {
+        "description": "CATHDOE SLEEVE",
+        "tool": "SYM3",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0042-09479",
+    "description": "CATHDOE SLEEVE",
+    "tool": "SYM3",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 1,
+    "id": "metal-235",
+    "variants": [
+      {
+        "description": "CATHDOE SLEEVE",
+        "tool": "SYM3",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0022-24163",
+    "description": "SLIT LINER DOOR",
+    "tool": "SYM3",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 1,
+    "id": "metal-236",
+    "variants": [
+      {
+        "description": "SLIT LINER DOOR",
+        "tool": "SYM3",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0022-40749",
+    "description": "PLASMA SCREEN",
+    "tool": "SYM3",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 1,
+    "id": "metal-237",
+    "variants": [
+      {
+        "description": "PLASMA SCREEN",
+        "tool": "SYM3",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0042-09489",
+    "description": "SINGLE SLIT LINER",
+    "tool": "SYM3",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 1,
+    "id": "metal-238",
+    "variants": [
+      {
+        "description": "SINGLE SLIT LINER",
+        "tool": "SYM3",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0041-52723",
+    "description": "LINER,LOWER CATHODE",
+    "tool": "SYM3",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 1,
+    "id": "metal-239",
+    "variants": [
+      {
+        "description": "LINER,LOWER CATHODE",
+        "tool": "SYM3",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-52965",
+    "description": "Slit Door Liner",
+    "tool": "Emax CT+",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 2,
+    "id": "metal-240",
+    "variants": [
+      {
+        "description": "Slit Door Liner",
+        "tool": "Emax CT+",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-26626",
+    "description": "Insulator External",
+    "tool": "Emax CT+",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 2,
+    "id": "metal-241",
+    "variants": [
+      {
+        "description": "Insulator External",
+        "tool": "Emax CT+",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-79926",
+    "description": "SGD,INNER COOLING PLATE",
+    "tool": "Emax CT+",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 2,
+    "id": "metal-242",
+    "variants": [
+      {
+        "description": "SGD,INNER COOLING PLATE",
+        "tool": "Emax CT+",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-79927",
+    "description": "SGD,OUTER COOLING PLATE",
+    "tool": "Emax CT+",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 2,
+    "id": "metal-243",
+    "variants": [
+      {
+        "description": "SGD,OUTER COOLING PLATE",
+        "tool": "Emax CT+",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-82895",
+    "description": "Wall Liner",
+    "tool": "Emax CT+",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 2,
+    "id": "metal-244",
+    "variants": [
+      {
+        "description": "Wall Liner",
+        "tool": "Emax CT+",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-83331",
+    "description": "Cathode Liner",
+    "tool": "Emax CT+",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 2,
+    "id": "metal-245",
+    "variants": [
+      {
+        "description": "Cathode Liner",
+        "tool": "Emax CT+",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-85138",
+    "description": "PRODUCER MESH",
+    "tool": "Emax CT+",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 2,
+    "id": "metal-246",
+    "variants": [
+      {
+        "description": "PRODUCER MESH",
+        "tool": "Emax CT+",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-26909",
+    "description": "PRODUCER MESH",
+    "tool": "Emax CT+",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 2,
+    "id": "metal-247",
+    "variants": [
+      {
+        "description": "PRODUCER MESH",
+        "tool": "Emax CT+",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-13612",
+    "description": "Cathode Liner",
+    "tool": "DPSⅡ Metal",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 2,
+    "id": "metal-248",
+    "variants": [
+      {
+        "description": "Cathode Liner",
+        "tool": "DPSⅡ Metal",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-26275",
+    "description": "Cathode Liner",
+    "tool": "DPSⅡ Metal",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 2,
+    "id": "metal-249",
+    "variants": [
+      {
+        "description": "Cathode Liner",
+        "tool": "DPSⅡ Metal",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-81155",
+    "description": "Lower Chamber Liner",
+    "tool": "DPSⅡ Metal",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 2,
+    "id": "metal-250",
+    "variants": [
+      {
+        "description": "Lower Chamber Liner",
+        "tool": "DPSⅡ Metal",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-63668",
+    "description": "Slit Valve Door",
+    "tool": "DPSⅡ Poly",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 3,
+    "id": "metal-251",
+    "variants": [
+      {
+        "description": "Slit Valve Door",
+        "tool": "DPSⅡ Poly",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-13430",
+    "description": "Cathode Liner",
+    "tool": "DPSⅡ Poly",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 3,
+    "id": "metal-252",
+    "variants": [
+      {
+        "description": "Cathode Liner",
+        "tool": "DPSⅡ Poly",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-26273",
+    "description": "Cathode Liner",
+    "tool": "DPSⅡ Poly",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 3,
+    "id": "metal-253",
+    "variants": [
+      {
+        "description": "Cathode Liner",
+        "tool": "DPSⅡ Poly",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-13434",
+    "description": "Screen(Poly Only)",
+    "tool": "DPSⅡ Poly",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 3,
+    "id": "metal-254",
+    "variants": [
+      {
+        "description": "Screen(Poly Only)",
+        "tool": "DPSⅡ Poly",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-43977",
+    "description": "Lower Chamber Liner",
+    "tool": "DPSⅡ Poly",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 3,
+    "id": "metal-255",
+    "variants": [
+      {
+        "description": "Lower Chamber Liner",
+        "tool": "DPSⅡ Poly",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-43978",
+    "description": "Upper Chamber Liner",
+    "tool": "DPSⅡ Poly",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 3,
+    "id": "metal-256",
+    "variants": [
+      {
+        "description": "Upper Chamber Liner",
+        "tool": "DPSⅡ Poly",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-81165",
+    "description": "Slit Valve Door",
+    "tool": "DPSⅡ Poly",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 3,
+    "id": "metal-257",
+    "variants": [
+      {
+        "description": "Slit Valve Door",
+        "tool": "DPSⅡ Poly",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-27015",
+    "description": "PRODUCER CATHODE SLEEVE",
+    "tool": "Producer",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 3,
+    "id": "metal-258",
+    "variants": [
+      {
+        "description": "PRODUCER CATHODE SLEEVE",
+        "tool": "Producer",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0021-27883",
+    "description": "PRODUCER SLIT DOOR",
+    "tool": "Producer",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 3,
+    "id": "metal-259",
+    "variants": [
+      {
+        "description": "PRODUCER SLIT DOOR",
+        "tool": "Producer",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-99548",
+    "description": "PRODUCER CHAMBER LINER(LEFT)",
+    "tool": "Producer",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 3,
+    "id": "metal-260",
+    "variants": [
+      {
+        "description": "PRODUCER CHAMBER LINER(LEFT)",
+        "tool": "Producer",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0040-99549",
+    "description": "PRODUCER CHAMBER LINER(RIGHT)",
+    "tool": "Producer",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 23,
+    "sourceTable": 3,
+    "id": "metal-261",
+    "variants": [
+      {
+        "description": "PRODUCER CHAMBER LINER(RIGHT)",
+        "tool": "Producer",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 23,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      23
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-801021-801",
+    "description": "Chamber Liner",
+    "tool": "Kiyo 2300 / Flex",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 1,
+    "id": "metal-262",
+    "variants": [
+      {
+        "description": "Chamber Liner",
+        "tool": "Kiyo 2300 / Flex",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-045743-809",
+    "description": "Liner, Fixed Outer",
+    "tool": "Kiyo 2300 / Flex",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 1,
+    "id": "metal-263",
+    "variants": [
+      {
+        "description": "Liner, Fixed Outer",
+        "tool": "Kiyo 2300 / Flex",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-801021-838",
+    "description": "Chamber Liner",
+    "tool": "Kiyo 2300 / Flex",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 1,
+    "id": "metal-264",
+    "variants": [
+      {
+        "description": "Chamber Liner",
+        "tool": "Kiyo 2300 / Flex",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-801021-839",
+    "description": "Chamber Liner",
+    "tool": "Kiyo 2300 / Flex",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 1,
+    "id": "metal-265",
+    "variants": [
+      {
+        "description": "Chamber Liner",
+        "tool": "Kiyo 2300 / Flex",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-030860-001",
+    "description": "Chamber Liner",
+    "tool": "Kiyo 2300 / Flex",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 1,
+    "id": "metal-266",
+    "variants": [
+      {
+        "description": "Chamber Liner",
+        "tool": "Kiyo 2300 / Flex",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-801916-008",
+    "description": "AL G.D.P(METAL)",
+    "tool": "Kiyo 2300 / Flex Metal",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 1,
+    "id": "metal-267",
+    "variants": [
+      {
+        "description": "AL G.D.P(METAL)",
+        "tool": "Kiyo 2300 / Flex Metal",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-443178-300",
+    "description": "HOT EDGE RING",
+    "tool": "Flex 2300 / Exelan",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 1,
+    "id": "metal-268",
+    "variants": [
+      {
+        "description": "HOT EDGE RING",
+        "tool": "Flex 2300 / Exelan",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-802381-002",
+    "description": "PLATE ROCKER BARRIER",
+    "tool": "Kiyo 2300",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 2,
+    "id": "metal-269",
+    "variants": [
+      {
+        "description": "PLATE ROCKER BARRIER",
+        "tool": "Kiyo 2300",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-802381-104",
+    "description": "PLATE ROCKER BARRIER",
+    "tool": "Kiyo 2300",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 2,
+    "id": "metal-270",
+    "variants": [
+      {
+        "description": "PLATE ROCKER BARRIER",
+        "tool": "Kiyo 2300",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-059638-603",
+    "description": "CHMBER,TOP PC,LG WDO",
+    "tool": "Kiyo 2300 / Vector",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 2,
+    "id": "metal-271",
+    "variants": [
+      {
+        "description": "CHMBER,TOP PC,LG WDO",
+        "tool": "Kiyo 2300 / Vector",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-042721-885",
+    "description": "LINER,SYM, HI FLOW, 2300,SRC",
+    "tool": "2300 Series",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 2,
+    "id": "metal-272",
+    "variants": [
+      {
+        "description": "LINER,SYM, HI FLOW, 2300,SRC",
+        "tool": "2300 Series",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-045710-828",
+    "description": "DOOR SYM CHMBR 2300",
+    "tool": "2300 Series",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 2,
+    "id": "metal-273",
+    "variants": [
+      {
+        "description": "DOOR SYM CHMBR 2300",
+        "tool": "2300 Series",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "715-801021-012",
+    "description": "Chamber Liner(2300 Metal_AL)",
+    "tool": "2300 Metal Etch",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 2,
+    "id": "metal-274",
+    "variants": [
+      {
+        "description": "Chamber Liner(2300 Metal_AL)",
+        "tool": "2300 Metal Etch",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "15-167054-00",
+    "description": "SHOWER HEAD",
+    "tool": "Vector / Altus (CVD/ALD)",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 2,
+    "id": "metal-275",
+    "variants": [
+      {
+        "description": "SHOWER HEAD",
+        "tool": "Vector / Altus (CVD/ALD)",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "15-176142-00",
+    "description": "SHOWER HEAD",
+    "tool": "Vector / Altus (CVD/ALD)",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 24,
+    "sourceTable": 2,
+    "id": "metal-276",
+    "variants": [
+      {
+        "description": "SHOWER HEAD",
+        "tool": "Vector / Altus (CVD/ALD)",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 24,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      24
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D10-101187-13",
+    "description": "PLATE, SHIELD(TE GND FLAT)",
+    "tool": "SCCM SP",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 25,
+    "sourceTable": 1,
+    "id": "metal-277",
+    "variants": [
+      {
+        "description": "PLATE, SHIELD(TE GND FLAT)",
+        "tool": "SCCM SP",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 25,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      25
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D10-100845-11",
+    "description": "PLATE, EXHAUSTY-AL",
+    "tool": "SCCM SP",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 25,
+    "sourceTable": 1,
+    "id": "metal-278",
+    "variants": [
+      {
+        "description": "PLATE, EXHAUSTY-AL",
+        "tool": "SCCM SP",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 25,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      25
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D10-100844-11",
+    "description": "RING BTM SHIELD Y-AL",
+    "tool": "SCCM SP",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 25,
+    "sourceTable": 1,
+    "id": "metal-279",
+    "variants": [
+      {
+        "description": "RING BTM SHIELD Y-AL",
+        "tool": "SCCM SP",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 25,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      25
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D10-101152-13",
+    "description": "SHUTTE BTM TYPE Y-AL",
+    "tool": "SCCM SP",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 25,
+    "sourceTable": 2,
+    "id": "metal-280",
+    "variants": [
+      {
+        "description": "SHUTTE BTM TYPE Y-AL",
+        "tool": "SCCM SP",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 25,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      25
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D10-101194-12",
+    "description": "SHIELD DEPO (TE-GLEX45-FLAT)",
+    "tool": "SCCM SP",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 25,
+    "sourceTable": 2,
+    "id": "metal-281",
+    "variants": [
+      {
+        "description": "SHIELD DEPO (TE-GLEX45-FLAT)",
+        "tool": "SCCM SP",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 25,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      25
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D10-302734-12",
+    "description": "DEPO WINDOW PLATE",
+    "tool": "SCCM SP",
+    "size": "12 INCH",
+    "material": "Aluminum",
+    "sourceSlide": 25,
+    "sourceTable": 2,
+    "id": "metal-282",
+    "variants": [
+      {
+        "description": "DEPO WINDOW PLATE",
+        "tool": "SCCM SP",
+        "size": "12 INCH",
+        "material": "Aluminum",
+        "sourceSlide": 25,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      25
+    ]
+  }
+]

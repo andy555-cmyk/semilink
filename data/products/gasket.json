@@ -1,0 +1,1850 @@
+[
+  {
+    "oem": "TEL",
+    "partNo": "3D10-404449-11",
+    "description": "Gasket",
+    "tool": "SHIN",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-1",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "SHIN",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-065064-067",
+    "description": "Gasket",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-2",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "719-078253-060",
+    "description": "Gasket",
+    "tool": "FLEX Ex",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-3",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Ex",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "719-078253-103",
+    "description": "Gasket",
+    "tool": "FLEX Gx / FLEX Fx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-4",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Gx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      },
+      {
+        "description": "Gasket",
+        "tool": "FLEX Fx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-360138-11",
+    "description": "Gasket",
+    "tool": "VIGUS",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-5",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "VIGUS",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-073710-001",
+    "description": "Gasket",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-6",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-027108-100",
+    "description": "Gasket",
+    "tool": "FLEX Ex",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-7",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Ex",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-120210-026",
+    "description": "Gasket",
+    "tool": "FLEX Gx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-8",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Gx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L80-000271-11",
+    "description": "EMI Gasket",
+    "tool": "VIGUS",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-9",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "VIGUS",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-073299-004",
+    "description": "Gasket",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-10",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-083687-001",
+    "description": "Gasket",
+    "tool": "FLEX Ex",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-11",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Ex",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-120208-010",
+    "description": "Gasket",
+    "tool": "FLEX Gx / FLEX Fx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-12",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Gx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      },
+      {
+        "description": "Gasket",
+        "tool": "FLEX Fx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1802-420160-11",
+    "description": "EMI Gasket",
+    "tool": "VIGUS",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-13",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "VIGUS",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-073299-005",
+    "description": "Gasket",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-14",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-073299-002",
+    "description": "Gasket",
+    "tool": "FLEX Ex",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-15",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Ex",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-120209-009",
+    "description": "Gasket",
+    "tool": "FLEX Gx / FLEX Fx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-16",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Gx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      },
+      {
+        "description": "Gasket",
+        "tool": "FLEX Fx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "047-005419-1",
+    "description": "EMI Gasket",
+    "tool": "VIGUS",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-17",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "VIGUS",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-316810-002",
+    "description": "Gasket",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-18",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-085550-026",
+    "description": "Gasket",
+    "tool": "FLEX Ex",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-19",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Ex",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-073668-103",
+    "description": "Gasket",
+    "tool": "FLEX GX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-20",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX GX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "047-005420-1",
+    "description": "EMI Gasket",
+    "tool": "VIGUS",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-21",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "VIGUS",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-316810-003",
+    "description": "Gasket",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-22",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-101101-001",
+    "description": "Gasket",
+    "tool": "FLEX Ex",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-23",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Ex",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "719-078253-252",
+    "description": "Gasket",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-24",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "047-001162-1",
+    "description": "EMI Gasket",
+    "tool": "VIGUS LK3+",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-25",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "VIGUS LK3+",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-073669-104",
+    "description": "Gasket",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-26",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "719-078253-017",
+    "description": "Gasket",
+    "tool": "FLEX Fx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-27",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Fx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "719-078253-242",
+    "description": "Gasket",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-28",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-514037-11",
+    "description": "EMI Gasket",
+    "tool": "VIGUS RK6",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-29",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "VIGUS RK6",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-027108-001",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-30",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "719-078253-241",
+    "description": "Gasket",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-31",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "3320-01190",
+    "description": "EMI Gasket",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-32",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-066269-002",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-33",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "719-078253-210",
+    "description": "Gasket",
+    "tool": "FLEX Fx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-34",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Fx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "719-078253-240",
+    "description": "Gasket",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-35",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0190-43658",
+    "description": "EMI Gasket",
+    "tool": "Producer",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-36",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "Producer",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-073439-010",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-37",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-120210-302",
+    "description": "Gasket",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-38",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0190-41359",
+    "description": "EMI Gasket",
+    "tool": "ProducerSP APF",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-39",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "ProducerSP APF",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-073710-002",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-40",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-120209-305",
+    "description": "Gasket",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-41",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0190-13874",
+    "description": "Gasket",
+    "tool": "CENTURA",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-42",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "CENTURA",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-072792-003",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-43",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-120210-008",
+    "description": "Gasket",
+    "tool": "FLEX Fx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-44",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Fx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-120209-311",
+    "description": "Gasket",
+    "tool": "Vantex B",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-45",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "Vantex B",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0020-83092",
+    "description": "Gasket",
+    "tool": "CENTURA",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-46",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "CENTURA",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-069935-003",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-47",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-120210-101",
+    "description": "Gasket",
+    "tool": "FLEX Fx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-48",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Fx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-120210-311",
+    "description": "Gasket",
+    "tool": "Vantex B",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-49",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "Vantex B",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "AMEC",
+    "partNo": "625-02290-001",
+    "description": "Gasket",
+    "tool": "PRIMO",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-50",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "PRIMO",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-072806-005",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-51",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "714-072728-603",
+    "description": "Gasket",
+    "tool": "FLEX Fx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-52",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Fx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-316810-001",
+    "description": "Gasket",
+    "tool": "KIYO GX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-53",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "KIYO GX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "NAURA",
+    "partNo": "60201-000032A",
+    "description": "EMI Gasket",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-54",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-073299-001",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-55",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-085550-822",
+    "description": "Gasket",
+    "tool": "FLEX Fx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-56",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Fx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "713-084628-063",
+    "description": "Gasket",
+    "tool": "KIYO GX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-57",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "KIYO GX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-065064-003",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-58",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-129581-101",
+    "description": "Gasket",
+    "tool": "FLEX Fx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-59",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Fx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "739-052830-003",
+    "description": "EMI Gasket",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-60",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-065064-004",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-61",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-129581-102",
+    "description": "Gasket",
+    "tool": "FLEX Fx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-62",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Fx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "739-232299-009",
+    "description": "EMI Gasket",
+    "tool": "",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-63",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "714-045219-008",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-64",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-101101-002",
+    "description": "Gasket",
+    "tool": "FLEX Fx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-65",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX Fx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "718-102757-001",
+    "description": "EMI Gasket",
+    "tool": "FLEX EX",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-66",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "FLEX EX",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "714-059445-010",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-67",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "719-078253-109",
+    "description": "Gasket",
+    "tool": "FLEX FSE",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-68",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX FSE",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "718-266604-001",
+    "description": "EMI Gasket",
+    "tool": "FLEX Hx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-69",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "FLEX Hx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "714-059445-025",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-70",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "726-192783-006",
+    "description": "EMI Gasket",
+    "tool": "Vantex B",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-71",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "Vantex B",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "714-072727-040",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-72",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "739-041591-005",
+    "description": "EMI Gasket",
+    "tool": "KIYO",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-73",
+    "variants": [
+      {
+        "description": "EMI Gasket",
+        "tool": "KIYO",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "714-072727-048",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-74",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "714-072728-003",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-75",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "857-072806-012",
+    "description": "Gasket",
+    "tool": "FLEX 45/Dx",
+    "size": "",
+    "material": "",
+    "sourceSlide": 17,
+    "sourceTable": 1,
+    "id": "gasket-76",
+    "variants": [
+      {
+        "description": "Gasket",
+        "tool": "FLEX 45/Dx",
+        "size": "",
+        "material": "",
+        "sourceSlide": 17,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      17
+    ]
+  }
+]

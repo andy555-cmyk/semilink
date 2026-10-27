@@ -1,0 +1,61 @@
+{
+  "name": "SEMILAB GLOBAL Co., Ltd.",
+  "ceo": "Theo Jeon",
+  "email": "theojeon@semilabglobal.com",
+  "phone": "+82-10-9284-7237",
+  "linkedin": "https://www.linkedin.com/in/theo-jeon-12880011a",
+  "oems": [
+    "Lam Research",
+    "TEL",
+    "AMAT",
+    "Novellus"
+  ],
+  "business": {
+    "ko": "반도체 식각·증착 공정에 쓰이는 소모성 부품의 대체 공급원을 연결합니다.",
+    "en": "We connect alternative sources for consumable components used in semiconductor etch and deposition processes."
+  },
+  "strengths": [
+    {
+      "value": "30–40",
+      "unit": "%",
+      "label": {
+        "ko": "원가 절감",
+        "en": "Lower cost"
+      },
+      "description": {
+        "ko": "장비 제조사 제품과 동등한 품질의 대체 부품",
+        "en": "Alternative parts with OEM-equivalent quality"
+      }
+    },
+    {
+      "value": "5",
+      "unit": {
+        "ko": "영업일",
+        "en": "working days"
+      },
+      "label": {
+        "ko": "예비 분석",
+        "en": "Preliminary analysis"
+      },
+      "description": {
+        "ko": "공정 이슈를 빠르게 분석하고 보고합니다.",
+        "en": "Fast preliminary analysis and reporting."
+      }
+    },
+    {
+      "value": "6",
+      "unit": {
+        "ko": "주",
+        "en": "weeks"
+      },
+      "label": {
+        "ko": "한국 출고 납기",
+        "en": "Shipping from Korea"
+      },
+      "description": {
+        "ko": "주문 접수 후 6주 이내 출고",
+        "en": "Shipping within 6 weeks after receipt of order"
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "wafer",
+    "name": {
+      "ko": "웨이퍼",
+      "en": "Wafer"
+    },
+    "number": 1,
+    "route": null
+  },
+  {
+    "id": "oxidation",
+    "name": {
+      "ko": "산화",
+      "en": "Oxidation"
+    },
+    "number": 2,
+    "route": null
+  },
+  {
+    "id": "photo",
+    "name": {
+      "ko": "포토",
+      "en": "Photolithography"
+    },
+    "number": 3,
+    "route": null
+  },
+  {
+    "id": "etch",
+    "name": {
+      "ko": "식각",
+      "en": "Etch"
+    },
+    "number": 4,
+    "route": "#/front/etch"
+  },
+  {
+    "id": "deposition",
+    "name": {
+      "ko": "박막(증착)",
+      "en": "Deposition"
+    },
+    "number": 5,
+    "route": "#/front/deposition"
+  },
+  {
+    "id": "interconnect",
+    "name": {
+      "ko": "배선",
+      "en": "Interconnect"
+    },
+    "number": 6,
+    "route": null
+  },
+  {
+    "id": "test",
+    "name": {
+      "ko": "테스트",
+      "en": "Test"
+    },
+    "number": 7,
+    "route": null
+  },
+  {
+    "id": "package",
+    "name": {
+      "ko": "패키징",
+      "en": "Packaging"
+    },
+    "number": 8,
+    "route": null
+  }
+]

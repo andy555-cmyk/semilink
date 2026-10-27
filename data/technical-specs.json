@@ -1,0 +1,203 @@
+[
+  {
+    "category": "gasket",
+    "name": "Silicon type",
+    "sourceSlide": 13,
+    "headers": [
+      "Properties",
+      "Color",
+      "Thickness",
+      "Hardness",
+      "Thermal Conductivity"
+    ],
+    "rows": [
+      [
+        "Unit",
+        "-",
+        "mm",
+        "Shore 00",
+        "W/mk"
+      ],
+      [
+        "Specification",
+        "White Grey",
+        "0.35~1",
+        "50~90",
+        "2.0~5.0"
+      ],
+      [
+        "Tool",
+        "LAM FLEX series(Ex, Fx, Gx, Hx, Vantex) TEL SHIN, VIGUS series",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "category": "gasket",
+    "name": "Kapton type",
+    "sourceSlide": 13,
+    "headers": [
+      "Properties",
+      "Color",
+      "Thickness",
+      "Thermal Conductivity",
+      "Dielectric Breakdown Voltage"
+    ],
+    "rows": [
+      [
+        "Unit",
+        "-",
+        "mm",
+        "W/mk",
+        "kV"
+      ],
+      [
+        "Specification",
+        "Yellow Black",
+        "0.025~1.3",
+        "0.2~1.3",
+        "≥6"
+      ],
+      [
+        "Tool",
+        "LAM FLEX series(45, Dx) / KIYO series",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "category": "gasket",
+    "name": "Graphite type",
+    "sourceSlide": 14,
+    "headers": [
+      "Properties",
+      "Color",
+      "Thickness",
+      "Thermal Conductivity",
+      ""
+    ],
+    "rows": [
+      [
+        "",
+        "",
+        "",
+        "Horizontal Direction",
+        "Vertical Direction"
+      ],
+      [
+        "Unit",
+        "-",
+        "mm",
+        "W/mk",
+        "W/mk"
+      ],
+      [
+        "Specification",
+        "Grey",
+        "0.38",
+        "2,000",
+        "10"
+      ],
+      [
+        "Tool",
+        "LAM FLEX series(Dx, Ex, Fx, Gx, Hx, Vantex)",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "category": "gasket",
+    "name": "3 layers type (Al + Silicon + Graphite)",
+    "sourceSlide": 14,
+    "headers": [
+      "Properties",
+      "Color",
+      "Thickness",
+      "Thermal Conductivity",
+      "Volume Resistivity"
+    ],
+    "rows": [
+      [
+        "Unit",
+        "-",
+        "mil",
+        "W/mk",
+        "Ω∙㎝"
+      ],
+      [
+        "Specification",
+        "Black",
+        "6~12",
+        "2.5",
+        "10"
+      ],
+      [
+        "Tool",
+        "LAM FLEX series(45, Dx, Ex, Fx, Gx, Hx, Vantex) AMEC PRIMO series",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "category": "gasket",
+    "name": "Coil spring type",
+    "sourceSlide": 15,
+    "headers": [
+      "Properties",
+      "Material",
+      "Out Diameter"
+    ],
+    "rows": [
+      [
+        "Unit",
+        "-",
+        "mm"
+      ],
+      [
+        "Specification",
+        "Stainless Steel / Elgiloy / Hastelloy / BeCu(Sn Plate)",
+        "1~12"
+      ],
+      [
+        "Tool",
+        "LAM FLEX series TEL VIGUS series AMAT NAURA",
+        ""
+      ]
+    ]
+  },
+  {
+    "category": "gasket",
+    "name": "Spiral type",
+    "sourceSlide": 15,
+    "headers": [
+      "Properties",
+      "Material",
+      "Out Diameter"
+    ],
+    "rows": [
+      [
+        "Unit",
+        "-",
+        "mm"
+      ],
+      [
+        "Specification",
+        "Stainless Steel / Hastelloy",
+        "Customizing"
+      ],
+      [
+        "Tool",
+        "TEL VIGUS series AMEC PRIMO series",
+        ""
+      ]
+    ]
+  }
+]

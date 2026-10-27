@@ -1,0 +1,2986 @@
+[
+  {
+    "oem": "TEL",
+    "partNo": "1810-221471-24",
+    "description": "Inner Upper Electrode",
+    "tool": "LLDX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-1",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "LLDX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D10-302020-11",
+    "description": "Inner Upper Electrode",
+    "tool": "JIN",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-2",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "JIN",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-250520-11",
+    "description": "Inner Upper Electrode",
+    "tool": "LK3",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-3",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "LK3",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-252978-21",
+    "description": "Inner Upper Electrode",
+    "tool": "MK4",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-4",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "MK4",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-256001-21",
+    "description": "Inner Upper Electrode",
+    "tool": "MK4",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-5",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "MK4",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-252542-21",
+    "description": "Inner Upper Electrode",
+    "tool": "RK2",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-6",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "RK2",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-253631-21",
+    "description": "Inner Upper Electrode",
+    "tool": "RK3",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-7",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "RK3",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L20-254608-21",
+    "description": "Inner Upper Electrode",
+    "tool": "RK4",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-8",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "RK4",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-255879-11",
+    "description": "Inner Upper Electrode",
+    "tool": "RK5",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-9",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "RK5",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-256263-11",
+    "description": "Inner Upper Electrode",
+    "tool": "RK5",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-10",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "RK5",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-513048-11",
+    "description": "Inner Upper Electrode",
+    "tool": "RK5",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-11",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "RK5",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-516268-21",
+    "description": "Inner Upper Electrode",
+    "tool": "RK6",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-12",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "RK6",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-505507-11",
+    "description": "Inner Upper Electrode",
+    "tool": "RK7",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-13",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "RK7",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-121988-11",
+    "description": "Inner Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-14",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-224789-11",
+    "description": "Inner Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-15",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-251342-11",
+    "description": "Inner Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-16",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-254134-V1",
+    "description": "Inner Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-17",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-256312-V1",
+    "description": "Inner Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-18",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D10-250316-11",
+    "description": "Inner Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-19",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D10-250834-V1",
+    "description": "Inner Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-20",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D87-003411-14",
+    "description": "Inner Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 1,
+    "id": "silicon-21",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-253833-11",
+    "description": "Ground Ring / Outer Upper Electrode / Focus Ring / Edge Ring",
+    "tool": "LK3",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 2,
+    "id": "silicon-22",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "LK3",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 2
+      },
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-355763-11",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "RK2",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 2,
+    "id": "silicon-23",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "RK2",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-253061-11",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "RK2",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 2,
+    "id": "silicon-24",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "RK2",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-255880-21",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "RK5",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 2,
+    "id": "silicon-25",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "RK5",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-255881-21",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "RK5",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 2,
+    "id": "silicon-26",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "RK5",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-256266-11",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "RK5",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 2,
+    "id": "silicon-27",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "RK5",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-259399-61",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "RK6",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 2,
+    "id": "silicon-28",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "RK6",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-504542-11",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "RK6",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 2,
+    "id": "silicon-29",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "RK6",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-515459-11",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "RK6",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 2,
+    "id": "silicon-30",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "RK6",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-259399-11",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "RK7",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 2,
+    "id": "silicon-31",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "RK7",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-513882-11",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "RK7",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 2,
+    "id": "silicon-32",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "RK7",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-251162-11",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 2,
+    "id": "silicon-33",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 2
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081665-921",
+    "description": "C Shroud Ring",
+    "tool": "FXP",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 3,
+    "id": "silicon-34",
+    "variants": [
+      {
+        "description": "C Shroud Ring",
+        "tool": "FXP",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081665-601",
+    "description": "C Shroud Ring",
+    "tool": "GX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 3,
+    "id": "silicon-35",
+    "variants": [
+      {
+        "description": "C Shroud Ring",
+        "tool": "GX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081665-874",
+    "description": "C Shroud Ring",
+    "tool": "GX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 3,
+    "id": "silicon-36",
+    "variants": [
+      {
+        "description": "C Shroud Ring",
+        "tool": "GX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081665-850",
+    "description": "C Shroud Ring",
+    "tool": "HX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 3,
+    "id": "silicon-37",
+    "variants": [
+      {
+        "description": "C Shroud Ring",
+        "tool": "HX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081665-885",
+    "description": "C Shroud Ring",
+    "tool": "HX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 3,
+    "id": "silicon-38",
+    "variants": [
+      {
+        "description": "C Shroud Ring",
+        "tool": "HX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081665-252",
+    "description": "C Shroud Ring",
+    "tool": "HX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 3,
+    "id": "silicon-39",
+    "variants": [
+      {
+        "description": "C Shroud Ring",
+        "tool": "HX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081665-254",
+    "description": "C Shroud Ring",
+    "tool": "HXE",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 3,
+    "id": "silicon-40",
+    "variants": [
+      {
+        "description": "C Shroud Ring",
+        "tool": "HXE",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081665-251",
+    "description": "C Shroud Ring",
+    "tool": "HXP",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 3,
+    "id": "silicon-41",
+    "variants": [
+      {
+        "description": "C Shroud Ring",
+        "tool": "HXP",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081665-842",
+    "description": "C Shroud Ring",
+    "tool": "HXP",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 3,
+    "id": "silicon-42",
+    "variants": [
+      {
+        "description": "C Shroud Ring",
+        "tool": "HXP",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081665-320",
+    "description": "C Shroud Ring",
+    "tool": "Vantex B",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 3,
+    "id": "silicon-43",
+    "variants": [
+      {
+        "description": "C Shroud Ring",
+        "tool": "Vantex B",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081665-811",
+    "description": "C Shroud Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 3,
+    "id": "silicon-44",
+    "variants": [
+      {
+        "description": "C Shroud Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081665-602",
+    "description": "C Shroud Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 3,
+    "id": "silicon-45",
+    "variants": [
+      {
+        "description": "C Shroud Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081665-861",
+    "description": "C Shroud Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 3,
+    "id": "silicon-46",
+    "variants": [
+      {
+        "description": "C Shroud Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 3
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-309946-12",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "DRM",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-47",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "DRM",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-252706-11",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "LK",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-48",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "LK",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-254065-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "LK",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-49",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "LK",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-254533-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "LK2, LK3",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-50",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "LK2, LK3",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-255997-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "LK3",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-51",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "LK3",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-255013-11",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "LK3",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-52",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "LK3",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-251182-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "MK2",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-53",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "MK2",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-255413-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "MK3",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-54",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "MK3",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-254167-11",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "MK3",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-55",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "MK3",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-256359-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "MK3",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-56",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "MK3",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-255577-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "MK4",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-57",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "MK4",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-252838-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "RK2",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-58",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "RK2",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-255149-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "RK4",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-59",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "RK4",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-508591-11",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "RK5",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-60",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "RK5",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-252017-11",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "RK5",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-61",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "RK5",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-257632-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "RK5",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-62",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "RK5",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-518869-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "RK6",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-63",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "RK6",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-504854-11",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "RK7",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-64",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "RK7",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-350062-11",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "SCCM",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-65",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "SCCM",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1810-329523-11",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "SCCM",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-66",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "SCCM",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D10-350401-11",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-67",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-256905-11",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-68",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-256937-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-69",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-251709-11",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-70",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-359931-v1",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-71",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-254327-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-72",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "3D10-201448-21",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 4,
+    "id": "silicon-73",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 4
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069688-020",
+    "description": "Inner Upper Electrode",
+    "tool": "DS Talon",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-74",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "DS Talon",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069688-022",
+    "description": "Inner Upper Electrode",
+    "tool": "DS Talon",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-75",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "DS Talon",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069688-058",
+    "description": "Inner Upper Electrode",
+    "tool": "FS",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-76",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "FS",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069688-369",
+    "description": "Inner Upper Electrode",
+    "tool": "FS",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-77",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "FS",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "719-064782-607",
+    "description": "Inner Upper Electrode",
+    "tool": "FXP",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-78",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "FXP",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069688-076",
+    "description": "Inner Upper Electrode",
+    "tool": "GX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-79",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "GX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069688-378",
+    "description": "Inner Upper Electrode",
+    "tool": "GX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-80",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "GX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069688-660",
+    "description": "Inner Upper Electrode",
+    "tool": "HX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-81",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "HX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069688-822",
+    "description": "Inner Upper Electrode",
+    "tool": "HX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-82",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "HX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069688-808",
+    "description": "Inner Upper Electrode",
+    "tool": "HXE",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-83",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "HXE",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069688-396",
+    "description": "Inner Upper Electrode",
+    "tool": "HXP",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-84",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "HXP",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069688-887",
+    "description": "Inner Upper Electrode",
+    "tool": "HXP",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-85",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "HXP",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-A13731-300",
+    "description": "Inner Upper Electrode",
+    "tool": "Vantex B",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-86",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "Vantex B",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-073979-032",
+    "description": "Inner Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-87",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-013325-020",
+    "description": "Inner Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-88",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069688-005",
+    "description": "Inner Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-89",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-069688-156",
+    "description": "Inner Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 5,
+    "id": "silicon-90",
+    "variants": [
+      {
+        "description": "Inner Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 5
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-082039-001",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "DS Talon",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 6,
+    "id": "silicon-91",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "DS Talon",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-082039-003",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "DS Talon",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 6,
+    "id": "silicon-92",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "DS Talon",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-082039-211",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "FX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 6,
+    "id": "silicon-93",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "FX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-082039-890",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "FX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 6,
+    "id": "silicon-94",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "FX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-082039-891",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "FXP",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 6,
+    "id": "silicon-95",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "FXP",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-082039-237",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "HX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 6,
+    "id": "silicon-96",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "HX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-082039-238",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "HX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 6,
+    "id": "silicon-97",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "HX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-082039-289",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "HX",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 6,
+    "id": "silicon-98",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "HX",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-082039-339",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "HXE",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 6,
+    "id": "silicon-99",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "HXE",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-082039-239",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "HXP",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 6,
+    "id": "silicon-100",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "HXP",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-082039-233",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 6,
+    "id": "silicon-101",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-082039-245",
+    "description": "Ground Ring / Outer Upper Electrode",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 6,
+    "id": "silicon-102",
+    "variants": [
+      {
+        "description": "Ground Ring / Outer Upper Electrode",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 6
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-044668-935",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "DL",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-103",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "DL",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-044668-947",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "DL",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-104",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "DL",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-087945-261",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "FXP",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-105",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "FXP",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-230577-377",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "HXE",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-106",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "HXE",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-230577-363",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "HXP",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-107",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "HXP",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-230577-384",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "Vantex B",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-108",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "Vantex B",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-003543-123",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-109",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-023013-120",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-110",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-003543-001",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-111",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-003543-006",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-112",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-023013-007",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-113",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-023013-028",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-114",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-044668-435",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-115",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-443086-301",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-116",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081661-915",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-117",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-023013-037",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-118",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-040738-120",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-119",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-040738-928",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-120",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-087945-071",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-121",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-230577-361",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-122",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-230577-371",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-123",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "716-081661-803",
+    "description": "Focus Ring / Edge Ring",
+    "tool": "",
+    "size": "",
+    "material": "Silicon",
+    "sourceSlide": 4,
+    "sourceTable": 7,
+    "id": "silicon-124",
+    "variants": [
+      {
+        "description": "Focus Ring / Edge Ring",
+        "tool": "",
+        "size": "",
+        "material": "Silicon",
+        "sourceSlide": 4,
+        "sourceTable": 7
+      }
+    ],
+    "sourceSlides": [
+      4
+    ]
+  }
+]

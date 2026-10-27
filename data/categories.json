@@ -1,0 +1,671 @@
+[
+  {
+    "id": "silicon",
+    "name": "Silicon parts",
+    "material": "Silicon",
+    "description": {
+      "ko": "정밀한 가공, 안정적인 공정 품질",
+      "en": "Precision machining. Consistent process quality."
+    },
+    "sourceSlides": [
+      3,
+      4
+    ],
+    "features": {
+      "ko": [
+        "홀 크기·진원도·위치 편차 최소화",
+        "깨짐 없는 가공 품질",
+        "5,000개 이상 공급"
+      ],
+      "en": [
+        "Controlled hole size, roundness and position",
+        "No chipping, superior quality",
+        "More than 5,000 pieces supplied"
+      ]
+    },
+    "images": [
+      {
+        "src": "assets/img/products/s3-c-shroud-ring.webp",
+        "width": 390,
+        "height": 350,
+        "sourceMedia": "image17.jpg",
+        "slide": 3,
+        "crop": {
+          "pixels": [
+            55,
+            1085,
+            445,
+            1435
+          ],
+          "note": "slide 3 링 제품 사진 영역만 잘라냄"
+        }
+      },
+      {
+        "src": "assets/img/products/s3-electrode-ring.webp",
+        "width": 380,
+        "height": 350,
+        "sourceMedia": "image17.jpg",
+        "slide": 3,
+        "crop": {
+          "pixels": [
+            520,
+            1085,
+            900,
+            1435
+          ],
+          "note": "slide 3 링 제품 사진 영역만 잘라냄"
+        }
+      },
+      {
+        "src": "assets/img/products/s3-image7.webp",
+        "width": 340,
+        "height": 317,
+        "sourceMedia": "image7.png",
+        "slide": 3,
+        "crop": {
+          "l": 12845,
+          "t": 4985,
+          "r": 12802,
+          "b": 10041
+        }
+      },
+      {
+        "src": "assets/img/products/s3-image8.webp",
+        "width": 491,
+        "height": 456,
+        "sourceMedia": "image8.png",
+        "slide": 3,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "id": "quartz",
+    "name": "Quartz parts",
+    "material": "Quartz",
+    "description": {
+      "ko": "석영 부품을 위한 일관된 품질 관리",
+      "en": "Consistent quality for quartz components."
+    },
+    "sourceSlides": [
+      5,
+      6,
+      7
+    ],
+    "features": {
+      "ko": [
+        "원소재 수입 후 전 공정 자체 가공",
+        "자동화 기반의 균일한 공정 품질",
+        "장비 제조사 기준에 따른 품질 관리"
+      ],
+      "en": [
+        "In-house processing with imported raw material",
+        "Consistent process quality through automation",
+        "Quality management based on OEM standards"
+      ]
+    },
+    "images": [
+      {
+        "src": "assets/img/products/s5-image34-crop.webp",
+        "width": 209,
+        "height": 174,
+        "sourceMedia": "image34.png",
+        "slide": 5,
+        "crop": {
+          "pixels": [
+            24,
+            16,
+            233,
+            190
+          ],
+          "note": "slide 5 제품 사진 칸만 잘라냄"
+        }
+      },
+      {
+        "src": "assets/img/products/s5-image35-crop.webp",
+        "width": 210,
+        "height": 114,
+        "sourceMedia": "image35.png",
+        "slide": 5,
+        "crop": {
+          "pixels": [
+            5,
+            8,
+            215,
+            122
+          ],
+          "note": "slide 5 제품 사진 칸만 잘라냄"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ceramic",
+    "name": "Ceramic parts",
+    "material": "Al2O3 · AlN · Y2O3 · TiO2 · Sapphire",
+    "description": {
+      "ko": "다양한 세라믹 소재와 정밀 부품",
+      "en": "Precision components in a range of ceramic materials."
+    },
+    "sourceSlides": [
+      8,
+      9,
+      10
+    ],
+    "features": {
+      "ko": [
+        "Al2O3·AlN·Y2O3·TiO2 소재 취급",
+        "Ring·Liner·Lift Pin·Robot Blade",
+        "장비와 공정에 맞춘 부품 상담"
+      ],
+      "en": [
+        "Al2O3, AlN, Y2O3 and TiO2 materials",
+        "Rings, liners, lift pins and robot blades",
+        "Component consultation for your tool and process"
+      ]
+    },
+    "images": [
+      {
+        "src": "assets/img/products/s8-image43.webp",
+        "width": 401,
+        "height": 279,
+        "sourceMedia": "image43.png",
+        "slide": 8,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s8-image44.webp",
+        "width": 389,
+        "height": 285,
+        "sourceMedia": "image44.png",
+        "slide": 8,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s8-image45.webp",
+        "width": 664,
+        "height": 549,
+        "sourceMedia": "image45.png",
+        "slide": 8,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s8-image46.webp",
+        "width": 362,
+        "height": 357,
+        "sourceMedia": "image46.png",
+        "slide": 8,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s8-image47.webp",
+        "width": 432,
+        "height": 577,
+        "sourceMedia": "image47.png",
+        "slide": 8,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s8-image48.webp",
+        "width": 412,
+        "height": 285,
+        "sourceMedia": "image48.png",
+        "slide": 8,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s8-image49.webp",
+        "width": 302,
+        "height": 225,
+        "sourceMedia": "image49.png",
+        "slide": 8,
+        "crop": {
+          "l": 14617,
+          "t": 38379,
+          "r": 15477,
+          "b": 22660
+        }
+      },
+      {
+        "src": "assets/img/products/s8-image50.webp",
+        "width": 191,
+        "height": 178,
+        "sourceMedia": "image50.png",
+        "slide": 8,
+        "crop": {
+          "l": 24724,
+          "t": 24761,
+          "r": 15838,
+          "b": 24657
+        }
+      },
+      {
+        "src": "assets/img/products/s8-image51.webp",
+        "width": 98,
+        "height": 88,
+        "sourceMedia": "image51.png",
+        "slide": 8,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s8-image52.webp",
+        "width": 241,
+        "height": 171,
+        "sourceMedia": "image52.png",
+        "slide": 8,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "id": "sapphire",
+    "name": "Sapphire window",
+    "material": "Sapphire · Quartz",
+    "description": {
+      "ko": "작은 창에도 더 선명한 이력 관리",
+      "en": "Clear traceability, down to each window."
+    },
+    "sourceSlides": [
+      11
+    ],
+    "features": {
+      "ko": [
+        "일련번호 각인 지원",
+        "부품 이력 추적과 식별",
+        "장비별 다양한 크기와 두께"
+      ],
+      "en": [
+        "Serial number engraving available",
+        "Part history tracking and visibility",
+        "Tool-specific dimensions and thicknesses"
+      ]
+    },
+    "images": [
+      {
+        "src": "assets/img/products/s11-image64.webp",
+        "width": 242,
+        "height": 135,
+        "sourceMedia": "image64.png",
+        "slide": 11,
+        "crop": {
+          "l": 17259,
+          "t": 21151,
+          "r": 14663,
+          "b": 23623
+        }
+      },
+      {
+        "src": "assets/img/products/s11-image65.webp",
+        "width": 270,
+        "height": 221,
+        "sourceMedia": "image65.png",
+        "slide": 11,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s11-image66.webp",
+        "width": 570,
+        "height": 529,
+        "sourceMedia": "image66.png",
+        "slide": 11,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s11-image67.webp",
+        "width": 374,
+        "height": 262,
+        "sourceMedia": "image67.png",
+        "slide": 11,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s11-image68.webp",
+        "width": 339,
+        "height": 238,
+        "sourceMedia": "image68.png",
+        "slide": 11,
+        "crop": {
+          "l": 11448,
+          "t": 8811,
+          "r": 7754,
+          "b": 15594
+        }
+      },
+      {
+        "src": "assets/img/products/s11-image69.webp",
+        "width": 251,
+        "height": 279,
+        "sourceMedia": "image69.png",
+        "slide": 11,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s11-image70.webp",
+        "width": 327,
+        "height": 305,
+        "sourceMedia": "image70.png",
+        "slide": 11,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s11-image71.webp",
+        "width": 534,
+        "height": 650,
+        "sourceMedia": "image71.jpg",
+        "slide": 11,
+        "crop": {
+          "l": 20964,
+          "t": 17764,
+          "r": 12595,
+          "b": 29262
+        }
+      }
+    ]
+  },
+  {
+    "id": "heater",
+    "name": "AlN Heater & ESC",
+    "material": "AlN",
+    "description": {
+      "ko": "열 제어를 위한 핵심 부품",
+      "en": "Essential components for thermal control."
+    },
+    "sourceSlides": [
+      12
+    ],
+    "features": {
+      "ko": [
+        "AlN Heater·ESC·Magnet",
+        "6인치·8인치·12인치 품목",
+        "AMAT·LAM 장비 호환 품목"
+      ],
+      "en": [
+        "AlN heaters, ESCs and magnets",
+        "6, 8 and 12 inch components",
+        "Parts compatible with AMAT and LAM tools"
+      ]
+    },
+    "images": [
+      {
+        "src": "assets/img/products/s12-image72.webp",
+        "width": 265,
+        "height": 261,
+        "sourceMedia": "image72.png",
+        "slide": 12,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s12-image73.webp",
+        "width": 276,
+        "height": 296,
+        "sourceMedia": "image73.png",
+        "slide": 12,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s12-image74.webp",
+        "width": 203,
+        "height": 201,
+        "sourceMedia": "image74.png",
+        "slide": 12,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s12-image75.webp",
+        "width": 214,
+        "height": 200,
+        "sourceMedia": "image75.png",
+        "slide": 12,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "id": "gasket",
+    "name": "Gasket · Socket · Grounding",
+    "material": "Silicone · Kapton · Graphite",
+    "description": {
+      "ko": "밀봉부터 열 전달, 접지까지",
+      "en": "Sealing, heat transfer and grounding."
+    },
+    "sourceSlides": [
+      13,
+      14,
+      15,
+      17
+    ],
+    "features": {
+      "ko": [
+        "Silicone·Kapton·Graphite Gasket",
+        "Socket Seal·Stud Socket·RF Strap",
+        "Coil·Spiral·Leaf Spring"
+      ],
+      "en": [
+        "Silicone, Kapton and graphite gaskets",
+        "Socket seals, stud sockets and RF straps",
+        "Coil, spiral and leaf springs"
+      ]
+    },
+    "images": [
+      {
+        "src": "assets/img/products/s13-image76.webp",
+        "width": 215,
+        "height": 223,
+        "sourceMedia": "image76.jpeg",
+        "slide": 13,
+        "crop": {}
+      },
+      {
+        "src": "assets/img/products/s13-image77.webp",
+        "width": 305,
+        "height": 309,
+        "sourceMedia": "image77.png",
+        "slide": 13,
+        "crop": {}
+      },
+      {
+        "src": "assets/img/products/s14-image80.webp",
+        "width": 279,
+        "height": 279,
+        "sourceMedia": "image80.jpeg",
+        "slide": 14,
+        "crop": {}
+      },
+      {
+        "src": "assets/img/products/s14-image81.webp",
+        "width": 347,
+        "height": 346,
+        "sourceMedia": "image81.png",
+        "slide": 14,
+        "crop": {
+          "l": 14962,
+          "t": 1070,
+          "r": 15909,
+          "b": 1725
+        }
+      },
+      {
+        "src": "assets/img/products/s15-image84.webp",
+        "width": 563,
+        "height": 422,
+        "sourceMedia": "image84.jpeg",
+        "slide": 15,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s15-image85.webp",
+        "width": 168,
+        "height": 179,
+        "sourceMedia": "image85.jpeg",
+        "slide": 15,
+        "crop": {}
+      },
+      {
+        "src": "assets/img/products/s15-image90.webp",
+        "width": 583,
+        "height": 578,
+        "sourceMedia": "image90.jpeg",
+        "slide": 15,
+        "crop": {}
+      },
+      {
+        "src": "assets/img/products/s15-image91.webp",
+        "width": 1075,
+        "height": 661,
+        "sourceMedia": "image91.jpeg",
+        "slide": 15,
+        "crop": {}
+      }
+    ]
+  },
+  {
+    "id": "machining",
+    "name": "Machining parts",
+    "material": "PTFE · PEEK · PAI · Metal",
+    "description": {
+      "ko": "공정에 맞추는 정밀 가공 부품",
+      "en": "Precision-machined parts for your process."
+    },
+    "sourceSlides": [
+      15,
+      16,
+      18
+    ],
+    "features": {
+      "ko": [
+        "Teflon·PEEK·PAI·금속 소재",
+        "Aluminum·Stainless Steel",
+        "도면에 따른 맞춤 가공 상담"
+      ],
+      "en": [
+        "Teflon, PEEK, PAI and metal materials",
+        "Aluminum and stainless steel",
+        "Custom machining consultation from drawings"
+      ]
+    },
+    "images": [
+      {
+        "src": "assets/img/products/s16-image96.webp",
+        "width": 176,
+        "height": 306,
+        "sourceMedia": "image96.jpeg",
+        "slide": 16,
+        "crop": {}
+      },
+      {
+        "src": "assets/img/products/s16-image97.webp",
+        "width": 184,
+        "height": 164,
+        "sourceMedia": "image97.jpeg",
+        "slide": 16,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s16-image105.webp",
+        "width": 247,
+        "height": 237,
+        "sourceMedia": "image105.jpeg",
+        "slide": 16,
+        "crop": {
+          "r": -1
+        }
+      },
+      {
+        "src": "assets/img/products/s16-image114.webp",
+        "width": 206,
+        "height": 233,
+        "sourceMedia": "image114.png",
+        "slide": 16,
+        "crop": null
+      }
+    ]
+  },
+  {
+    "id": "metal",
+    "name": "Metal chamber parts",
+    "material": "Aluminum · Al + Y2O3 coating",
+    "description": {
+      "ko": "챔버 안팎을 연결하는 금속 부품",
+      "en": "Metal components throughout the chamber."
+    },
+    "sourceSlides": [
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "features": {
+      "ko": [
+        "Aluminum 챔버 벽·Liner",
+        "AMAT·LAM·TEL 호환 품목",
+        "8인치·12인치 품목"
+      ],
+      "en": [
+        "Aluminum chamber walls and liners",
+        "Parts compatible with AMAT, LAM and TEL",
+        "8 and 12 inch components"
+      ]
+    },
+    "images": [
+      {
+        "src": "assets/img/products/s23-image144.webp",
+        "width": 985,
+        "height": 360,
+        "sourceMedia": "image144.png",
+        "slide": 23,
+        "crop": {}
+      },
+      {
+        "src": "assets/img/products/s23-image146.webp",
+        "width": 1600,
+        "height": 1200,
+        "sourceMedia": "image146.jpeg",
+        "slide": 23,
+        "crop": {}
+      },
+      {
+        "src": "assets/img/products/s24-image150.webp",
+        "width": 940,
+        "height": 566,
+        "sourceMedia": "image150.png",
+        "slide": 24,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s24-image162.webp",
+        "width": 1600,
+        "height": 757,
+        "sourceMedia": "image162.jpg",
+        "slide": 24,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s25-image170.webp",
+        "width": 1020,
+        "height": 673,
+        "sourceMedia": "image170.png",
+        "slide": 25,
+        "crop": null
+      },
+      {
+        "src": "assets/img/products/s25-image182.webp",
+        "width": 692,
+        "height": 434,
+        "sourceMedia": "image182.jpeg",
+        "slide": 25,
+        "crop": {}
+      },
+      {
+        "src": "assets/img/products/s25-image187.webp",
+        "width": 1600,
+        "height": 1200,
+        "sourceMedia": "image187.png",
+        "slide": 25,
+        "crop": {}
+      }
+    ]
+  }
+]

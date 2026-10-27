@@ -1,0 +1,68 @@
+[
+  {
+    "id": "silicon",
+    "name": "Silicon",
+    "color": "red",
+    "category": "silicon"
+  },
+  {
+    "id": "quartz",
+    "name": "Quartz",
+    "color": "red",
+    "category": "quartz"
+  },
+  {
+    "id": "sic",
+    "name": "Silicon carbide",
+    "color": "red",
+    "category": "silicon"
+  },
+  {
+    "id": "aln",
+    "name": "Ceramic (AlN)",
+    "color": "green",
+    "category": "heater"
+  },
+  {
+    "id": "alumina",
+    "name": "Ceramic (Al2O3)",
+    "color": "green",
+    "category": "ceramic"
+  },
+  {
+    "id": "peek",
+    "name": "PEEK",
+    "color": "yellow",
+    "category": "machining"
+  },
+  {
+    "id": "pai",
+    "name": "PAI",
+    "color": "yellow",
+    "category": "machining"
+  },
+  {
+    "id": "sapphire",
+    "name": "Sapphire",
+    "color": "red",
+    "category": "sapphire"
+  },
+  {
+    "id": "aluminum",
+    "name": "Aluminum",
+    "color": "red",
+    "category": "metal"
+  },
+  {
+    "id": "coated-al",
+    "name": "Al + Y2O3 coating",
+    "color": "red",
+    "category": "metal"
+  },
+  {
+    "id": "gasket",
+    "name": "Gasket",
+    "color": "yellow",
+    "category": "gasket"
+  }
+]

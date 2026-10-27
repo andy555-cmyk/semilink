@@ -1,0 +1,354 @@
+[
+  {
+    "oem": "LAM",
+    "partNo": "716-027740-005",
+    "description": "Quartz Window",
+    "tool": "Alliance TCP 9400/9600, Exelan",
+    "size": "Ø38.1x6.3T",
+    "material": "Quartz",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-1",
+    "variants": [
+      {
+        "description": "Quartz Window",
+        "tool": "Alliance TCP 9400/9600, Exelan",
+        "size": "Ø38.1x6.3T",
+        "material": "Quartz",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "15-151683-00",
+    "description": "Sapphire Window",
+    "tool": "Kiyo C, Kiyo D, Kiyo F, 9400/9600",
+    "size": "Ø20.5x3T",
+    "material": "Sapphire",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-2",
+    "variants": [
+      {
+        "description": "Sapphire Window",
+        "tool": "Kiyo C, Kiyo D, Kiyo F, 9400/9600",
+        "size": "Ø20.5x3T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "0200-01195",
+    "description": "Sapphire Window",
+    "tool": "Centura, Endura, Precision 5000",
+    "size": "Ø31.8x3.2T",
+    "material": "Sapphire",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-3",
+    "variants": [
+      {
+        "description": "Sapphire Window",
+        "tool": "Centura, Endura, Precision 5000",
+        "size": "Ø31.8x3.2T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  },
+  {
+    "oem": "AMAT",
+    "partNo": "3440-01037",
+    "description": "Sapphire Window",
+    "tool": "Centura AP, Centura 5200, DPI",
+    "size": "Ø25x2T",
+    "material": "Sapphire",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-4",
+    "variants": [
+      {
+        "description": "Sapphire Window",
+        "tool": "Centura AP, Centura 5200, DPI",
+        "size": "Ø25x2T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "15-260932-00",
+    "description": "Sapphire Window",
+    "tool": "Kiyo C, Kiyo D, Kiyo F",
+    "size": "Ø22x1T",
+    "material": "Sapphire",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-5",
+    "variants": [
+      {
+        "description": "Sapphire Window",
+        "tool": "Kiyo C, Kiyo D, Kiyo F",
+        "size": "Ø22x1T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "15-260932-01",
+    "description": "Sapphire Window",
+    "tool": "Kiyo C, Kiyo D, Kiyo F",
+    "size": "Ø22x1.25T",
+    "material": "Sapphire",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-6",
+    "variants": [
+      {
+        "description": "Sapphire Window",
+        "tool": "Kiyo C, Kiyo D, Kiyo F",
+        "size": "Ø22x1.25T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "15-260932-02",
+    "description": "Sapphire Window",
+    "tool": "Kiyo C, Kiyo D, Kiyo F",
+    "size": "Ø22x1.52T",
+    "material": "Sapphire",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-7",
+    "variants": [
+      {
+        "description": "Sapphire Window",
+        "tool": "Kiyo C, Kiyo D, Kiyo F",
+        "size": "Ø22x1.52T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "15-260932-04",
+    "description": "Sapphire Window",
+    "tool": "Kiyo C, Kiyo D, Kiyo F",
+    "size": "Ø22x1.98T",
+    "material": "Sapphire",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-8",
+    "variants": [
+      {
+        "description": "Sapphire Window",
+        "tool": "Kiyo C, Kiyo D, Kiyo F",
+        "size": "Ø22x1.98T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "15-260932-05",
+    "description": "Sapphire Window",
+    "tool": "Kiyo C, Kiyo D, Kiyo F",
+    "size": "Ø22x0.75T",
+    "material": "Sapphire",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-9",
+    "variants": [
+      {
+        "description": "Sapphire Window",
+        "tool": "Kiyo C, Kiyo D, Kiyo F",
+        "size": "Ø22x0.75T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "15-260932-06",
+    "description": "Sapphire Window",
+    "tool": "Kiyo C, Kiyo D, Kiyo F",
+    "size": "Ø22x0.5T",
+    "material": "Sapphire",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-10",
+    "variants": [
+      {
+        "description": "Sapphire Window",
+        "tool": "Kiyo C, Kiyo D, Kiyo F",
+        "size": "Ø22x0.5T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  },
+  {
+    "oem": "LAM",
+    "partNo": "15-260932-07",
+    "description": "Sapphire Window",
+    "tool": "Kiyo C, Kiyo D, Kiyo F",
+    "size": "Ø22x0.25T",
+    "material": "Sapphire",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-11",
+    "variants": [
+      {
+        "description": "Sapphire Window",
+        "tool": "Kiyo C, Kiyo D, Kiyo F",
+        "size": "Ø22x0.25T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  },
+  {
+    "oem": "ASM",
+    "partNo": "AB-MM000026452-0",
+    "description": "Sapphire Window",
+    "tool": "Eagle 10, Eagle 12 PEALD/PECVD",
+    "size": "57x72x3T",
+    "material": "Sapphire",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-12",
+    "variants": [
+      {
+        "description": "Sapphire Window",
+        "tool": "Eagle 10, Eagle 12 PEALD/PECVD",
+        "size": "57x72x3T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "1D10-406499-11",
+    "description": "Sapphire Window",
+    "tool": "Tactras Vigus, Tactras SCCM",
+    "size": "27.5x21x0.55T",
+    "material": "Sapphire",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-13",
+    "variants": [
+      {
+        "description": "Sapphire Window",
+        "tool": "Tactras Vigus, Tactras SCCM",
+        "size": "27.5x21x0.55T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  },
+  {
+    "oem": "TEL",
+    "partNo": "2L10-450605-11",
+    "description": "Sapphire Window",
+    "tool": "Tactras Vigus",
+    "size": "22X27.5X0.6T / 22X27.5X0.55T / 27.5x23.8x0.5T",
+    "material": "Sapphire",
+    "sourceSlide": 11,
+    "sourceTable": 1,
+    "id": "sapphire-14",
+    "variants": [
+      {
+        "description": "Sapphire Window",
+        "tool": "Tactras Vigus",
+        "size": "22X27.5X0.6T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      },
+      {
+        "description": "Sapphire Window",
+        "tool": "Tactras Vigus",
+        "size": "22X27.5X0.55T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      },
+      {
+        "description": "Sapphire Window",
+        "tool": "Tactras Vigus",
+        "size": "27.5x23.8x0.5T",
+        "material": "Sapphire",
+        "sourceSlide": 11,
+        "sourceTable": 1
+      }
+    ],
+    "sourceSlides": [
+      11
+    ]
+  }
+]
