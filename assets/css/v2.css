@@ -415,3 +415,22 @@ h1,h2,h3,.x-big,.x-hero-title,.page-head h1,.x-head h2{font-weight:700;letter-sp
 .x-big{font-weight:700;letter-spacing:-.035em}
 .x-stat strong small,.x-hero-facts strong small{font-weight:600}
 .x-cursor-grid{position:fixed;inset:0;width:100vw;height:100vh;pointer-events:none;z-index:90}
+
+/* ── 단면도 v2 ── */
+.chamber-svg.v2{max-height:600px;font-family:var(--font-apple)}
+.chamber-svg.v2 .sv-axis{stroke:#cfd9e6;stroke-dasharray:2 6}
+.chamber-svg.v2 .sv-base rect{stroke-width:1}
+.chamber-svg.v2 .structure{pointer-events:none}
+.chamber-svg.v2 .structure text{fill:#8a99ab;font-weight:500;stroke:none;text-anchor:middle}
+.chamber-svg.v2 .part text{fill:#1d3350;font-weight:600;stroke:none;text-anchor:middle;letter-spacing:-.01em}
+.chamber-svg.v2 .part rect.sv-body{stroke-width:1.2;transition:fill .25s,stroke .25s;filter:none}
+.chamber-svg.v2 .part .sv-ring{fill:none;stroke:url(#sv-sel);stroke-width:2;opacity:0;transition:opacity .25s}
+.chamber-svg.v2 .part:hover .sv-ring,.chamber-svg.v2 .part:focus-visible .sv-ring{opacity:.55}
+.chamber-svg.v2 .part.active .sv-ring{opacity:1;stroke-width:2.5}
+.chamber-svg.v2 .part.active rect.sv-body{fill:url(#sv-selfill);stroke:transparent}
+.chamber-svg.v2 .part:hover rect,.chamber-svg.v2 .part:focus-visible rect,.chamber-svg.v2 .part.active rect{filter:none}
+.chamber-svg.v2 .part.active text{fill:#1747b5}
+.chamber-svg.v2 .material-dot{stroke:#fff;stroke-width:1.2}
+.chamber-svg.v2 .sv-port{fill:#7f97ae;opacity:.6}
+.chamber-svg.v2 .sv-note{fill:#7d8ea3;font-size:12px;font-weight:500}
+.chamber-section .mode-2d .chamber-legend,.chamber-section .mode-2d .diagram-hint{font-size:14px}
