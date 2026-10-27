@@ -1,5 +1,7 @@
-// Inquiry delivery. 'formsubmit' posts to FormSubmit (sends to the designated mailbox, no server needed);
+// Inquiry delivery. With API_URL set, inquiries are stored in the admin sheet and mailed by the server.
+// Otherwise 'formsubmit' posts to FormSubmit (sends to the designated mailbox, no server needed);
 // the first submission triggers a one-time activation email to that mailbox. Falls back to mailto on failure.
+import {API_URL, call} from './api.js';
 export const SUBMIT_MODE = 'formsubmit';
 const FIELDS = [
   ['type', '1. User / Distributor / Manufacturer'], ['company', '2. Company Name'], ['location', '3. Business Location'],
@@ -16,6 +18,11 @@ export function buildMailto(values, email) {
 }
 export async function submitContact(values, email) {
   if (!values.privacy) throw new Error('Privacy consent required');
+  if (API_URL) {
+    const out = await call('contact', {...values, privacy: true}).catch(() => ({ok: false}));
+    if (!out.ok) throw Object.assign(new Error('delivery failed'), { mailto: buildMailto(values, email) });
+    return { mode: 'server' };
+  }
   if (SUBMIT_MODE === 'formsubmit') {
     const payload = { _subject: `[SEMI LINK Inquiry] ${values.company || ''} (${values.type || ''})`, _template: 'table', _captcha: 'false', _replyto: values.email };
     FIELDS.forEach(([k, label]) => { payload[label] = values[k] || '-'; });

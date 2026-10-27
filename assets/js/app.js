@@ -279,8 +279,53 @@ function signupPage() {
  return `${pageHead('JOIN THE CONNECTION',L('새로운 공급의 기회를 만나세요','Discover new sourcing possibilities'),'',L('회원가입','Sign up'))}<section class="section container"><div class="auth-wrap"><div class="form-card"><div class="auth-title"><h2>${L('회원가입','Create an account')}</h2><p>${L('SEMI LINK와 연결을 시작하세요','Start connecting with SEMI LINK')}</p></div><form data-form="signup">${field('company',L('회사명','Company'),'text',true)}${field('name',L('이름','Name'),'text',true)}${field('email',L('업무 이메일','Work email'),'email',true)}<div class="field"><label for="signup-password">${L('비밀번호','Password')}</label><input id="signup-password" name="password" type="password" minlength="8" maxlength="128" autocomplete="new-password" required placeholder="${L('8자 이상 입력해 주세요','At least 8 characters')}"></div><div class="field"><label for="member-type">${L('회원 유형','Account type')}</label><select id="member-type" name="memberType" required><option value="buyer">${L('구매사','Buyer')}</option><option value="supplier">${L('공급사','Supplier')}</option></select></div><label class="check-row"><input name="terms" type="checkbox" required><span><a href="#/terms" target="_blank" rel="noopener">${L('이용약관','Terms of use')}</a>${L('에 동의합니다',' — I agree')}</span></label><label class="check-row"><input name="privacy" type="checkbox" required><span><a href="#/privacy" target="_blank" rel="noopener">${L('개인정보 수집·이용','Privacy policy')}</a>${L('에 동의합니다',' — I agree')}</span></label><div class="form-error" role="alert" hidden></div><button class="btn primary block" type="submit">${L('회원가입','Create account')}${arrow}</button></form><div class="auth-links">${L('이미 회원이신가요?','Already a member?')}<a href="#/login">${L('로그인','Log in')}</a></div></div></div></section>`;
 }
 function legalPage(type) {
- const privacy=type==='privacy';
- return `${pageHead('SEMI LINK',privacy?L('개인정보처리방침','Privacy policy'):L('이용약관','Terms of use'),'',L('이용 안내','Information'))}<section class="section container"><div class="legal-box"><span class="badge">${L('준비 중','Coming soon')}</span><h2 style="margin-top:20px">${L('상세 내용을 준비하고 있습니다','Detailed information is on its way')}</h2><p>${privacy?L('개인정보 처리에 관한 문의는 아래 이메일로 보내 주세요','Please contact us by email with any questions about privacy'):L('서비스 이용에 관한 문의는 아래 이메일로 보내 주세요','Please email us with any questions about using the service')}</p><p><a class="text-link" href="mailto:${data.company.email}">${data.company.email}</a></p></div></section>`;
+ const privacy=type==='privacy',c=data.company,mail=`<a class="text-link" href="mailto:${c.email}">${c.email}</a>`;
+ const sec=(t,b)=>`<section><h3>${t}</h3>${b}</section>`,ul=a=>`<ul>${a.map(x=>`<li>${x}</li>`).join('')}</ul>`;
+ const pv=lang==='ko'?[
+  sec('1. 처리 목적',ul(['회원 가입·로그인과 회원 확인','부품·소재·공급사 상담 문의 접수와 회신','부정 이용 방지와 서비스 운영 기록'])),
+  sec('2. 처리 항목',ul(['회원 가입 — 회사명, 이름, 업무 이메일, 비밀번호(복원할 수 없게 암호화해 저장), 회원 유형','문의 — 구분, 회사명, 사업장 위치, 담당자 이름, 이메일, 문의 내용 · 선택 항목으로 사업자등록번호, 휴대전화','자동 기록 — 가입·문의·최근 로그인 일시'])),
+  sec('3. 보유 기간',ul(['회원 정보 — 탈퇴를 요청할 때까지','문의 정보 — 상담을 마친 날부터 1년','법령에 보관 의무가 있으면 그 기간까지'])),
+  sec('4. 제3자 제공',ul(['정보주체의 동의나 법령의 근거 없이 제3자에게 제공하지 않습니다'])),
+  sec('5. 처리 위탁과 국외 이전',ul(['수탁자 — Google LLC (Google Workspace 시트·메일)','위탁 업무 — 회원·문의 정보 저장과 담당자 알림 메일 발송','이전 국가·방법 — 미국 등 Google 데이터센터 · 가입이나 문의를 보낼 때 네트워크로 전송','보유 기간 — 위 3항과 같음','국외 이전을 원하지 않으면 가입·온라인 문의 대신 이메일·전화로 상담하실 수 있습니다'])),
+  sec('6. 파기',ul(['보유 기간이 끝나거나 목적을 이루면 지체 없이 삭제합니다','전자 파일은 복구할 수 없는 방법으로 지웁니다'])),
+  sec('7. 정보주체의 권리',ul(['열람, 정정, 삭제, 처리 정지, 회원 탈퇴를 언제든 요청할 수 있습니다',`요청은 ${mail} 로 보내 주시면 10일 안에 처리합니다`])),
+  sec('8. 안전성 확보 조치',ul(['비밀번호는 원문을 저장하지 않고 일방향 암호화 값만 보관합니다','관리 시트는 지정된 담당자만 열람할 수 있습니다','전송 구간은 HTTPS로 암호화됩니다'])),
+  sec('9. 브라우저 저장 정보',ul(['로그인 유지를 위해 서명된 로그인 표시(14일)와 이름·회사명을 브라우저 저장소에 둡니다','광고·추적용 쿠키는 쓰지 않습니다 · 로그아웃하면 지워집니다'])),
+  sec('10. 개인정보 보호책임자',ul([`${esc(c.ceo)} · SEMILAB GLOBAL <span class="nb">Co., Ltd.</span>`,`이메일 ${mail} · 전화 ${esc(c.phone)}`,'개인정보 침해 신고 — 개인정보침해신고센터 118 · privacy.kisa.or.kr'])),
+  sec('11. 시행일',ul(['이 방침은 2026년 10월 28일부터 적용합니다']))
+ ]:[
+  sec('1. Purpose',ul(['Account sign-up, login and verification','Receiving and answering sourcing inquiries','Preventing misuse and keeping service records'])),
+  sec('2. Data collected',ul(['Account — company, name, work email, password (stored only as a one-way hash), account type','Inquiry — type, company, business location, contact name, email, message · optional registration number and mobile','Automatic — timestamps of sign-up, inquiry and last login'])),
+  sec('3. Retention',ul(['Account data — until you ask us to delete your account','Inquiry data — one year after the consultation ends','Longer only where the law requires'])),
+  sec('4. Third parties',ul(['We do not share your data without your consent or a legal basis'])),
+  sec('5. Processors and overseas transfer',ul(['Google LLC (Google Workspace sheets and mail) stores account and inquiry data and sends staff notifications','Data may be stored in Google data centers in the United States and elsewhere','If you prefer no overseas transfer, contact us by email or phone instead'])),
+  sec('6. Deletion',ul(['Data is deleted without delay when retention ends'])),
+  sec('7. Your rights',ul([`Request access, correction, deletion or account closure at ${mail} — handled within 10 days`])),
+  sec('8. Security',ul(['Passwords are never stored in plain text','Only designated staff can open the admin sheet','All traffic is encrypted with HTTPS'])),
+  sec('9. Browser storage',ul(['A signed login marker (14 days), your name and company are kept in browser storage · No advertising or tracking cookies'])),
+  sec('10. Privacy officer',ul([`${esc(c.ceo)} · SEMILAB GLOBAL <span class="nb">Co., Ltd.</span> · ${mail} · ${esc(c.phone)}`])),
+  sec('11. Effective date',ul(['October 28, 2026']))
+ ];
+ const tm=lang==='ko'?[
+  sec('1. 목적',ul(['SEMILAB GLOBAL이 운영하는 SEMI LINK(이하 서비스)의 이용 조건을 정합니다'])),
+  sec('2. 회원 가입',ul(['업무 이메일로 가입하며 입력한 정보는 사실이어야 합니다','타인의 정보로 가입하거나 계정을 넘겨 쓰면 이용을 제한할 수 있습니다'])),
+  sec('3. 서비스 내용',ul(['공정·챔버·부품·소재별 대체 공급원 탐색과 상담 연결','공급사 정보 일부는 예시이며 실제 공급 조건은 상담으로 확인합니다'])),
+  sec('4. 회원의 의무',ul(['서비스 정보를 무단으로 복제·배포하거나 자동 수집하지 않습니다','서비스 운영을 방해하는 행위를 하지 않습니다'])),
+  sec('5. 이용 제한과 탈퇴',ul(['의무를 어기면 사전 안내 후 이용을 제한할 수 있습니다',`탈퇴는 ${mail} 로 요청하시면 처리합니다`])),
+  sec('6. 책임의 범위',ul(['서비스의 품번·호환 정보는 참고 자료이며 실제 적용 전 도면과 사양을 확인해야 합니다','천재지변·통신 장애 등 불가항력으로 생긴 손해는 책임지지 않습니다'])),
+  sec('7. 약관 변경',ul(['약관을 바꾸면 적용 7일 전에 서비스에 알립니다'])),
+  sec('8. 시행일',ul(['2026년 10월 28일']))
+ ]:[
+  sec('1. Purpose',ul(['These terms govern SEMI LINK, operated by SEMILAB GLOBAL'])),
+  sec('2. Accounts',ul(['Sign up with a work email and accurate details · Accounts may not be shared'])),
+  sec('3. Service',ul(['Finding alternative sources by process, chamber, part and material, and connecting to consultation','Some supplier entries are examples · Actual terms are confirmed through consultation'])),
+  sec('4. Your obligations',ul(['No unauthorized copying, redistribution or automated scraping','No interference with the service'])),
+  sec('5. Restriction and closure',ul([`We may restrict accounts that break these terms · Request closure at ${mail}`])),
+  sec('6. Liability',ul(['Part and compatibility data is for reference · Verify drawings and specifications before use','We are not liable for force majeure or network outages'])),
+  sec('7. Changes',ul(['Changes are announced on the service 7 days before they apply'])),
+  sec('8. Effective date',ul(['October 28, 2026']))
+ ];
+ return `${pageHead('SEMI LINK',privacy?L('개인정보처리방침','Privacy policy'):L('이용약관','Terms of use'),'',L('이용 안내','Information'))}<section class="section container"><div class="legal-box legal-doc">${(privacy?pv:tm).join('')}</div></section>`;
 }
 function notFound() {return `${pageHead('SEMI LINK',L('페이지를 찾을 수 없습니다','Page not found'),L('주소를 확인하거나 첫 화면에서 다시 시작해 주세요','Check the address or return to the home page'))}<section class="section container"><div class="button-row">${button('#/',L('첫 화면으로','Return home'),'primary')}</div></section>`;}
 
@@ -499,20 +544,23 @@ document.addEventListener('keydown',event=>{
  const trap=modalRoot.querySelector('.modal')||(explorer.part&&window.matchMedia('(max-width: 1000px)').matches?document.querySelector('.explorer-panel:last-child'):null);
  if(event.key==='Tab'&&trap){const focusables=[...trap.querySelectorAll('a[href],button,input,select,textarea,[tabindex="0"]')].filter(el=>!el.disabled);const first=focusables[0],last=focusables.at(-1);if(event.shiftKey&&(document.activeElement===first||!trap.contains(document.activeElement))){event.preventDefault();last?.focus();}else if(!event.shiftKey&&(document.activeElement===last||!trap.contains(document.activeElement))){event.preventDefault();first?.focus();}}
 });
+function authMessage(reason){return ({nomember:L('가입된 이메일이 아닙니다 · 회원가입 후 로그인해 주세요','No account with this email — Please sign up first'),wrong:L('비밀번호가 맞지 않습니다','Incorrect password'),blocked:L('이용이 제한된 계정입니다 · 문의하기로 연락해 주세요','This account is restricted — Please contact us'),exists:L('이미 가입된 이메일입니다 · 로그인해 주세요','This email is already registered — Please log in'),busy:L('시도가 많습니다 · 10분 뒤 다시 해 주세요','Too many attempts — Try again in 10 minutes'),network:L('연결이 원활하지 않습니다 · 잠시 후 다시 해 주세요','Connection problem — Please try again'),server:L('잠시 후 다시 해 주세요','Please try again shortly')})[reason]||L('입력 내용과 동의 항목을 확인해 주세요','Please check your details and required agreements');}
 document.addEventListener('submit',async event=>{
  const form=event.target;if(!form.matches('[data-form]'))return;event.preventDefault();form.querySelectorAll('.x-field').forEach(x=>x.classList.toggle('bad',[...x.querySelectorAll('input,textarea')].some(i=>!i.checkValidity())));if(!form.reportValidity())return;
  const values=Object.fromEntries(new FormData(form));
  const err=form.querySelector('.form-error');if(err)err.hidden=true;
  if(form.dataset.form==='login') {
-  const result=auth.login(values);
+  const btn=form.querySelector('[type="submit"]');btn.disabled=true;
+  const result=await auth.login(values);btn.disabled=false;
   form.querySelector('[name="password"]').value='';
-  if(!result.ok){err.textContent=result.reason==='membership'?L('회원가입 후 로그인해 주세요','Please create an account before logging in'):L('이메일과 비밀번호를 입력해 주세요','Enter your email and password');err.hidden=false;return;}
+  if(!result.ok){err.textContent=authMessage(result.reason);err.hidden=false;return;}
   const callback=modalOnSuccess;
   if(callback){closeModal(false);nav();callback();}else{const {params}=routeInfo(location.hash);if(routeInfo(location.hash).path==='/login')location.hash=safeReturn(params);else await render({preserveScroll:true});toast(L('로그인되었습니다','You are now signed in'));}
  }
  if(form.dataset.form==='signup') {
-  const result=auth.signup(values);
-  if(!result.ok){err.textContent=L('입력 내용과 동의 항목을 확인해 주세요','Please check your details and required agreements');err.hidden=false;return;}
+  const btn=form.querySelector('[type="submit"]');btn.disabled=true;
+  const result=await auth.signup(values);btn.disabled=false;
+  if(!result.ok){err.textContent=authMessage(result.reason);err.hidden=false;return;}
   form.querySelector('[name="password"]').value='';
   const {params}=routeInfo(location.hash);location.hash=safeReturn(params);toast(L('회원가입이 완료되었습니다','Your account is ready'));
  }
