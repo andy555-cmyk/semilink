@@ -5,7 +5,7 @@
     "material": "Silicon",
     "description": {
       "ko": "정밀한 가공, 안정적인 공정 품질",
-      "en": "Precision machining. Consistent process quality."
+      "en": "Precision machining. Consistent process quality"
     },
     "sourceSlides": [
       3,
@@ -85,7 +85,7 @@
     "material": "Quartz",
     "description": {
       "ko": "석영 부품을 위한 일관된 품질 관리",
-      "en": "Consistent quality for quartz components."
+      "en": "Consistent quality for quartz components"
     },
     "sourceSlides": [
       5,
@@ -145,7 +145,7 @@
     "material": "Al2O3 · AlN · Y2O3 · TiO2 · Sapphire",
     "description": {
       "ko": "다양한 세라믹 소재와 정밀 부품",
-      "en": "Precision components in a range of ceramic materials."
+      "en": "Precision components in a range of ceramic materials"
     },
     "sourceSlides": [
       8,
@@ -263,7 +263,7 @@
     "material": "Sapphire · Quartz",
     "description": {
       "ko": "작은 창에도 더 선명한 이력 관리",
-      "en": "Clear traceability, down to each window."
+      "en": "Clear traceability, down to each window"
     },
     "sourceSlides": [
       11
@@ -368,7 +368,7 @@
     "material": "AlN",
     "description": {
       "ko": "열 제어를 위한 핵심 부품",
-      "en": "Essential components for thermal control."
+      "en": "Essential components for thermal control"
     },
     "sourceSlides": [
       12
@@ -426,7 +426,7 @@
     "material": "Silicone · Kapton · Graphite",
     "description": {
       "ko": "밀봉부터 열 전달, 접지까지",
-      "en": "Sealing, heat transfer and grounding."
+      "en": "Sealing, heat transfer and grounding"
     },
     "sourceSlides": [
       13,
@@ -524,7 +524,7 @@
     "material": "PTFE · PEEK · PAI · Metal",
     "description": {
       "ko": "공정에 맞추는 정밀 가공 부품",
-      "en": "Precision-machined parts for your process."
+      "en": "Precision-machined parts for your process"
     },
     "sourceSlides": [
       15,
@@ -586,7 +586,7 @@
     "material": "Aluminum · Al + Y2O3 coating",
     "description": {
       "ko": "챔버 안팎을 연결하는 금속 부품",
-      "en": "Metal components throughout the chamber."
+      "en": "Metal components throughout the chamber"
     },
     "sourceSlides": [
       19,

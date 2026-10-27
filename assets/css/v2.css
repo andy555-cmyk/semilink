@@ -400,3 +400,18 @@ body[data-route="/"] main{padding-top:0}
 .x-type legend{float:left;width:100%}
 .x-type>div{clear:both}
 .table-scroll{position:relative}
+
+/* ── Apple-like type ── */
+:root{--font-apple:"SF Pro Display","SF Pro Text",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Pretendard Variable",Pretendard,"Segoe UI",sans-serif}
+html,body,button,input,select,textarea{font-family:var(--font-apple)}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;letter-spacing:-.011em}
+h1,h2,h3,.x-big,.x-hero-title,.page-head h1,.x-head h2{font-weight:700;letter-spacing:-.032em}
+.x-hero-title{font-size:clamp(44px,6.6vw,96px);line-height:1.1;font-weight:700;letter-spacing:-.038em;text-shadow:none}
+.x-hero-title .x-line:first-child{background:linear-gradient(180deg,#ffffff 30%,#c9d6ea 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.x-hero-title .x-grad{background-image:linear-gradient(90deg,#5ee7ff 0%,#7fb2ff 45%,#b9a6ff 100%);filter:none;background-size:100% 100%;animation:none}
+.x-hero-lead{font-weight:400;color:#d5dff0;letter-spacing:-.01em}
+.x-pill{font-weight:500}
+.x-hero-facts strong,.x-stat strong{font-weight:700;letter-spacing:-.03em;font-variant-numeric:tabular-nums}
+.x-big{font-weight:700;letter-spacing:-.035em}
+.x-stat strong small,.x-hero-facts strong small{font-weight:600}
+.x-cursor-grid{position:fixed;inset:0;width:100vw;height:100vh;pointer-events:none;z-index:90}

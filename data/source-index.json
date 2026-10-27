@@ -43,7 +43,7 @@
     },
     {
       "slide": 11,
-      "text": "Tool | Part Number | Picture | SIZE\nLAM Research\u000bAlliance TCP 9400/9600, Exelan | 716-027740-005\n(Quartz) |  | Ø38.1x6.3T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F, 9400/9600 | 15-151683-00 |  | Ø20.5x3T\nAMAT\u000bCentura, Endura, Precision 5000 | 0200-01195 |  | Ø31.8x3.2T\nAMAT\u000bCentura AP, Centura 5200, DPI | 3440-01037 |  | Ø25x2T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-00 |  | Ø22x1T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-01 |  | Ø22x1.25T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-02 |  | Ø22x1.52T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-04 |  | Ø22x1.98T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-05 |  | Ø22x0.75T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-06 |  | Ø22x0.5T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-07 |  | Ø22x0.25T\nASM\u000bEagle 10, Eagle 12 PEALD/PECVD | AB-MM000026452-0 |  | 57x72x3T\nTEL\u000bTactras Vigus, Tactras SCCM | 1D10-406499-11 |  | 27.5x21x0.55T\nTEL\u000bTactras Vigus | 2L10-450605-11 |  | 22X27.5X0.6T\nTEL\u000bTactras Vigus | 2L10-450605-11 |  | 22X27.5X0.55T\nTEL\u000bTactras Vigus | 2L10-450605-11 |  | 27.5x23.8x0.5T\nSapphire Window, Alternative Sources\nCapable to engrave S/N for / History tracking / Visibility\nOEM is supplying the latest window products with Serial Number engraved on them. / BUT, there are very few suppliers who can support it."
+      "text": "Tool | Part Number | Picture | SIZE\nLAM Research\u000bAlliance TCP 9400/9600, Exelan | 716-027740-005\n(Quartz) |  | Ø38.1x6.3T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F, 9400/9600 | 15-151683-00 |  | Ø20.5x3T\nAMAT\u000bCentura, Endura, Precision 5000 | 0200-01195 |  | Ø31.8x3.2T\nAMAT\u000bCentura AP, Centura 5200, DPI | 3440-01037 |  | Ø25x2T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-00 |  | Ø22x1T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-01 |  | Ø22x1.25T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-02 |  | Ø22x1.52T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-04 |  | Ø22x1.98T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-05 |  | Ø22x0.75T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-06 |  | Ø22x0.5T\nLAM Research\u000bKiyo C, Kiyo D, Kiyo F | 15-260932-07 |  | Ø22x0.25T\nASM\u000bEagle 10, Eagle 12 PEALD/PECVD | AB-MM000026452-0 |  | 57x72x3T\nTEL\u000bTactras Vigus, Tactras SCCM | 1D10-406499-11 |  | 27.5x21x0.55T\nTEL\u000bTactras Vigus | 2L10-450605-11 |  | 22X27.5X0.6T\nTEL\u000bTactras Vigus | 2L10-450605-11 |  | 22X27.5X0.55T\nTEL\u000bTactras Vigus | 2L10-450605-11 |  | 27.5x23.8x0.5T\nSapphire Window, Alternative Sources\nCapable to engrave S/N for / History tracking / Visibility\nOEM is supplying the latest window products with Serial Number engraved on them. / BUT, there are very few suppliers who can support it"
     },
     {
       "slide": 12,
@@ -103,7 +103,7 @@
     },
     {
       "slide": 26,
-      "text": "THANK YOU FOR / YOUR SUPPORT\nPlease contact us / if you have any inquiries."
+      "text": "THANK YOU FOR / YOUR SUPPORT\nPlease contact us / if you have any inquiries"
     }
   ],
   "tables": [
@@ -112,7 +112,7 @@
       "table": 1,
       "sourceRows": 22,
       "headers": [
-        "Part No.",
+        "Part No",
         "Tool"
       ]
     },
@@ -121,7 +121,7 @@
       "table": 2,
       "sourceRows": 12,
       "headers": [
-        "Part No.",
+        "Part No",
         "Tool"
       ]
     },
@@ -130,7 +130,7 @@
       "table": 3,
       "sourceRows": 13,
       "headers": [
-        "Part No.",
+        "Part No",
         "Tool"
       ]
     },
@@ -139,7 +139,7 @@
       "table": 4,
       "sourceRows": 28,
       "headers": [
-        "Part No.",
+        "Part No",
         "Tool"
       ]
     },
@@ -148,7 +148,7 @@
       "table": 5,
       "sourceRows": 17,
       "headers": [
-        "Part No.",
+        "Part No",
         "Tool"
       ]
     },
@@ -157,7 +157,7 @@
       "table": 6,
       "sourceRows": 12,
       "headers": [
-        "Part No.",
+        "Part No",
         "Tool"
       ]
     },
@@ -166,7 +166,7 @@
       "table": 7,
       "sourceRows": 22,
       "headers": [
-        "Part No.",
+        "Part No",
         "Tool"
       ]
     },
@@ -372,19 +372,19 @@
       "headers": [
         "OEM",
         "Article",
-        "Part No.",
+        "Part No",
         "Tool",
         "OEM",
         "Article",
-        "Part No.",
+        "Part No",
         "Tool",
         "OEM",
         "Article",
-        "Part No.",
+        "Part No",
         "Tool",
         "OEM",
         "Article",
-        "Part No.",
+        "Part No",
         "Tool"
       ]
     },
@@ -395,15 +395,15 @@
       "headers": [
         "OEM",
         "Article",
-        "Part No.",
+        "Part No",
         "Tool",
         "OEM",
         "Article",
-        "Part No.",
+        "Part No",
         "Tool",
         "OEM",
         "Article",
-        "Part No.",
+        "Part No",
         "Tool"
       ]
     },
@@ -627,5 +627,5 @@
       "mergedRows": 1
     }
   },
-  "deduplication": "OEM + case-insensitive part number; source variants retained."
+  "deduplication": "OEM + case-insensitive part number; source variants retained"
 }

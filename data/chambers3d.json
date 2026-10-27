@@ -3,7 +3,7 @@
     "units": "mm",
     "scale": 0.01,
     "waferDiameter": 300,
-    "note": "Illustrative proportions from the supplied diagram; not manufacturing dimensions.",
+    "note": "Illustrative proportions from the supplied diagram; not manufacturing dimensions",
     "section": { "phiStart": 1.5707963267948966, "phiLength": 4.71238898038469 },
     "parts": [
       { "id": "choke", "material": "peek", "rInner": 18, "rOuter": 213, "yBottom": 303, "yTop": 322, "explodeY": 124, "profile": [[18,303],[207,303],[213,308],[213,318],[209,322],[18,322]] },
@@ -31,7 +31,7 @@
     "units": "mm",
     "scale": 0.01,
     "waferDiameter": 300,
-    "note": "Illustrative proportions from the supplied diagram; not manufacturing dimensions.",
+    "note": "Illustrative proportions from the supplied diagram; not manufacturing dimensions",
     "section": { "phiStart": 1.5707963267948966, "phiLength": 4.71238898038469 },
     "parts": [
       { "id": "showerhead", "material": "aluminum", "rInner": 0, "rOuter": 201, "yBottom": 285, "yTop": 313, "explodeY": 124, "profile": [[0,285],[195,285],[201,291],[201,309],[197,313],[0,313]], "ports": { "rings": [26,52,78,104,130,156,181], "spacing": 20, "radius": 1.8 } },

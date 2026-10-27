@@ -11,8 +11,8 @@
     "Novellus"
   ],
   "business": {
-    "ko": "반도체 식각·증착 공정에 쓰이는 소모성 부품의 대체 공급원을 연결합니다.",
-    "en": "We connect alternative sources for consumable components used in semiconductor etch and deposition processes."
+    "ko": "반도체 식각·증착 공정에 쓰이는 소모성 부품의 대체 공급원을 연결합니다",
+    "en": "We connect alternative sources for consumable components used in semiconductor etch and deposition processes"
   },
   "strengths": [
     {
@@ -38,8 +38,8 @@
         "en": "Preliminary analysis"
       },
       "description": {
-        "ko": "공정 이슈를 빠르게 분석하고 보고합니다.",
-        "en": "Fast preliminary analysis and reporting."
+        "ko": "공정 이슈를 빠르게 분석하고 보고합니다",
+        "en": "Fast preliminary analysis and reporting"
       }
     },
     {
