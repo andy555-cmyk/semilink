@@ -1,17 +1,31 @@
-// Replace this adapter when a form delivery service is connected.
-export const SUBMIT_MODE = 'mailto';
-export function buildMailto(values, email = 'theojeon@semilabglobal.com') {
-  const subject = `[SEMI LINK] ${values.company || ''} / ${values.part || '부품 상담'}`;
-  const body = [
-    `회사명 / Company: ${values.company || ''}`, `담당자 / Name: ${values.name || ''}`,
-    `이메일 / Email: ${values.email || ''}`, `전화 / Phone: ${values.phone || ''}`,
-    `관심 품목·품번 / Part: ${values.part || ''}`, `수량 / Quantity: ${values.quantity || ''}`,
-    '', values.message || '', '', '개인정보 수집·이용 동의 / Privacy consent: Yes'
-  ].join('\n');
+// Inquiry delivery. 'formsubmit' posts to FormSubmit (sends to the designated mailbox, no server needed);
+// the first submission triggers a one-time activation email to that mailbox. Falls back to mailto on failure.
+export const SUBMIT_MODE = 'formsubmit';
+const FIELDS = [
+  ['type', '1. User / Distributor / Manufacturer'], ['company', '2. Company Name'], ['location', '3. Business Location'],
+  ['regno', '4. Business Registration Number'], ['name', '5. Contact Person Name'], ['mobile', '6. Contact (Mobile)'],
+  ['email', '7. Contact (Email)'], ['message', '8. Inquiry']
+];
+export function inquiryLines(values) {
+  return FIELDS.map(([k, label]) => `${label}: ${values[k] || '-'}`);
+}
+export function buildMailto(values, email) {
+  const subject = `[SEMI LINK Inquiry] ${values.company || ''} (${values.type || ''})`;
+  const body = [...inquiryLines(values), '', 'Privacy consent: Yes'].join('\n');
   return `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 }
-export function submitContact(values, email) {
+export async function submitContact(values, email) {
   if (!values.privacy) throw new Error('Privacy consent required');
-  if (SUBMIT_MODE === 'mailto') return {url:buildMailto(values, email), mode:SUBMIT_MODE};
-  throw new Error('Unsupported submission mode');
+  if (SUBMIT_MODE === 'formsubmit') {
+    const payload = { _subject: `[SEMI LINK Inquiry] ${values.company || ''} (${values.type || ''})`, _template: 'table', _captcha: 'false', _replyto: values.email };
+    FIELDS.forEach(([k, label]) => { payload[label] = values[k] || '-'; });
+    payload._honey = values._honey || '';
+    const res = await fetch(`https://formsubmit.co/ajax/${encodeURIComponent(email)}`, {
+      method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify(payload)
+    });
+    const json = await res.json().catch(() => ({}));
+    if (!res.ok || String(json.success) === 'false') throw Object.assign(new Error('delivery failed'), { mailto: buildMailto(values, email) });
+    return { mode: SUBMIT_MODE };
+  }
+  return { url: buildMailto(values, email), mode: 'mailto' };
 }

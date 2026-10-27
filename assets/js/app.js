@@ -111,10 +111,54 @@ function home() {
 }
 function companyPage() {
  const c=data.company;
- return `${pageHead('ABOUT SEMI LINK',L('공정과 공급을 잇는 연결','Connecting processes and supply'),L('반도체 부품의 대체 공급원, SEMI LINK에서 찾으세요.','Find your next source for semiconductor components.'),L('회사소개','Company'))}<section class="section container"><div class="company-intro"><div><span class="eyebrow">SEMILAB GLOBAL</span><h2>${L('더 나은 공급의 길을<br>함께 만듭니다.','Creating better<br>paths to supply.')}</h2><p>${esc(loc(c.business))}</p><p>${L('SEMI LINK는 챔버 구조도에서 필요한 부품을 찾고, 소재별 공급사를 살펴볼 수 있는 플랫폼입니다. 장비와 공정에 맞는 부품 탐색부터 상담까지 하나의 흐름으로 연결합니다.','SEMI LINK helps you locate components in chamber diagrams and explore suppliers by material. Move from the part you need to a sourcing conversation in one clear flow.')}</p>${button('#/front/etch',L('공정별 부품 살펴보기','Explore chamber parts'),'outline')}</div><dl class="company-table"><dt>${L('회사명','Company')}</dt><dd>${esc(c.name)}</dd><dt>${L('대표','CEO')}</dt><dd>${esc(c.ceo)}</dd><dt>${L('사업','Business')}</dt><dd>${L('반도체 소모성 부품 대체 공급','Alternative semiconductor consumable parts')}</dd><dt>${L('취급 품목','Portfolio')}</dt><dd>Silicon · SiC · Quartz · Ceramic · Gasket · Machining · Heater · ESC · Metal Liner</dd><dt>${L('이메일','Email')}</dt><dd><a href="mailto:${c.email}">${esc(c.email)}</a></dd><dt>${L('전화','Phone')}</dt><dd><a href="tel:${c.phone.replaceAll('-','')}">${c.phone}</a></dd><dt>LinkedIn</dt><dd><a href="${c.linkedin}" target="_blank" rel="noopener noreferrer">Theo Jeon ↗</a></dd></dl></div></section><section class="section soft"><div class="container"><div class="section-head"><span class="eyebrow">OUR COMMITMENT</span><h2>${L('함께할 수 있는 이유','Why partner with us')}</h2></div>${strengths()}</div></section><section class="section container"><div class="section-head"><span class="eyebrow">WHAT’S NEXT</span><h2>${L('연결의 다음 단계','More connections ahead')}</h2></div><div class="future-grid"><article class="future-card"><span class="badge">${L('준비 중','Coming soon')}</span><h3>${L('회사 연혁','Company milestones')}</h3><p>${L('SEMILAB GLOBAL의 발자취를 소개할 예정입니다.','Discover SEMILAB GLOBAL’s milestones here soon.')}</p></article><article class="future-card"><span class="badge">${L('준비 중','Coming soon')}</span><h3>${L('품질 관리와 공급 역량','Quality and supply capabilities')}</h3><p>${L('품질 관리와 부품 공급에 관한 정보를 소개할 예정입니다.','More information about our quality and supply capabilities is on its way.')}</p></article></div></section><section class="section container">${cta()}</section>`;
+ const facts=[[L('회사명','Company'),esc(c.name)],[L('대표','CEO'),esc(c.ceo)],[L('사업','Business'),L('반도체 소모성 부품 대체 공급','Alternative semiconductor consumable parts')],[L('주력 공정','Focus processes'),L('식각 · 증착','Etch · Deposition')]];
+ const steps=[[L('공정','Process'),L('8대 공정 중 내 공정을 고릅니다','Pick your process from eight')],[L('챔버','Chamber'),L('3D 챔버를 열어 부품을 찾습니다','Open the 3D chamber, find the part')],[L('소재','Material'),L('쓸 수 있는 소재를 비교합니다','Compare usable materials')],[L('공급사','Supplier'),L('검증된 대체 공급원과 연결됩니다','Connect with a qualified 2nd source')]];
+ return `${pageHead('ABOUT SEMI LINK',L('공정과 공급을 잇는 연결','Connecting process and supply'),L('반도체 부품의 대체 공급원, SEMI LINK에서 찾으세요.','Find your next source for semiconductor components.'),L('회사소개','Company'))}
+ <section class="x-statement x-statement-sm"><p class="x-big rv">${L('더 나은 공급의 길을<br><em>함께 만듭니다.</em>','Building better paths<br><em>to supply, together.</em>')}</p><p class="x-sub rv">${esc(loc(c.business))}<br>${L('챔버 구조도에서 부품을 찾고, 소재별 공급사를 살펴보고, 상담까지 하나의 흐름으로 잇습니다.','Find the part in the chamber, compare suppliers by material, and move straight to a sourcing conversation.')}</p></section>
+ <section class="x-section x-tight"><div class="x-wrap"><div class="x-facts rv">${facts.map(([k,v],i)=>`<div style="--i:${i}"><small>${k}</small><b>${v}</b></div>`).join('')}</div>
+  <div class="x-portfolio rv"><small>${L('취급 품목','Portfolio')}</small><div>${['Silicon','SiC','Quartz','Ceramic','Gasket','Machining','Heater','ESC','Metal Liner'].map(x=>`<span>${x}</span>`).join('')}</div></div></div></section>
+ <section class="x-section x-dark">
+  <video class="x-band-media" autoplay muted loop playsinline preload="none" poster="assets/img/hero/hero-wafer.webp" aria-hidden="true"><source src="assets/video/hero-wafer.mp4" type="video/mp4"></video>
+  <div class="x-wrap"><div class="x-head rv"><span class="x-eyebrow">OUR COMMITMENT</span><h2>${L('함께할 수 있는 이유','Why partner with us')}</h2></div>
+  <div class="x-stats rv">${c.strengths.map((s,i)=>`<div class="x-stat"><strong><span data-counter="${i}" data-value="${s.value}">${s.value}</span><small>${esc(loc(s.unit))}</small></strong><b>${esc(loc(s.label))}</b><p>${esc(loc(s.description))}</p></div>`).join('')}</div>
+  <div class="x-chips rv"><span>${L('샘플·소량 시험 주문 환영','Samples & trial orders welcome')}</span><span>${L('전 과정 이력 추적','Full traceability')}</span><span>${L('Lam · TEL · AMAT · Novellus 장비 호환','Lam · TEL · AMAT · Novellus compatible')}</span></div></div>
+ </section>
+ <section class="x-section"><div class="x-wrap"><div class="x-head rv"><span class="x-eyebrow">HOW SEMI LINK WORKS</span><h2>${L('네 번의 선택이면 공급원까지','Four choices to a new source')}</h2></div>
+  <ol class="x-steps rv">${steps.map(([a,b],i)=>`<li style="--i:${i}"><span>0${i+1}</span><b>${a}</b><p>${b}</p></li>`).join('')}</ol>
+  <div class="x-center rv"><a class="x-btn x-btn-glow" href="#/front/etch">${L('3D 챔버에서 시작하기','Start in the 3D chamber')}<span aria-hidden="true">→</span></a></div></div></section>
+ <section class="x-section x-soft"><div class="x-wrap x-contact-grid">
+  <div class="x-head x-head-left rv"><span class="x-eyebrow">CONTACT</span><h2>${L('품번 하나로<br>상담을 시작하세요','Start with<br>a single part number')}</h2><p>${L('도면이나 품번을 보내 주시면 5영업일 안에 예비 분석을 드립니다.','Send a drawing or part number for a preliminary analysis within 5 working days.')}</p></div>
+  <div class="x-contact rv"><a href="mailto:${c.email}"><small>${L('이메일','Email')}</small><b>${esc(c.email)}</b></a><a href="tel:${c.phone.replaceAll('-','')}"><small>${L('전화','Phone')}</small><b>${c.phone}</b></a><a href="${c.linkedin}" target="_blank" rel="noopener noreferrer"><small>LinkedIn</small><b>Theo Jeon ↗</b></a><a class="x-contact-go" href="#/contact"><small>${L('온라인','Online')}</small><b>${L('부품 상담 신청','Request a consultation')} →</b></a></div>
+ </div></section>
+ <section class="x-section"><div class="x-wrap"><div class="x-head rv"><span class="x-eyebrow">WHAT’S NEXT</span><h2>${L('연결의 다음 단계','More connections ahead')}</h2></div>
+  <div class="x-future rv"><article><span>${L('준비 중','Coming soon')}</span><h3>${L('회사 연혁','Company milestones')}</h3><p>${L('SEMILAB GLOBAL의 발자취를 소개할 예정입니다.','Discover SEMILAB GLOBAL’s milestones here soon.')}</p></article><article><span>${L('준비 중','Coming soon')}</span><h3>${L('품질 관리와 공급 역량','Quality and supply capabilities')}</h3><p>${L('품질 관리와 부품 공급에 관한 정보를 소개할 예정입니다.','More on our quality and supply capabilities is on its way.')}</p></article><article><span>${L('준비 중','Coming soon')}</span><h3>${L('나머지 6대 공정','Six more processes')}</h3><p>${L('산화·포토·배선·테스트·패키징 공정을 차례로 엽니다.','Oxidation, photo, metallization, test and packaging are next.')}</p></article></div></div></section>`;
 }
 function productsPage() {
- return `${pageHead('PRODUCT PORTFOLIO',L('공정에 필요한 부품, 한곳에','Components for your process'),L('소재와 품목별로 살펴보고, 품번으로 빠르게 찾아보세요.','Browse by material and category, or find a specific part number.'),L('제품','Products'))}<section class="section container"><div class="product-grid">${data.categories.map(c=>`<a class="product-card" href="#/products/${c.id}"><div class="product-image">${photo(c.images[0],c.name)}</div><div class="product-card-body"><h3>${esc(c.name)}</h3><p>${esc(c.material)}</p><div class="card-bottom"><span>${L('품목 살펴보기','Explore parts')}</span>${arrow}</div></div></a>`).join('')}</div></section><section class="section container">${cta()}</section>`;
+ return `${pageHead('PRODUCT PORTFOLIO',L('공정에 필요한 부품, 한곳에','Components for your process'),L('소재와 품목별로 살펴보고, 품번으로 빠르게 찾아보세요.','Browse by material and category, or find a specific part number.'),L('제품','Products'))}
+ <section class="x-section x-tight"><div class="x-wrap">
+  <div class="x-gsearch rv"><label>${icon('search')}<span class="sr-only">${L('전체 품번 검색','Search all part numbers')}</span><input id="global-search" type="search" autocomplete="off" maxlength="100" placeholder="${L('품번·장비명·부품명으로 전체 검색 (예: 716-, Kiyo, ESC)','Search every part number, tool or name (e.g. 716-, Kiyo, ESC)')}"></label><p id="global-meta">${L('8개 분류의 전체 품번을 한 번에 찾습니다.','Search across all eight categories at once.')}</p><div id="global-results" aria-live="polite"></div></div>
+ </div></section>
+ <section class="x-section x-tight-top"><div class="x-wrap"><div class="x-head rv"><span class="x-eyebrow">8 CATEGORIES</span><h2>${L('소재별로 둘러보세요','Browse by material')}</h2></div>
+  <div class="x-bento x-bento-full rv">${data.categories.map((c,i)=>`<a class="x-tile ${i<2?'wide':''}" href="#/products/${c.id}" style="--i:${i}"><div class="x-tile-img">${c.images?.[0]?`<img src="${esc(c.images[0].src)}" alt="" loading="lazy" width="${c.images[0].width}" height="${c.images[0].height}">`:''}</div><div class="x-tile-txt"><small>${esc(c.material)}</small><b>${esc(c.name)}</b><em data-cat-count="${c.id}"></em></div><span class="x-tile-go" aria-hidden="true">→</span></a>`).join('')}</div>
+  <div class="x-oems rv"><span>${L('호환 장비','Compatible with')}</span>${data.company.oems.map(o=>`<b>${esc(o)}</b>`).join('')}</div></div></section>
+ <section class="x-section x-soft"><div class="x-wrap">${cta()}</div></section>`;
+}
+async function bindProducts() {
+ const counts=document.querySelectorAll('[data-cat-count]');
+ const input=document.querySelector('#global-search');
+ if(!counts.length&&!input)return;
+ const all=await Promise.all(data.categories.map(c=>getJSON(`data/products/${c.id}.json`).then(rows=>rows.map(r=>({...r,cat:c})))));
+ counts.forEach(el=>{const n=all[data.categories.findIndex(c=>c.id===el.dataset.catCount)]?.length;if(n)el.textContent=`${n.toLocaleString()} ${L('품번','part numbers')}`;});
+ if(!input)return;
+ const flat=all.flat(),out=document.querySelector('#global-results'),meta=document.querySelector('#global-meta');
+ meta.textContent=L(`8개 분류, 전체 ${flat.length.toLocaleString()}개 품번을 한 번에 찾습니다.`,`Search ${flat.length.toLocaleString()} part numbers across eight categories.`);
+ let t;input.addEventListener('input',()=>{clearTimeout(t);t=setTimeout(()=>{
+  const q=input.value.trim().toLowerCase();
+  if(q.length<2){out.innerHTML='';out.classList.remove('on');return;}
+  const hits=flat.filter(r=>[r.partNo,r.description,r.tool,r.oem].some(v=>String(v||'').toLowerCase().includes(q)));
+  out.classList.add('on');
+  out.innerHTML=hits.length?`<div class="x-gs-head">${L(`${hits.length.toLocaleString()}개 찾음`,`${hits.length.toLocaleString()} matches`)}${hits.length>12?` · ${L('앞 12개 표시','showing 12')}`:''}</div>${hits.slice(0,12).map(r=>`<div class="x-gs-row"><span class="x-gs-cat">${esc(r.cat.name)}</span><b>${esc(r.partNo)}</b><span class="x-gs-desc">${esc(r.description)||'—'}</span><span class="x-gs-tool">${esc(r.oem)||''}${r.tool?` · ${esc(r.tool)}`:''}</span><a class="x-gs-go" href="#/contact?part=${encodeURIComponent(r.partNo)}">${L('견적 문의','Get quote')}</a></div>`).join('')}`:`<div class="x-gs-empty">${L('찾는 품번이 없습니다. 품번을 보내 주시면 공급원을 찾아 드립니다.','No match. Send us the part number and we will source it.')} <a href="#/contact?part=${encodeURIComponent(input.value.trim())}">${L('상담 신청','Ask us')} →</a></div>`;
+ },160);});
 }
 function technicalSpecs(id) {
  const specs=(data.technicalSpecs||[]).filter(s=>s.category===id);
@@ -147,8 +191,8 @@ async function renderPanels(focus=true) {
  const mat=mats.find(m=>m.id===explorer.material);
  const supplier=data.suppliers.suppliers.find(s=>s.id===explorer.supplier);
  const supplierList=mat?data.suppliers.suppliers.filter(s=>s.materials.includes(mat.id)):[];
- let html=`<section class="explorer-panel level-1" role="dialog" aria-labelledby="panel-title-1">${panelHead(1,'Available Material')}<div class="panel-body"><p class="panel-context">${esc(part.name)}</p>${mats.map(m=>`<button class="material-option" data-material="${m.id}" aria-pressed="${m.id===explorer.material}"><i class="dot ${m.color}"></i>${esc(m.name)}<span class="arrow" aria-hidden="true">→</span></button>`).join('')}</div></section>`;
- if(mat) html+=`<section class="explorer-panel level-2" role="dialog" aria-labelledby="panel-title-2">${panelHead(2,`Material: ${mat.name}`)}<div class="panel-body"><button class="panel-back" data-back="1">← ${L('소재 다시 선택','Back to materials')}</button>${supplierList.map(s=>`<button class="supplier-option" data-supplier="${s.id}" aria-pressed="${s.id===explorer.supplier}"><span>${esc(s.name)}<small>${L('가능 부품 수','Available parts')} ${s.availableParts}ea</small><small>Supplying to '${s.customers[0]}' Company</small></span><span class="arrow" aria-hidden="true">→</span></button>`).join('')||`<p>${L('이 소재의 공급사 정보는 상담으로 안내합니다.','Contact us for suppliers of this material.')}</p>`}</div></section>`;
+ let html=`<section class="explorer-panel level-1" role="dialog" aria-labelledby="panel-title-1">${panelHead(1,L('사용 가능한 소재','Available materials'))}<div class="panel-body"><p class="panel-context">${esc(part.name)}</p>${mats.map(m=>`<button class="material-option" data-material="${m.id}" aria-pressed="${m.id===explorer.material}"><i class="dot ${m.color}"></i>${esc(m.name)}<span class="arrow" aria-hidden="true">→</span></button>`).join('')}</div></section>`;
+ if(mat) html+=`<section class="explorer-panel level-2" role="dialog" aria-labelledby="panel-title-2">${panelHead(2,L(`${mat.name} 공급사`,`Suppliers · ${mat.name}`))}<div class="panel-body"><button class="panel-back" data-back="1">← ${L('소재 다시 선택','Back to materials')}</button>${supplierList.map(s=>`<button class="supplier-option" data-supplier="${s.id}" aria-pressed="${s.id===explorer.supplier}"><span>${esc(s.name)}<small>${L('가능 부품 수','Available parts')} ${s.availableParts}ea</small><small>Supplying to '${s.customers[0]}' Company</small></span><span class="arrow" aria-hidden="true">→</span></button>`).join('')||`<p>${L('이 소재의 공급사 정보는 상담으로 안내합니다.','Contact us for suppliers of this material.')}</p>`}</div></section>`;
  if(mat&&supplier&&supplierList.includes(supplier)) {
   const category=mat.id==='sapphire'&&part.name==='Lift Pins'?'ceramic':mat.category;
   const sourceRows=await getJSON(`data/products/${category}.json`);
@@ -161,8 +205,10 @@ async function renderPanels(focus=true) {
   let examples=rows.filter(r=>!term||r.description.toLowerCase().includes(term.toLowerCase()));
   // These are real catalog references, not verified supplier inventory. Suppliers are sample data.
   if(!examples.length) examples=rows;
-  html+=`<section class="explorer-panel level-3" role="dialog" aria-labelledby="panel-title-3">${panelHead(3,`Supplier Name: ${supplier.id}`)}<div class="panel-body"><button class="panel-back" data-back="2">← ${L('공급사 다시 선택','Back to suppliers')}</button><dl class="supplier-facts"><div><dt>Establishment</dt><dd>${esc(supplier.establishment)}</dd></div><div><dt>Location</dt><dd>${esc(supplier.location)}</dd></div><div><dt>No. of available parts</dt><dd>${supplier.availableParts}ea</dd></div><div><dt>Key Customers</dt><dd>${supplier.customers.map(esc).join(', ')}</dd></div></dl><p class="panel-context">${L('카탈로그 품번 예시','Catalog part number examples')}</p><ul class="part-examples">${examples.slice(0,5).map(r=>`<li>${esc(r.oem)} · ${esc(r.partNo)}</li>`).join('')}</ul><button class="btn primary block" data-action="more-detail">More detail ${arrow}</button></div></section>`;
+  html+=`<section class="explorer-panel level-3" role="dialog" aria-labelledby="panel-title-3">${panelHead(3,L(`공급사 ${supplier.id}`,`Supplier ${supplier.id}`))}<div class="panel-body"><button class="panel-back" data-back="2">← ${L('공급사 다시 선택','Back to suppliers')}</button><dl class="supplier-facts"><div><dt>${L('설립','Established')}</dt><dd>${esc(supplier.establishment)}</dd></div><div><dt>${L('위치','Location')}</dt><dd>${esc(supplier.location)}</dd></div><div><dt>${L('가능 부품 수','Available parts')}</dt><dd>${supplier.availableParts}ea</dd></div><div><dt>${L('주요 고객','Key customers')}</dt><dd>${supplier.customers.map(esc).join(', ')}</dd></div></dl><p class="panel-context">${L('카탈로그 품번 예시','Catalog part number examples')}</p><ul class="part-examples">${examples.slice(0,5).map(r=>`<li>${esc(r.oem)} · ${esc(r.partNo)}</li>`).join('')}</ul><button class="btn primary block" data-action="more-detail">${L('상세 정보·견적 요청','More detail')} ${arrow}</button></div></section>`;
  }
+ const trail=[[L('부품','Part'),part.name,''],[L('소재','Material'),mat?.name,'1'],[L('공급사','Supplier'),supplier&&mat?supplier.id:null,'2']];
+ html=`<ol class="x-trail" aria-label="${L('탐색 단계','Steps')}">${trail.map(([k,v,b],i)=>`<li class="${v?'done':''} ${i===(supplier&&mat?2:mat?1:0)?'now':''}">${v&&b?`<button data-back="${b}">`:'<span>'}<small>0${i+1} ${k}</small><b>${v?esc(v):L('선택 전','—')}</b>${v&&b?'</button>':'</span>'}</li>`).join('')}</ol>`+html;
  stage.innerHTML=html;
  document.querySelector('.chamber-workspace')?.classList.add('has-selection');
  document.querySelectorAll('[data-part], [data-select-part]').forEach(el=>el.classList.toggle('active',(el.dataset.part||el.dataset.selectPart)===part.id));
@@ -187,7 +233,32 @@ function backPage() {
 const field=(name,label,type='text',required=false,value='',placeholder='')=>`<div class="field"><label for="contact-${name}">${label}${required?'<span class="required" aria-hidden="true">*</span>':''}</label><input id="contact-${name}" name="${name}" type="${type}" ${required?'required':''} ${name==='quantity'?'min="1" step="1"':''} value="${esc(value)}" placeholder="${esc(placeholder)}" maxlength="${type==='email'?254:200}" ${['email','name','phone','company'].includes(name)?`autocomplete="${{email:'email',name:'name',phone:'tel',company:'organization'}[name]}"`:''}></div>`;
 function contactPage(params) {
  const c=data.company;
- return `${pageHead('LET’S CONNECT',L('필요한 부품을 알려 주세요.','Tell us what you need.'),L('품번 하나, 도면 한 장에서 더 나은 공급을 시작합니다.','A part number or drawing is all it takes to start the conversation.'),L('문의하기','Contact'))}<section class="section container"><div class="form-layout"><aside class="contact-aside"><span class="eyebrow">PARTS & SOURCING</span><h2>${L('적합한 공급원을<br>함께 찾습니다.','Let’s find your<br>next source.')}</h2><p>${L('찾는 부품과 공정 정보를 남겨 주세요.<br>샘플·소량 시험 주문도 상담할 수 있습니다.','Share your part and process requirements.<br>Evaluation samples and small trial orders are welcome.')}</p><div class="contact-details"><div><span>${L('이메일','Email')}</span><a href="mailto:${c.email}">${c.email}</a></div><div><span>${L('전화','Phone')}</span><a href="tel:${c.phone.replaceAll('-','')}">${c.phone}</a></div><div><span>${L('담당자','Contact')}</span>Theo Jeon · SEMILAB GLOBAL</div></div></aside><div class="form-card"><form data-form="contact"><div class="form-grid">${field('company',L('회사명','Company'),'text',true)}${field('name',L('담당자','Name'),'text',true)}${field('email',L('업무 이메일','Work email'),'email',true)}${field('phone',L('전화','Phone'),'tel',true)}${field('part',L('관심 품목·품번','Part or part number'),'text',false,params.get('part')||'',L('예: 0010-03840','e.g. 0010-03840'))}${field('quantity',L('수량','Quantity'),'number',false)}<div class="field full"><label for="contact-message">${L('문의 내용','Message')}<span class="required" aria-hidden="true">*</span></label><textarea id="contact-message" name="message" required maxlength="6000" placeholder="${L('사용 장비, 공정, 필요한 부품을 알려 주세요.','Tell us about your tool, process and part requirements.')}"></textarea></div></div><label class="check-row"><input type="checkbox" name="privacy" required><span>${L('상담을 위한 개인정보 수집·이용에 동의합니다.','I consent to the collection and use of my information for this inquiry.')} <a href="#/privacy" target="_blank" rel="noopener">${L('자세히 보기','Read more')}</a><br>${L('입력하신 정보는 상담과 회신에 사용됩니다.','The information you provide is used to respond to your inquiry.')}</span></label><div class="form-error" role="alert" hidden></div><button class="btn primary block" type="submit">${L('이메일로 상담 신청','Send inquiry by email')}${arrow}</button><p class="form-note">${L('기본 메일 앱이 열립니다. 메일 앱에서 내용을 확인한 뒤 전송해 주세요.','Your default email app will open. Review the message and send it from your email app.')}</p><div class="contact-result" aria-live="polite"></div></form></div></div></section>`;
+ const req=`<span class="required" aria-hidden="true">*</span><span class="sr-only">${L('필수','required')}</span>`;
+ const f=(n,name,ko,en,type,required,ph='')=>`<div class="x-field"><label for="ct-${name}"><i>${n}</i>${L(ko,en)}${required?req:`<em>${L('선택','Optional')}</em>`}</label><input id="ct-${name}" name="${name}" type="${type}" ${required?'required':''} maxlength="200" placeholder="${ph}" ${type==='email'?'autocomplete="email"':type==='tel'?'autocomplete="tel"':''}></div>`;
+ const pre=params.get('part')?L(`품번 ${params.get('part')} 문의드립니다.\n`,`Inquiry about part ${params.get('part')}.\n`):'';
+ return `${pageHead('LET’S CONNECT',L('필요한 부품을 알려 주세요.','Tell us what you need.'),L('문의를 확인한 뒤 빠르게 연락드립니다. 문의는 담당자에게 자동으로 전달됩니다.','We will contact you shortly after checking your inquiry. It reaches the manager automatically.'),L('문의하기','Contact'))}
+ <section class="x-section x-tight"><div class="x-wrap x-contact-wrap">
+  <aside class="x-contact-side rv"><span class="x-eyebrow">PARTS & SOURCING</span><h2>${L('적합한 공급원을<br>함께 찾습니다','Let’s find your<br>next source')}</h2><p>${L('샘플·소량 시험 주문도 상담할 수 있습니다.','Evaluation samples and small trial orders are welcome.')}</p>
+   <ul><li><small>${L('이메일','Email')}</small><a href="mailto:${c.email}">${c.email}</a></li><li><small>${L('전화','Phone')}</small><a href="tel:${c.phone.replaceAll('-','')}">${c.phone}</a></li><li><small>${L('담당자','Contact')}</small><span>Theo Jeon · SEMILAB GLOBAL</span></li></ul></aside>
+  <form class="x-form rv" data-form="contact" novalidate>
+   <p class="x-form-note">${L('<b>*</b> 표시는 꼭 적어 주셔야 문의가 접수됩니다.','Fields marked <b>*</b> are required.')}</p>
+   <fieldset class="x-field x-type"><legend><i>1</i>${L('구분','User / Distributor / Manufacturer')}${req}</legend><div>${[['User',L('사용처 · User','User')],['Distributor',L('유통사 · Distributor','Distributor')],['Manufacturer',L('제조사 · Manufacturer','Manufacturer')]].map(([v,t])=>`<label><input type="radio" name="type" value="${v}" required><span>${t}</span></label>`).join('')}</div></fieldset>
+   <div class="x-form-grid">
+    ${f(2,'company','회사명','Company name','text',true)}
+    ${f(3,'location','사업장 위치','Business location','text',true,L('예: 경기도 용인시','e.g. Yongin, Korea'))}
+    ${f(4,'regno','사업자등록번호','Business registration no.','text',false,'000-00-00000')}
+    ${f(5,'name','담당자 이름','Contact person','text',true)}
+    ${f(6,'mobile','휴대전화','Mobile','tel',false,'010-0000-0000')}
+    ${f(7,'email','이메일','Email','email',true,'name@company.com')}
+   </div>
+   <div class="x-field"><label for="ct-message"><i>8</i>${L('문의 내용','Inquiry')}${req}</label><textarea id="ct-message" name="message" required maxlength="6000" placeholder="${L('사용 장비, 공정, 필요한 부품·품번·수량을 알려 주세요.','Tool, process, part numbers and quantity.')}">${esc(pre)}</textarea></div>
+   <input type="text" name="_honey" tabindex="-1" autocomplete="off" class="x-honey" aria-hidden="true">
+   <label class="x-consent"><input type="checkbox" name="privacy" required><span>${L('상담을 위한 개인정보 수집·이용에 동의합니다.','I consent to the use of my information for this inquiry.')}${req} <a href="#/privacy" target="_blank" rel="noopener">${L('자세히','Details')}</a></span></label>
+   <div class="form-error" role="alert" hidden></div>
+   <button class="x-btn x-btn-glow x-send" type="submit">SEND<span aria-hidden="true">→</span></button>
+   <div class="contact-result" aria-live="polite"></div>
+  </form>
+ </div></section>`;
 }
 function loginPage(params) {
  return `${pageHead('WELCOME TO SEMI LINK',L('다음 연결을 시작하세요.','Your next connection starts here.'),'',L('로그인','Log in'))}<section class="section container"><div class="auth-wrap"><div class="form-card"><div class="auth-title"><h2>${L('로그인','Log in')}</h2><p>${L('업무 이메일로 로그인하세요.','Sign in with your work email.')}</p></div>${auth.isLoggedIn()?`<p>${L('로그인되어 있습니다.','You are signed in.')}</p>${button('#/front/etch',L('부품 탐색 시작','Explore parts'),'primary')}`:loginForm('page')}<div class="auth-links">${L('아직 회원이 아니신가요?','New to SEMI LINK?')}<a href="#/signup${params.get('return')?'?return='+encodeURIComponent(params.get('return')):''}">${L('회원가입','Sign up')}</a></div></div></div></section>`;
@@ -293,6 +364,8 @@ function bindPage() {
  document.querySelectorAll('[data-optional-image]').forEach(img=>{const hide=()=>{img.hidden=true;};img.addEventListener('error',hide,{once:true});if(img.complete&&!img.naturalWidth)hide();});
  const stopCounter=animateCounters();if(stopCounter)cleanups.push(stopCounter);
  if(document.querySelector('.x-hero')) cleanups.push(bindHome());
+ else if(document.querySelector('.rv')){const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}}),{rootMargin:'0px 0px -8% 0px',threshold:.08});document.querySelectorAll('.rv').forEach(el=>io.observe(el));cleanups.push(()=>io.disconnect());}
+ bindProducts().catch(err=>console.warn('products',err));
  const c3dStop=bindChamber3D();if(c3dStop)cleanups.push(c3dStop);
  if(document.querySelector('#catalog-results')) {
   renderCatalog();let timer;
@@ -381,7 +454,7 @@ document.addEventListener('keydown',event=>{
  if(event.key==='Tab'&&trap){const focusables=[...trap.querySelectorAll('a[href],button,input,select,textarea,[tabindex="0"]')].filter(el=>!el.disabled);const first=focusables[0],last=focusables.at(-1);if(event.shiftKey&&(document.activeElement===first||!trap.contains(document.activeElement))){event.preventDefault();last?.focus();}else if(!event.shiftKey&&(document.activeElement===last||!trap.contains(document.activeElement))){event.preventDefault();first?.focus();}}
 });
 document.addEventListener('submit',async event=>{
- const form=event.target;if(!form.matches('[data-form]'))return;event.preventDefault();if(!form.reportValidity())return;
+ const form=event.target;if(!form.matches('[data-form]'))return;event.preventDefault();form.querySelectorAll('.x-field').forEach(x=>x.classList.toggle('bad',[...x.querySelectorAll('input,textarea')].some(i=>!i.checkValidity())));if(!form.reportValidity())return;
  const values=Object.fromEntries(new FormData(form));
  const err=form.querySelector('.form-error');if(err)err.hidden=true;
  if(form.dataset.form==='login') {
@@ -398,9 +471,14 @@ document.addEventListener('submit',async event=>{
   const {params}=routeInfo(location.hash);location.hash=safeReturn(params);toast(L('회원가입이 완료되었습니다.','Your account is ready.'));
  }
  if(form.dataset.form==='contact') {
-  try{const {url}=submitContact(values,data.company.email);const result=form.querySelector('.contact-result');result.innerHTML=`<div class="form-success">${L('상담 메일을 준비했습니다. 메일 앱에서 전송하면 신청이 완료됩니다. 메일 앱이 열리지 않으면 아래 주소로 직접 보내 주세요.','Your inquiry email is ready. Send it from your email app to complete your request. If the app did not open, email us directly.')}<br><a href="${esc(url)}">${L('메일 앱 다시 열기','Open email app again')}</a> · <a href="mailto:${data.company.email}">${data.company.email}</a></div>`;window.location.href=url;}
-  catch(error){err.textContent=L('신청 메일을 열지 못했습니다. 이메일로 문의해 주세요.','Unable to open the inquiry email. Please contact us by email.');err.hidden=false;}
+  const btn=form.querySelector('[type="submit"]'),result=form.querySelector('.contact-result');btn.disabled=true;btn.classList.add('sending');
+  try{const out=await submitContact(values,data.company.inquiryEmail||data.company.email);
+   if(out.url){window.location.href=out.url;result.innerHTML=`<div class="form-success">${L('메일 앱에서 전송하면 문의가 접수됩니다.','Send it from your email app to complete.')}</div>`;}
+   else{form.reset();form.querySelectorAll('.x-field,.x-type').forEach(x=>x.classList.remove('bad'));result.innerHTML=`<div class="form-success x-sent"><b>${L('문의가 접수되었습니다.','Your inquiry has been sent.')}</b>${L('확인 후 빠르게 연락드리겠습니다.','We will contact you shortly.')}</div>`;result.scrollIntoView({block:'center',behavior:'smooth'});}}
+  catch(error){err.innerHTML=`${L('전송하지 못했습니다. 잠시 후 다시 시도하시거나 메일 앱으로 보내 주세요.','Could not send. Try again or use your email app.')} ${error.mailto?`<a href="${esc(error.mailto)}">${L('메일 앱으로 보내기','Send via email app')}</a>`:''}`;err.hidden=false;}
+  finally{btn.disabled=false;btn.classList.remove('sending');}
  }
+
 });
 window.addEventListener('hashchange',()=>{if(data)render();});
 window.addEventListener('storage',event=>{if(event.key==='semilink.session'&&data)nav();});
