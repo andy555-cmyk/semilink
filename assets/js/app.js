@@ -39,7 +39,7 @@ function renderFooter() {
   footer.innerHTML=`<div class="container"><div class="footer-top"><div><a class="logo" href="#/" aria-label="SEMI LINK ${L('첫 화면','home')}">${logo()}</a><div class="footer-info"><div>Operated by ${esc(c.name)}</div><div>${L('대표','CEO')} ${esc(c.ceo)}</div><div class="footer-contact"><a href="mailto:${esc(c.email)}">${esc(c.email)}</a><a href="tel:${c.phone.replaceAll('-','')}">${esc(c.phone)}</a><a href="${esc(c.linkedin)}" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a></div></div></div><div class="footer-links"><a href="#/privacy">${L('개인정보처리방침','Privacy policy')}</a><a href="#/terms">${L('이용약관','Terms of use')}</a></div></div><div class="footer-bottom"><span>© 2026 SEMI LINK. All rights reserved</span><span>${L('장비사명은 호환 장비를 안내하기 위해 표기했습니다','Equipment names identify compatible tools')}</span></div></div>`;
 }
 function pageHead(eyebrow,title,description,breadcrumb='') {
-  return `<div class="page-head">${eyebrow==='ABOUT SEMI LINK'||eyebrow==='PRODUCT PORTFOLIO'?`<img class="head-photo" data-optional-image src="assets/img/hero/${eyebrow==='ABOUT SEMI LINK'?'hero-wafer':'hero-parts'}.webp" alt="" width="1920" height="800" loading="lazy">`:''}${breadcrumb?`<div class="breadcrumbs"><a href="#/">SEMI LINK</a><span>/</span><span>${breadcrumb}</span></div>`:''}<span class="eyebrow">${eyebrow}</span><h1>${title}</h1>${description?`<p>${description}</p>`:''}</div>`;
+  return `<div class="page-head">${eyebrow.startsWith('ABOUT')||eyebrow==='PRODUCT PORTFOLIO'?`<img class="head-photo" data-optional-image src="assets/img/hero/${eyebrow.startsWith('ABOUT')?'hero-wafer':'hero-parts'}.webp" alt="" width="1920" height="800" loading="lazy">`:''}${breadcrumb?`<div class="breadcrumbs"><a href="#/">SEMI LINK</a><span>/</span><span>${breadcrumb}</span></div>`:''}<span class="eyebrow">${eyebrow}</span><h1>${title}</h1>${description?`<p>${description}</p>`:''}</div>`;
 }
 function processStrip(selected) {
  return `<div class="process-strip" aria-label="${L('반도체 8대 공정','Eight semiconductor processes')}">${data.processes.map(p=>{
@@ -111,27 +111,39 @@ function home() {
 }
 function companyPage() {
  const c=data.company;
- const facts=[[L('회사명','Company'),esc(c.name)],[L('대표','CEO'),esc(c.ceo)],[L('사업','Business'),L('반도체 소모성 부품 대체 공급','Alternative semiconductor consumable parts')],[L('주력 공정','Focus processes'),L('식각 · 증착','Etch · Deposition')]];
- const steps=[[L('공정','Process'),L('8대 공정 중 내 공정을 고릅니다','Pick your process from eight')],[L('챔버','Chamber'),L('3D 챔버를 열어 부품을 찾습니다','Open the 3D chamber, find the part')],[L('소재','Material'),L('쓸 수 있는 소재를 비교합니다','Compare usable materials')],[L('공급사','Supplier'),L('검증된 대체 공급원과 연결됩니다','Connect with a qualified 2nd source')]];
- return `${pageHead('ABOUT SEMI LINK',L('공정과 공급을 잇는 연결','Connecting process and supply'),L('반도체 부품의 대체 공급원, SEMI LINK에서 찾으세요','Find your next source for semiconductor components'),L('회사소개','Company'))}
- <section class="x-statement x-statement-sm"><p class="x-big rv">${L('더 나은 공급의 길을<br><em>함께 만듭니다</em>','Building better paths<br><em>to supply, together</em>')}</p><p class="x-sub rv">${esc(loc(c.business))}<br>${L('챔버 구조도에서 부품을 찾고, 소재별 공급사를 살펴보고, 상담까지 하나의 흐름으로 잇습니다','Find the part in the chamber, compare suppliers by material, and move straight to a sourcing conversation')}</p></section>
- <section class="x-section x-tight"><div class="x-wrap"><div class="x-facts rv">${facts.map(([k,v],i)=>`<div style="--i:${i}"><small>${k}</small><b>${v}</b></div>`).join('')}</div>
-  <div class="x-portfolio rv"><small>${L('취급 품목','Portfolio')}</small><div>${['Silicon','SiC','Quartz','Ceramic','Gasket','Machining','Heater','ESC','Metal Liner'].map(x=>`<span>${x}</span>`).join('')}</div></div></div></section>
+ const proof=[['5,000',L('개 이상','+ pcs'),L('식각용 실리콘 부품 공급','Silicon etch parts supplied')],['1,018',L('개','')+'',L('호환 품번 카탈로그','Compatible part numbers')],['30–40','%',L('OEM 대비 원가 절감','Lower cost vs. OEM')],['5',L('영업일',' days'),L('공정 이슈 예비 분석·보고','Preliminary analysis & report')],['6',L('주',' wks'),L('한국 출고 납기(발주 후)','Shipping from Korea, ARO')]];
+ const profile=[[L('회사명','Company'),`SEMILAB GLOBAL <span class="nb">Co., Ltd.</span>`],[L('대표','CEO'),esc(c.ceo)],[L('사업','Business'),L('반도체 소모성 부품 대체 공급원(2nd Source)<br><small>식각 공정 중심</small>','Alternative (2nd source) consumable parts<br><small>Especially for etch</small>')],[L('호환 장비','Compatible with'),'Lam Research · TEL · AMAT · AMEC · NAURA · Novellus'],[L('취급 품목','Items'),'Silicon · SiC · Quartz · Ceramic · Gasket · Machining · Heater · ESC · Metal(Al, Al+Y₂O₃) · Chamber Liner']];
+ const pillars=[[L('유연한 맞춤 지원','Flexible support'),[L('평가용 샘플·소량 시험 주문 환영','Evaluation samples & trial orders welcome')]],[L('검증된 품질·빠른 대응','Proven quality, fast response'),[L('아시아 주요 반도체 팹 공급 실적','Supplied to major Asian fabs'),L('5영업일 안에 예비 분석·보고','Preliminary report in 5 working days'),L('전 과정 이력 추적','Full traceability')]],[L('원가 절감·짧은 납기','Lower cost, shorter lead time'),[L('OEM과 동등한 품질, 30–40% 낮은 원가','OEM-equivalent quality at 30–40% lower cost'),L('한국 출고, 발주 후 6주 이내','Ships from Korea within 6 weeks ARO')]]];
+ const flow=[L('원자재 입고 검사','Incoming inspection'),L('초정밀 가공','Precision machining'),L('표면 가공·래핑','Lapping'),L('용접','Welding'),L('파이어 폴리싱','Fire polishing'),L('어닐링','Annealing'),L('세정·에칭','Cleaning & etching'),L('출하 검사','Outgoing inspection'),L('포장·출하','Packing & shipment')];
+ return `${pageHead('ABOUT SEMILAB GLOBAL',L('OEM 수준 품질의<br>두 번째 공급원','A second source<br>with OEM-grade quality'),L('식각·증착 소모성 부품을 더 합리적인 원가와 짧은 납기로 공급합니다','Etch and deposition consumables at lower cost and shorter lead time'),L('회사소개','Company'))}
+ <section class="x-proof"><div class="x-wrap"><div class="x-proof-row rv">${proof.map(([v,u,t],i)=>`<div style="--i:${i}"><strong><span data-counter="p${i}" data-value="${v.replace(',','')}">${v}</span><small>${u}</small></strong><span>${t}</span></div>`).join('')}</div></div></section>
+ <section class="x-section x-tight"><div class="x-wrap"><div class="x-profile rv">
+  <div class="x-profile-lead"><span class="x-eyebrow">COMPANY PROFILE</span><h2>${L('검증된 대체 부품으로<br>팹의 원가와 납기를 바꿉니다','Qualified alternatives that change<br>your cost and lead time')}</h2><p>${esc(loc(c.business))}</p><a class="x-btn x-btn-dark" href="#/contact">${L('부품 상담 신청','Request a consultation')}<span aria-hidden="true">→</span></a></div>
+  <dl class="x-profile-list">${profile.map(([k,v])=>`<div><dt>${k}</dt><dd>${v}</dd></div>`).join('')}</dl>
+ </div></div></section>
+ <section class="x-section x-soft"><div class="x-wrap">
+  <div class="x-head rv"><span class="x-eyebrow">PROVEN QUALITY</span><h2>${L('품질은 확대해 보면<br>차이가 납니다','Quality shows<br>under the microscope')}</h2><p>${L('같은 부품을 확대해 비교한 실제 사진입니다','Actual magnified photos of the same parts')}</p></div>
+  <div class="x-compare rv">
+   <article><h3>${L('슬롯 표면','Slot surface')}<small>C-Shroud Ring</small></h3><div class="x-pair"><figure class="bad"><img src="assets/img/company/slot-competitor.webp" alt="${L('타사 슬롯 표면 확대 사진, 균열이 보임','Competitor slot surface with cracks')}" loading="lazy"><figcaption>${L('타사','Competitor')}<em>${L('균열','Crack')}</em></figcaption></figure><figure class="good"><img src="assets/img/company/slot-semilab.webp" alt="${L('SEMILAB GLOBAL 슬롯 표면 확대 사진, 매끈함','SEMILAB GLOBAL slot surface, smooth')}" loading="lazy"><figcaption>SEMILAB GLOBAL<em>${L('매끈한 표면','Smooth')}</em></figcaption></figure></div></article>
+   <article><h3>${L('가스 홀','Gas hole')}<small>Electrode</small></h3><div class="x-pair"><figure class="bad"><img src="assets/img/company/hole-competitor.webp" alt="${L('타사 가스 홀 확대 사진, 가장자리 손상','Competitor gas hole with edge damage')}" loading="lazy"><figcaption>${L('타사','Competitor')}<em>${L('가장자리 손상','Hole damage')}</em></figcaption></figure><figure class="good"><img src="assets/img/company/hole-semilab.webp" alt="${L('SEMILAB GLOBAL 가스 홀 확대 사진, 깨짐 없음','SEMILAB GLOBAL gas hole, no chipping')}" loading="lazy"><figcaption>SEMILAB GLOBAL<em>${L('깨짐 없음','No chipping')}</em></figcaption></figure></div></article>
+  </div>
+  <div class="x-qtags rv"><span>${L('홀 크기 편차 감소','Less hole-size deviation')}</span><span>${L('진원도 향상','Better roundness')}</span><span>${L('위치 정밀도','Position accuracy')}</span><span>${L('LAM 곡면 형상 비교 데이터','LAM curved-shape comparison data')}</span></div>
+  <p class="x-src rv">${L('사진·항목 출처: SEMILAB GLOBAL 회사소개서','Source: SEMILAB GLOBAL company introduction')}</p>
+ </div></section>
+ <section class="x-section"><div class="x-wrap">
+  <div class="x-head rv"><span class="x-eyebrow">TECHNICAL CAPABILITIES</span><h2>${L('자동화 설비와 OEM 기준<br>품질 관리','Automated production<br>under OEM-standard QC')}</h2><p>${L('석영 부품은 원자재(수입) 입고부터 출하까지 전 공정을 자체에서 수행합니다','Quartz parts go through every step in-house, from imported raw material to shipment')}</p></div>
+  <div class="x-factory rv"><figure class="big"><img src="assets/img/company/fire-welding.webp" alt="${L('석영 부품 용접 공정','Quartz welding')}" loading="lazy"><figcaption>${L('석영 용접','Quartz welding')}</figcaption></figure><figure><img src="assets/img/company/auto-1.webp" alt="${L('자동화 가공 설비','Automated machining')}" loading="lazy"><figcaption>${L('자동화 가공','Automated machining')}</figcaption></figure><figure><img src="assets/img/company/robot.webp" alt="${L('로봇 가공 셀','Robotic cell')}" loading="lazy"><figcaption>${L('로봇 가공 셀','Robotic cell')}</figcaption></figure><figure><img src="assets/img/company/auto-2.webp" alt="${L('석영 링 가공','Quartz ring machining')}" loading="lazy"><figcaption>${L('석영 링 가공','Quartz ring machining')}</figcaption></figure></div>
+  <ol class="x-flow9 rv">${flow.map((f,i)=>`<li style="--i:${i}"><span>${String(i+1).padStart(2,'0')}</span>${f}</li>`).join('')}</ol>
+ </div></section>
  <section class="x-section x-dark">
   <video class="x-band-media" autoplay muted loop playsinline preload="none" poster="assets/img/hero/hero-wafer.webp" aria-hidden="true"><source src="assets/video/hero-wafer.mp4" type="video/mp4"></video>
-  <div class="x-wrap"><div class="x-head rv"><span class="x-eyebrow">OUR COMMITMENT</span><h2>${L('함께할 수 있는 이유','Why partner with us')}</h2></div>
-  <div class="x-stats rv">${c.strengths.map((s,i)=>`<div class="x-stat"><strong><span data-counter="${i}" data-value="${s.value}">${s.value}</span><small>${esc(loc(s.unit))}</small></strong><b>${esc(loc(s.label))}</b><p>${esc(loc(s.description))}</p></div>`).join('')}</div>
-  <div class="x-chips rv"><span>${L('샘플·소량 시험 주문 환영','Samples & trial orders welcome')}</span><span>${L('전 과정 이력 추적','Full traceability')}</span><span>${L('Lam · TEL · AMAT · Novellus 장비 호환','Lam · TEL · AMAT · Novellus compatible')}</span></div></div>
+  <div class="x-wrap"><div class="x-head rv"><span class="x-eyebrow">WHY PARTNER WITH US</span><h2>${L('함께할 수 있는 세 가지 이유','Three reasons to partner')}</h2></div>
+  <div class="x-pillars rv">${pillars.map(([t,items],i)=>`<article style="--i:${i}"><span>0${i+1}</span><h3>${t}</h3><ul>${items.map(x=>`<li>${x}</li>`).join('')}</ul></article>`).join('')}</div></div>
  </section>
- <section class="x-section"><div class="x-wrap"><div class="x-head rv"><span class="x-eyebrow">HOW SEMI LINK WORKS</span><h2>${L('네 번의 선택이면 공급원까지','Four choices to a new source')}</h2></div>
-  <ol class="x-steps rv">${steps.map(([a,b],i)=>`<li style="--i:${i}"><span>0${i+1}</span><b>${a}</b><p>${b}</p></li>`).join('')}</ol>
-  <div class="x-center rv"><a class="x-btn x-btn-glow" href="#/front/etch">${L('3D 챔버에서 시작하기','Start in the 3D chamber')}<span aria-hidden="true">→</span></a></div></div></section>
  <section class="x-section x-soft"><div class="x-wrap x-contact-grid">
   <div class="x-head x-head-left rv"><span class="x-eyebrow">CONTACT</span><h2>${L('품번 하나로<br>상담을 시작하세요','Start with<br>a single part number')}</h2><p>${L('도면이나 품번을 보내 주시면 5영업일 안에 예비 분석을 드립니다','Send a drawing or part number for a preliminary analysis within 5 working days')}</p></div>
   <div class="x-contact rv"><a href="mailto:${c.email}"><small>${L('이메일','Email')}</small><b>${esc(c.email)}</b></a><a href="tel:${c.phone.replaceAll('-','')}"><small>${L('전화','Phone')}</small><b>${c.phone}</b></a><a href="${c.linkedin}" target="_blank" rel="noopener noreferrer"><small>LinkedIn</small><b>Theo Jeon ↗</b></a><a class="x-contact-go" href="#/contact"><small>${L('온라인','Online')}</small><b>${L('부품 상담 신청','Request a consultation')} →</b></a></div>
- </div></section>
- <section class="x-section"><div class="x-wrap"><div class="x-head rv"><span class="x-eyebrow">WHAT’S NEXT</span><h2>${L('연결의 다음 단계','More connections ahead')}</h2></div>
-  <div class="x-future rv"><article><span>${L('준비 중','Coming soon')}</span><h3>${L('회사 연혁','Company milestones')}</h3><p>${L('SEMILAB GLOBAL의 발자취를 소개할 예정입니다','Discover SEMILAB GLOBAL’s milestones here soon')}</p></article><article><span>${L('준비 중','Coming soon')}</span><h3>${L('품질 관리와 공급 역량','Quality and supply capabilities')}</h3><p>${L('품질 관리와 부품 공급에 관한 정보를 소개할 예정입니다','More on our quality and supply capabilities is on its way')}</p></article><article><span>${L('준비 중','Coming soon')}</span><h3>${L('나머지 6대 공정','Six more processes')}</h3><p>${L('산화·포토·배선·테스트·패키징 공정을 차례로 엽니다','Oxidation, photo, metallization, test and packaging are next')}</p></article></div></div></section>`;
+ </div></section>`;
 }
 function productsPage() {
  return `${pageHead('PRODUCT PORTFOLIO',L('공정에 필요한 부품, 한곳에','Components for your process'),L('소재와 품목별로 살펴보고, 품번으로 빠르게 찾아보세요','Browse by material and category, or find a specific part number'),L('제품','Products'))}
@@ -209,7 +221,7 @@ async function renderPanels(focus=true) {
  }
  const trail=[[L('부품','Part'),part.name,''],[L('소재','Material'),mat?.name,'1'],[L('공급사','Supplier'),supplier&&mat?supplier.id:null,'2']];
  html=`<ol class="x-trail" aria-label="${L('탐색 단계','Steps')}">${trail.map(([k,v,b],i)=>`<li class="${v?'done':''} ${i===(supplier&&mat?2:mat?1:0)?'now':''}">${v&&b?`<button data-back="${b}">`:'<span>'}<small>0${i+1} ${k}</small><b>${v?esc(v):L('선택 전','—')}</b>${v&&b?'</button>':'</span>'}</li>`).join('')}</ol>`+html;
- stage.innerHTML=html;
+ stage.innerHTML=html;noOrphans(stage);
  document.querySelector('.chamber-workspace')?.classList.add('has-selection');
  document.querySelectorAll('[data-part], [data-select-part]').forEach(el=>el.classList.toggle('active',(el.dataset.part||el.dataset.selectPart)===part.id));
  const panels=stage.querySelectorAll('.explorer-panel');
@@ -338,6 +350,17 @@ function cursorGrid() {
  document.addEventListener('pointerleave',()=>{target=0;kick();});
  addEventListener('resize',()=>{size();kick();});size();
 }
+// 외톨이 글자 방지: 마지막 낱말을 앞 낱말에 붙이고, 가운뎃점은 앞 낱말에 붙인다
+function noOrphans(root=document.querySelector('main')) {
+ if(!root)return;
+ root.querySelectorAll('h1,h2,h3,p,li,dd,dt,figcaption,small,b,label,legend,.x-big,.diagram-label,.x-hero-lead,em,span:not([data-counter])').forEach(el=>{
+  if(el.closest('svg,script,table'))return;
+  const texts=[];const tw=document.createTreeWalker(el,NodeFilter.SHOW_TEXT);let n;while(n=tw.nextNode())if(n.data.trim())texts.push(n);
+  texts.forEach(t=>{if(t.data.includes(' · '))t.data=t.data.replaceAll(' · ',' · ');});
+  const last=texts[texts.length-1];if(!last||last.parentElement!==el&&last.parentElement.closest('h1,h2,h3,p,li,dd,dt,figcaption,small,b,label,legend')!==el)return;
+  const m=last.data.match(/^(.*\S) (\S{1,8})(\s*)$/s);if(m)last.data=`${m[1]} ${m[2]}${m[3]}`;
+ });
+}
 function bindHome() {
  const cleanups=[];
  const reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -374,7 +397,7 @@ function animateCounters() {
  const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{
   if(!entry.isIntersecting)return;observer.unobserve(entry.target);
   const el=entry.target;const final=el.dataset.value;const isRange=final.includes('–');const targets=final.split('–').map(Number);const start=performance.now();
-  const tick=now=>{if(!el.isConnected)return;const p=Math.min(1,(now-start)/650);el.textContent=targets.map(v=>Math.round(v*(1-(1-p)**3))).join(isRange?'\u2009–\u2009':'');if(p<1)requestAnimationFrame(tick);};requestAnimationFrame(tick);
+  const tick=now=>{if(!el.isConnected)return;const p=Math.min(1,(now-start)/650);el.textContent=targets.map(v=>Math.round(v*(1-(1-p)**3)).toLocaleString('en-US')).join(isRange?'\u2009–\u2009':'');if(p<1)requestAnimationFrame(tick);};requestAnimationFrame(tick);
  }),{threshold:.5});
  document.querySelectorAll('[data-counter]').forEach(el=>observer.observe(el));
  return ()=>observer.disconnect();
@@ -384,6 +407,7 @@ function bindPage() {
  // Optional client-supplied hero images leave the gradient illustration intact on failure.
  document.querySelectorAll('[data-optional-image]').forEach(img=>{const hide=()=>{img.hidden=true;};img.addEventListener('error',hide,{once:true});if(img.complete&&!img.naturalWidth)hide();});
  document.querySelectorAll('[data-counter]').forEach(el=>{if(el.textContent.includes('–'))el.textContent=el.textContent.replace(/\s*–\s*/,'\u2009–\u2009');});
+ noOrphans();
  const stopCounter=animateCounters();if(stopCounter)cleanups.push(stopCounter);
  if(document.querySelector('.x-hero')) cleanups.push(bindHome());
  else if(document.querySelector('.rv')){const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}}),{rootMargin:'0px 0px -8% 0px',threshold:.08});document.querySelectorAll('.rv').forEach(el=>io.observe(el));cleanups.push(()=>io.disconnect());}
