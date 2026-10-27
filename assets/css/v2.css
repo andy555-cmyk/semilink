@@ -497,3 +497,18 @@ p,li,dd,figcaption,small,.x-tile-txt b,.x-facts b,label,legend{text-wrap:pretty}
 .x-factory figure:last-child{grid-column:span 2}
 .x-factory figure:last-child img{aspect-ratio:2/1}
 @media (max-width:700px){.x-factory{grid-template-columns:1fr 1fr}.x-factory figure.big,.x-factory figure:last-child{grid-column:span 2;grid-row:auto}}
+
+/* ── refined accent (보라 제거, 단정한 블루 + 흰 버튼) ── */
+:root{--g1:#6fb6ff;--g2:#3b7bff;--g3:#2456e6;--grad:linear-gradient(100deg,#6fb6ff 0%,#3b7bff 55%,#2456e6 100%)}
+.x-hero-title .x-grad{background-image:linear-gradient(180deg,#e6f3ff 0%,#a9d1ff 55%,#7fb3ff 100%);background-size:100% 100%}
+.x-hero .x-btn-glow{background:#fff;color:#0b1a33;box-shadow:0 10px 30px rgba(0,0,0,.25)}
+.x-hero .x-btn-glow:hover{background:#f1f5fb;box-shadow:0 14px 36px rgba(0,0,0,.3);transform:translateY(-2px)}
+.x-hero .x-btn-glass{background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.28);backdrop-filter:blur(10px)}
+.x-btn-glow{background:linear-gradient(180deg,#3b7bff,#2456e6);color:#fff;box-shadow:0 8px 22px rgba(36,86,230,.28),inset 0 1px 0 rgba(255,255,255,.22)}
+.x-btn-glow:hover{box-shadow:0 12px 30px rgba(36,86,230,.36),inset 0 1px 0 rgba(255,255,255,.22);transform:translateY(-2px)}
+.x-pill i{background:#7fb3ff;box-shadow:none;animation:none}
+.x-pillars li::before{background:#7fb3ff}
+.c3d-seg button[aria-pressed="true"]{background:#fff;color:#0b1a33;box-shadow:0 4px 14px rgba(0,0,0,.2)}
+.mode-2d .c3d-seg button[aria-pressed="true"]{background:#0b1a33;color:#fff}
+.x-type label input:checked+span{background:#0b1a33;box-shadow:none}
+.x-contact .x-contact-go{background:#0b1a33}
