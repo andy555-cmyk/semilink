@@ -1,0 +1,54 @@
+{
+  "etch": {
+    "units": "mm",
+    "scale": 0.01,
+    "waferDiameter": 300,
+    "note": "Illustrative proportions from the supplied diagram; not manufacturing dimensions.",
+    "section": { "phiStart": 1.5707963267948966, "phiLength": 4.71238898038469 },
+    "parts": [
+      { "id": "choke", "material": "peek", "rInner": 18, "rOuter": 213, "yBottom": 303, "yTop": 322, "explodeY": 124, "profile": [[18,303],[207,303],[213,308],[213,318],[209,322],[18,322]] },
+      { "id": "outer-heater-left", "aliases": ["outer-heater-right"], "material": "alumina", "rInner": 160, "rOuter": 207, "yBottom": 269, "yTop": 292, "explodeY": 100 },
+      { "id": "inner-heater", "material": "aln", "rInner": 0, "rOuter": 159, "yBottom": 269, "yTop": 292, "explodeY": 100 },
+      { "id": "back-left", "aliases": ["back-right"], "material": "aluminum", "rInner": 163, "rOuter": 207, "yBottom": 221, "yTop": 260, "explodeY": 74, "profile": [[163,221],[207,221],[207,244],[201,244],[201,260],[163,260]] },
+      { "id": "gdp", "material": "coated-al", "rInner": 0, "rOuter": 162, "yBottom": 226, "yTop": 260, "explodeY": 74, "ports": { "rings": [28,56,84,112,142], "spacing": 19, "radius": 1.6 } },
+      { "id": "shroud-left", "aliases": ["shroud-right"], "material": "quartz", "rInner": 195, "rOuter": 219, "yBottom": 180, "yTop": 215, "explodeY": 46, "profile": [[195,180],[219,180],[219,215],[207,215],[207,196],[195,196]] },
+      { "id": "outer-electrode-left", "aliases": ["outer-electrode-right"], "material": "silicon", "rInner": 131, "rOuter": 194, "yBottom": 186, "yTop": 208, "explodeY": 46 },
+      { "id": "inner-electrode", "material": "silicon", "rInner": 0, "rOuter": 130, "yBottom": 186, "yTop": 208, "explodeY": 46, "ports": { "rings": [22,44,66,88,110], "spacing": 15, "radius": 1.2 } },
+      { "id": "edge-left", "aliases": ["edge-right"], "material": "sic", "rInner": 150.5, "rOuter": 185, "yBottom": 80, "yTop": 99, "explodeY": -30, "profile": [[150.5,80],[185,80],[185,99],[162,99],[158,90],[150.5,90]] },
+      { "id": "cp-left", "aliases": ["cp-right"], "material": "pai", "rInner": 151, "rOuter": 185, "yBottom": 44, "yTop": 77, "explodeY": -52 },
+      { "id": "esc", "material": "aln", "rInner": 0, "rOuter": 150, "yBottom": 24, "yTop": 85, "explodeY": -52, "profile": [[0,24],[142,24],[142,31],[150,31],[150,82],[146,85],[0,85]], "topCoat": "graphite" }
+    ],
+    "structure": [
+      { "key": "top-plate", "name": "Top plate", "material": "aluminum", "rInner": 18, "rOuter": 220, "yBottom": 331, "yTop": 349, "explodeY": 152, "profile": [[18,331],[216,331],[220,335],[220,345],[216,349],[18,349]] },
+      { "key": "chamber-wall", "name": "Chamber wall", "material": "aluminum", "rInner": 221, "rOuter": 233, "yBottom": 8, "yTop": 296, "explodeY": 0 },
+      { "key": "floor", "name": "Chamber floor", "material": "aluminum", "rInner": 0, "rOuter": 236, "yBottom": -10, "yTop": 8, "explodeY": -82 },
+      { "key": "pedestal", "name": "Pedestal", "material": "aluminum", "rInner": 0, "rOuter": 58, "yBottom": 8, "yTop": 23, "explodeY": -67 }
+    ],
+    "wafer": { "rInner": 0, "rOuter": 150, "yBottom": 86, "yTop": 86.775, "explodeY": -12 },
+    "plasma": { "rInner": 0, "rOuter": 177, "yBottom": 146, "yTop": 147.4, "explodeY": 15 }
+  },
+  "deposition": {
+    "units": "mm",
+    "scale": 0.01,
+    "waferDiameter": 300,
+    "note": "Illustrative proportions from the supplied diagram; not manufacturing dimensions.",
+    "section": { "phiStart": 1.5707963267948966, "phiLength": 4.71238898038469 },
+    "parts": [
+      { "id": "showerhead", "material": "aluminum", "rInner": 0, "rOuter": 201, "yBottom": 285, "yTop": 313, "explodeY": 124, "profile": [[0,285],[195,285],[201,291],[201,309],[197,313],[0,313]], "ports": { "rings": [26,52,78,104,130,156,181], "spacing": 20, "radius": 1.8 } },
+      { "id": "faceplate", "material": "aluminum", "rInner": 0, "rOuter": 190, "yBottom": 252, "yTop": 272, "explodeY": 93, "ports": { "rings": [23,46,69,92,115,138,165], "spacing": 18, "radius": 1.4 } },
+      { "id": "isolator", "material": "alumina", "rInner": 185, "rOuter": 218, "yBottom": 219, "yTop": 238, "explodeY": 65, "profile": [[185,219],[218,219],[218,230],[211,230],[211,238],[185,238]] },
+      { "id": "liner-left", "aliases": ["liner-right"], "material": "coated-al", "rInner": 214, "rOuter": 222, "yBottom": 97, "yTop": 210, "explodeY": 24 },
+      { "id": "carrier-left", "aliases": ["carrier-right"], "material": "alumina", "rInner": 150.5, "rOuter": 189, "yBottom": 112, "yTop": 130, "explodeY": -7, "profile": [[150.5,112],[189,112],[189,130],[160,130],[156,121],[150.5,121]] },
+      { "id": "aln-heater", "material": "aln", "rInner": 0, "rOuter": 150, "yBottom": 64, "yTop": 112, "explodeY": -42, "profile": [[0,64],[143,64],[150,71],[150,109],[147,112],[0,112]] },
+      { "id": "lift-left", "aliases": ["lift-right"], "material": "sapphire", "kind": "pins", "rInner": 0, "rOuter": 3.5, "yBottom": 18, "yTop": 57, "centersRadius": 105, "angles": [0.35,2.4443951023931954,4.538790204786391], "explodeY": -64 },
+      { "id": "gasket", "material": "gasket", "rInner": 193, "rOuter": 211, "yBottom": 9, "yTop": 16, "explodeY": -85, "profile": [[193,11],[195,9],[209,9],[211,11],[211,14],[209,16],[195,16],[193,14]] }
+    ],
+    "structure": [
+      { "key": "top-plate", "name": "Top plate", "material": "aluminum", "rInner": 15, "rOuter": 232, "yBottom": 326, "yTop": 346, "explodeY": 154 },
+      { "key": "chamber-wall", "name": "Chamber wall", "material": "aluminum", "rInner": 225, "rOuter": 237, "yBottom": 0, "yTop": 318, "explodeY": 0 },
+      { "key": "floor", "name": "Chamber floor", "material": "aluminum", "rInner": 0, "rOuter": 240, "yBottom": -14, "yTop": 0, "explodeY": -108 },
+      { "key": "heater-stem", "name": "Heater stem", "material": "aluminum", "rInner": 0, "rOuter": 19, "yBottom": 0, "yTop": 61, "explodeY": -64 }
+    ],
+    "wafer": { "rInner": 0, "rOuter": 150, "yBottom": 113, "yTop": 113.775, "explodeY": 14 }
+  }
+}

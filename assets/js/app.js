@@ -57,7 +57,57 @@ function loginForm(context='page') {
  return `<form data-form="login" data-context="${context}"><div class="field"><label for="${context}-email">${L('업무 이메일(아이디)','Work email (ID)')}</label><input id="${context}-email" type="email" name="email" autocomplete="username" required placeholder="name@company.com" maxlength="254"></div><div class="field"><label for="${context}-password">${L('비밀번호','Password')}</label><input id="${context}-password" type="password" name="password" autocomplete="current-password" required maxlength="128" placeholder="${L('비밀번호를 입력해 주세요.','Enter your password')}"></div><div class="form-error" role="alert" hidden></div><button class="btn primary block" type="submit">${L('로그인','Log in')}</button></form>`;
 }
 function home() {
- return `<section class="hero container"><div class="hero-panel"><img class="hero-photo" src="assets/img/hero/hero-fab.webp" data-optional-image alt="" width="1920" height="1080" fetchpriority="high" loading="eager"><div class="hero-copy"><span class="eyebrow">CONNECTING PARTS. EXPANDING POSSIBILITIES.</span><h1>${L('반도체 공정 부품,<br>대체 공급원을 한 번에 찾다','Find qualified 2nd-source parts<br>for every chamber')}</h1><p>${L('공정부터 부품, 소재, 공급사까지.<br>SEMI LINK가 더 나은 공급의 길을 연결합니다.','From process and chamber to material and supplier.<br>SEMI LINK connects you to a better source.')}</p><div class="button-row">${button('#/front/etch',L('공정에서 부품 찾기','Find parts by process'),'teal')}${button('#/signup',L('회원가입','Join SEMI LINK'),'outline')}</div></div><div class="hero-bottom"><div class="hero-facts">${[['30–40%',L('OEM 대비 원가 절감','lower cost than OEM')],['6'+L('주',' wks'),L('한국 출고 납기','lead time from Korea')],['5'+L('일',' days'),L('예비 분석 보고','preliminary analysis')]].map(([a,b])=>`<div><strong>${a}</strong><span>${b}</span></div>`).join('')}</div><div class="login-card">${auth.isLoggedIn()?`<h3>${L('SEMI LINK에 오신 것을 환영합니다.','Welcome to SEMI LINK.')}</h3><p>${L('공정별 부품과 공급사를 찾아보세요.','Explore chamber parts and suppliers.')}</p>${button('#/front/etch',L('부품 찾기','Explore parts'),'primary')}`:`<h3>${L('더 가까워지는 공급망','Your sourcing connection')}</h3><p>${L('회원으로 로그인해 시작하세요.','Sign in to get started.')}</p>${loginForm('hero')}<div class="login-foot"><span>${L('아직 회원이 아니신가요?','New to SEMI LINK?')}</span><a class="text-link" href="#/signup">${L('회원가입','Sign up')}</a></div>`}</div></div></div></section><section class="container process-section"><div class="strip-title"><strong>${L('8대 공정에서 시작하는 부품 탐색','Explore parts across eight processes')}</strong><span>${L('식각·증착 공정 이용 가능','Etch & deposition available')}</span></div>${processStrip()}</section><section class="section soft"><div class="container"><div class="section-head"><span class="eyebrow">A CLEARER PATH TO YOUR PARTS</span><h2>${L('필요한 부품까지, 세 번의 선택','Three steps to the right part')}</h2><p>${L('복잡한 공급망을 쉽고 명확하게 탐색하세요.','A straightforward path through a complex supply chain.')}</p></div><div class="steps">${[['01',icon('etch'),L('공정을 선택하세요.','Choose your process.'),L('챔버 구조도에서 필요한 부품의 위치를 찾습니다.','Find your component in an interactive chamber diagram.')],['02',icon('grid'),L('부품과 소재를 고르세요.','Select a part and material.'),L('부품에 맞는 소재만 골라 살펴볼 수 있습니다.','Explore the materials available for your specific component.')],['03',icon('link'),L('공급사를 확인하세요.','Find your supplier.'),L('공급사의 취급 부품을 확인하고 상담을 신청합니다.','Review available parts and connect through a consultation.')]].map(([n,i,t,p])=>`<article class="step"><span class="step-num">STEP ${n}</span><div class="step-icon">${i}</div><h3>${t}</h3><p>${p}</p></article>`).join('')}</div></div></section><section class="section"><div class="container"><div class="section-head"><span class="eyebrow">WHY SEMI LINK</span><h2>${L('품질은 지키고, 공급의 가능성은 넓히고','Quality you expect. More ways to source.')}</h2><p>${L('SEMILAB GLOBAL의 부품 공급 경험을 연결합니다.','Built on SEMILAB GLOBAL’s component supply experience.')}</p></div>${strengths()}</div></section><section class="section soft"><div class="container"><div class="section-head"><span class="eyebrow">MATERIAL PORTFOLIO</span><h2>${L('공정에 맞는 소재, 필요한 부품','The right material for your process')}</h2><p>${L('다양한 소재와 정밀 부품을 한곳에서 살펴보세요.','Explore a broad range of materials and precision components.')}</p></div><div class="material-grid">${data.materialGroups.map(m=>`<a class="material-card" href="#/products/${m.category}"><div class="material-symbol">${esc(m.formula)}</div><h3>${esc(m.name)}</h3>${arrow}</a>`).join('')}</div><div class="compatibility"><span>${L('호환 장비사','Compatible equipment manufacturers')}</span><div class="oem-list">${data.company.oems.map(esc).join('<span aria-hidden="true">·</span>')}</div></div></div></section><section class="section container">${cta()}</section>`;
+ const facts=[['1018',L('개',''),L('등록 품번','Listed part numbers')],['8',L('개',''),L('소재 분류','Material families')],['30–40','%',L('OEM 대비 원가 절감','Lower cost vs. OEM')],['6',L('주',' wks'),L('한국 출고 납기','Lead time from Korea')]];
+ const statement=L('8대 공정, 수천 개의 부품.<br>이제 <em>챔버 안에서</em> 바로 찾으세요.','Eight processes. Thousands of parts.<br>Now find them <em>inside the chamber</em>.');
+ const marquee=[...data.company.oems,'Silicon','SiC','Quartz','AlN','Al₂O₃','Y₂O₃','Sapphire','PEEK','Aluminum'];
+ return `<section class="x-hero" data-x-hero>
+  <video class="x-hero-media" autoplay muted loop playsinline preload="metadata" poster="assets/img/hero/hero-fab.webp" aria-hidden="true"><source src="assets/video/hero-cleanroom-960.mp4" type="video/mp4" media="(max-width: 760px)"><source src="assets/video/hero-cleanroom.mp4" type="video/mp4"></video>
+  <div class="x-hero-shade"></div><canvas class="x-hero-grid" aria-hidden="true"></canvas>
+  <div class="x-hero-inner">
+   <span class="x-pill"><i></i>${L('반도체 부품 대체 공급원 플랫폼','2nd-source platform for semiconductor parts')}</span>
+   <h1 class="x-hero-title"><span class="x-line">${L('반도체 공정 부품,','Every chamber part.')}</span><span class="x-line"><b class="x-grad">${L('대체 공급원','Every 2nd source.')}</b>${L('을 한 번에','')}</span></h1>
+   <p class="x-hero-lead">${L('공정에서 챔버로, 부품에서 소재로, 그리고 공급사까지.<br>SEMI LINK가 가장 빠른 길로 연결합니다.','From process to chamber, part to material, and on to the supplier.<br>SEMI LINK takes you there the fastest way.')}</p>
+   <div class="x-actions"><a class="x-btn x-btn-glow" href="#/front/etch">${L('챔버에서 부품 찾기','Explore the chamber')}<span aria-hidden="true">→</span></a><a class="x-btn x-btn-glass" href="#/signup">${L('무료 회원가입','Join for free')}</a></div>
+  </div>
+  <div class="x-hero-facts">${facts.map(([v,u,t],i)=>`<div><strong><span data-counter="h${i}" data-value="${v}">${v}</span><small>${u}</small></strong><span>${t}</span></div>`).join('')}</div>
+  <a class="x-scroll" href="#x-statement" aria-label="${L('아래로','Scroll down')}"><span></span></a>
+ </section>
+ <div class="x-marquee" aria-hidden="true"><div class="x-marquee-track">${[0,1].map(()=>marquee.map(m=>`<span>${esc(m)}</span>`).join('<i>✦</i>')+'<i>✦</i>').join('')}</div></div>
+ <section class="x-statement" id="x-statement"><p class="x-big rv">${statement}</p><div class="x-float rv"><img src="assets/img/visual/exploded-parts.webp" srcset="assets/img/visual/exploded-parts-960.webp 960w, assets/img/visual/exploded-parts.webp 1672w" sizes="(max-width:900px) 100vw, 1100px" alt="${L('식각 챔버 소모성 부품','Etch chamber consumable parts')}" width="1672" height="941" loading="lazy"></div></section>
+ <section class="x-chamber-teaser">
+  <div class="x-wrap">
+   <div class="x-head rv"><span class="x-eyebrow">INTERACTIVE CHAMBER EXPLORER</span><h2>${L('챔버를 열어 보고,<br>부품을 눌러 보세요','Open the chamber.<br>Tap any part.')}</h2><p>${L('3D로 펼친 식각 챔버에서 부품을 고르면 쓸 수 있는 소재와 공급사가 차례로 열립니다.','Pick a part in the 3D etch chamber to reveal its materials and suppliers, step by step.')}</p></div>
+   <div class="x-teaser-stage rv" data-teaser-3d><img src="assets/img/chamber/etch-cutaway.webp" srcset="assets/img/chamber/etch-cutaway-960.webp 960w, assets/img/chamber/etch-cutaway.webp 1672w" sizes="(max-width:900px) 100vw, 1200px" width="1672" height="941" alt="${L('식각 챔버 단면','Etch chamber cutaway')}" loading="lazy" data-optional-image><div class="x-teaser-cta"><a class="x-btn x-btn-glow" href="#/front/etch">${L('식각 챔버 탐색','Explore etch')}<span aria-hidden="true">→</span></a><a class="x-btn x-btn-glass" href="#/front/deposition">${L('증착 챔버 탐색','Explore deposition')}</a></div></div>
+   <div class="x-flow rv">${[[L('부품','Part'),'Inner Electrode'],[L('소재','Material'),'Silicon · Quartz · SiC'],[L('공급사','Supplier'),'Supplier A · B · C'],[L('상세·연결','Connect'),L('회원 전용','Members only')]].map(([a,b],i)=>`<div style="--i:${i}"><span>0${i+1}</span><b>${a}</b><small>${b}</small></div>`).join('')}</div>
+  </div>
+ </section>
+ <section class="x-section">
+  <div class="x-wrap">
+   <div class="x-head rv"><span class="x-eyebrow">8 PROCESSES</span><h2>${L('8대 공정에서 시작합니다','Start from eight processes')}</h2><p>${L('지금은 식각·증착 공정을 열어 두었습니다. 다른 공정도 차례로 열립니다.','Etch and deposition are live now. More processes are on the way.')}</p></div>
+   <div class="x-iso rv"><img src="assets/img/visual/iso-fab.webp" srcset="assets/img/visual/iso-fab-960.webp 960w, assets/img/visual/iso-fab.webp 1672w" sizes="(max-width:900px) 100vw, 1300px" alt="${L('반도체 8대 공정','Eight semiconductor processes')}" width="1672" height="941" loading="lazy"></div><div class="x-process rv">${data.processes.map((p,i)=>p.route?`<a class="x-proc live" href="${p.route}" style="--i:${i}"><span class="n">0${p.number}</span><span class="ic">${icon(p.id)}</span><b>${esc(loc(p.name))}</b><small>${L('탐색하기','Explore')} →</small></a>`:`<div class="x-proc" style="--i:${i}"><span class="n">0${p.number}</span><span class="ic">${icon(p.id)}</span><b>${esc(loc(p.name))}</b><small>${L('준비 중','Soon')}</small></div>`).join('')}</div>
+  </div>
+ </section>
+ <section class="x-section x-dark">
+  <video class="x-band-media" autoplay muted loop playsinline preload="none" poster="assets/img/hero/hero-wafer.webp" aria-hidden="true"><source src="assets/video/hero-wafer.mp4" type="video/mp4"></video>
+  <div class="x-wrap">
+   <div class="x-head rv"><span class="x-eyebrow">WHY SEMI LINK</span><h2>${L('OEM 수준의 품질,<br><span class="x-grad">더 빠르고 합리적으로</span>','OEM-grade quality.<br><span class="x-grad">Faster. Smarter.</span>')}</h2></div>
+   <div class="x-stats rv">${data.company.strengths.map((s,i)=>`<div class="x-stat"><strong><span data-counter="${i}" data-value="${s.value}">${s.value}</span><small>${esc(loc(s.unit))}</small></strong><b>${esc(loc(s.label))}</b><p>${esc(loc(s.description))}</p></div>`).join('')}</div>
+   <div class="x-chips rv"><span>${L('샘플·소량 시험 주문 환영','Samples & trial orders welcome')}</span><span>${L('전 과정 이력 추적','Full traceability')}</span><span>${L('아시아 주요 팹 공급 실적','Supplied to major Asian fabs')}</span></div>
+  </div>
+ </section>
+ <section class="x-section">
+  <div class="x-wrap">
+   <div class="x-head rv"><span class="x-eyebrow">PRODUCT PORTFOLIO</span><h2>${L('소재별로 둘러보세요','Browse by material')}</h2><p>${L('회사소개서의 품번을 모두 옮겨 두었습니다. 품번이나 장비명으로 바로 찾을 수 있습니다.','Every part number from our catalog, searchable by part number or tool.')}</p></div>
+   <div class="x-bento rv">${data.categories.map((c,i)=>`<a class="x-tile ${i<2?'wide':''}" href="#/products/${c.id}" style="--i:${i}"><div class="x-tile-img">${c.images?.[0]?`<img src="${esc(c.images[0].src)}" alt="" loading="lazy" width="${c.images[0].width}" height="${c.images[0].height}">`:''}</div><div class="x-tile-txt"><small>${esc(c.material)}</small><b>${esc(c.name)}</b></div><span class="x-tile-go" aria-hidden="true">→</span></a>`).join('')}</div>
+   <div class="x-oems rv"><span>${L('호환 장비','Compatible with')}</span>${data.company.oems.map(o=>`<b>${esc(o)}</b>`).join('')}</div>
+  </div>
+ </section>
+ <section class="x-section x-join">
+  <div class="x-wrap x-join-grid">
+   <div class="x-join-copy rv"><span class="x-eyebrow">MEMBERS</span><h2>${L('공급사 상세 정보는<br>회원에게 열립니다','Supplier details<br>open to members')}</h2><p>${L('로그인하면 공급사 연락처와 견적 요청까지 이어집니다.<br>찾는 품번이 있다면 바로 상담을 신청하세요.','Sign in to reach supplier contacts and request quotes.<br>Have a part number? Ask us directly.')}</p><div class="x-actions"><a class="x-btn x-btn-dark" href="#/contact">${L('부품 상담 신청','Request a consultation')}<span aria-hidden="true">→</span></a></div></div>
+   <div class="x-login rv">${auth.isLoggedIn()?`<h3>${L('환영합니다','Welcome back')}</h3><p>${L('챔버에서 부품을 찾아보세요.','Explore parts in the chamber.')}</p><a class="x-btn x-btn-glow" href="#/front/etch">${L('부품 찾기','Explore parts')}</a>`:`<h3>${L('로그인','Sign in')}</h3>${loginForm('hero')}<div class="login-foot"><span>${L('아직 회원이 아니신가요?','New to SEMI LINK?')}</span><a class="text-link" href="#/signup">${L('회원가입','Sign up')}</a></div>`}</div>
+  </div>
+ </section>`;
 }
 function companyPage() {
  const c=data.company;
@@ -85,7 +135,7 @@ function renderCatalog() {
 }
 function chamberPage(id) {
  const ch=data.chambers[id];activeChamber=ch;explorer={part:null,material:null,supplier:null};
- return `${pageHead(id==='etch'?'ETCH PROCESS':'DEPOSITION PROCESS',L('챔버에서 시작하는 부품 탐색','Explore parts inside the chamber'),L('부품을 선택하고, 소재와 공급사를 차례로 살펴보세요.','Choose a component, then explore its materials and suppliers.'),L('전공정','Front-end'))}<section class="container chamber-section">${processStrip(id)}<div class="chamber-toolbar"><div><h2>${esc(loc(ch.name))} <span class="small">${id==='etch'?'Etch':'CVD / ALD'}</span></h2></div>${data.suppliers.sample?`<span class="badge">${L('예시 데이터','Sample data')}</span>`:''}</div><div class="chamber-workspace"><div class="diagram-card"><div class="diagram-label">${ch.subtitle} · CROSS SECTION</div><div class="diagram-preview" role="status"></div>${chamberSVG(ch,data.materials,lang)}<div class="legend">${ch.legend.map(g=>`<span><i class="dot ${g.color}"></i>${esc(g.label)}</span>`).join('')}</div><p class="diagram-hint">${L('색 점이나 부품을 누르면 사용 가능한 소재가 열립니다.','Select a colored dot or component to explore available materials.')}</p><div class="part-picker" aria-label="${L('부품 목록에서 선택','Select a component from the list')}">${ch.parts.filter((p,i,a)=>p.materials.length&&a.findIndex(o=>o.name===p.name)===i).map(p=>`<button data-select-part="${p.id}">${esc(p.name)}</button>`).join('')}</div></div><button class="sheet-scrim" data-action="close-explorer" tabindex="-1" aria-label="${L('부품 탐색 닫기','Close part explorer')}"></button><div class="explorer-stage" id="explorer-stage"><div class="explorer-empty">${icon('link')}<span class="eyebrow">YOUR NEXT SOURCE STARTS HERE</span><h3>${L('부품 하나에서<br>새로운 연결로','One component.<br>A new connection.')}</h3><p>${L('왼쪽 구조도에서 필요한 부품을 선택하세요. 해당 부품에 맞는 소재와 공급사를 보여 드립니다.','Select a component in the diagram to discover its available materials and suppliers.')}</p><div class="explorer-steps"><span>01 ${L('부품','Part')}</span>→<span>02 ${L('소재','Material')}</span>→<span>03 ${L('공급사','Supplier')}</span></div></div></div></div><div class="usage-guide" aria-label="${L('이용 안내','How to use')}">${[[L('① 공정 선택','① Process'),L('8대 공정에서 식각 또는 증착을 선택하세요.','Choose etch or deposition from the process strip.')],[L('② 부품 선택','② Component'),L('구조도에서 부품을 누르세요. 색 점은 소재 종류를 뜻합니다.','Select a component. Colored dots identify material families.')],[L('③ 소재 확인','③ Material'),L('선택한 부품에 사용할 수 있는 소재를 살펴보세요.','Explore materials available for that component.')],[L('④ 공급사 확인','④ Supplier'),L('소재를 선택하면 공급사 목록이 열립니다.','Choose a material to view supplier options.')],[L('⑤ 상세·연결','⑤ Connect'),L('공급사 정보를 살펴보고 상세 안내를 받아보세요.','Review the supplier and continue to more details.')]].map(([a,b])=>`<div><b>${a}</b><p>${b}</p></div>`).join('')}</div></section>`;
+ return `${pageHead(id==='etch'?'ETCH PROCESS':'DEPOSITION PROCESS',L('챔버에서 시작하는 부품 탐색','Explore parts inside the chamber'),L('부품을 선택하고, 소재와 공급사를 차례로 살펴보세요.','Choose a component, then explore its materials and suppliers.'),L('전공정','Front-end'))}<section class="container chamber-section">${processStrip(id)}<div class="chamber-toolbar"><div><h2>${esc(loc(ch.name))} <span class="small">${id==='etch'?'Etch':'CVD / ALD'}</span></h2></div>${data.suppliers.sample?`<span class="badge">${L('예시 데이터','Sample data')}</span>`:''}</div><div class="chamber-workspace"><div class="diagram-card"><div class="c3d-bar"><div class="c3d-seg" role="group" aria-label="${L('보기 방식','View mode')}"><button data-c3d-mode="3d" aria-pressed="true">3D</button><button data-c3d-mode="2d" aria-pressed="false">${L('단면도','Section')}</button></div><div class="c3d-tools"><button data-c3d-explode aria-pressed="false">${L('층 펼치기','Explode')}</button><button data-c3d-full aria-pressed="false">${L('전체 형상','Full body')}</button><button data-c3d-reset>${L('처음으로','Reset')}</button></div></div><div class="diagram-label">${ch.subtitle} · ${L('끌어서 돌리고, 부품을 누르세요','Drag to rotate · tap a part')}</div><div class="c3d" data-c3d="${id}"><div class="c3d-loading"><span></span>${L('3D 챔버를 불러오고 있습니다','Loading 3D chamber')}</div></div><div class="c2d" hidden><div class="diagram-preview" role="status"></div>${chamberSVG(ch,data.materials,lang)}</div><div class="legend">${ch.legend.map(g=>`<span><i class="dot ${g.color}"></i>${esc(g.label)}</span>`).join('')}</div><p class="diagram-hint">${L('색 점이나 부품을 누르면 사용 가능한 소재가 열립니다.','Select a colored dot or component to explore available materials.')}</p><div class="part-picker" aria-label="${L('부품 목록에서 선택','Select a component from the list')}">${ch.parts.filter((p,i,a)=>p.materials.length&&a.findIndex(o=>o.name===p.name)===i).map(p=>`<button data-select-part="${p.id}">${esc(p.name)}</button>`).join('')}</div></div><button class="sheet-scrim" data-action="close-explorer" tabindex="-1" aria-label="${L('부품 탐색 닫기','Close part explorer')}"></button><div class="explorer-stage" id="explorer-stage"><div class="explorer-empty">${icon('link')}<span class="eyebrow">YOUR NEXT SOURCE STARTS HERE</span><h3>${L('부품 하나에서<br>새로운 연결로','One component.<br>A new connection.')}</h3><p>${L('왼쪽 구조도에서 필요한 부품을 선택하세요. 해당 부품에 맞는 소재와 공급사를 보여 드립니다.','Select a component in the diagram to discover its available materials and suppliers.')}</p><div class="explorer-steps"><span>01 ${L('부품','Part')}</span>→<span>02 ${L('소재','Material')}</span>→<span>03 ${L('공급사','Supplier')}</span></div></div></div></div><div class="usage-guide" aria-label="${L('이용 안내','How to use')}">${[[L('① 공정 선택','① Process'),L('8대 공정에서 식각 또는 증착을 선택하세요.','Choose etch or deposition from the process strip.')],[L('② 부품 선택','② Component'),L('구조도에서 부품을 누르세요. 색 점은 소재 종류를 뜻합니다.','Select a component. Colored dots identify material families.')],[L('③ 소재 확인','③ Material'),L('선택한 부품에 사용할 수 있는 소재를 살펴보세요.','Explore materials available for that component.')],[L('④ 공급사 확인','④ Supplier'),L('소재를 선택하면 공급사 목록이 열립니다.','Choose a material to view supplier options.')],[L('⑤ 상세·연결','⑤ Connect'),L('공급사 정보를 살펴보고 상세 안내를 받아보세요.','Review the supplier and continue to more details.')]].map(([a,b])=>`<div><b>${a}</b><p>${b}</p></div>`).join('')}</div></section>`;
 }
 function selectedPart() { return activeChamber?.parts.find(p=>p.id===explorer.part); }
 function panelHead(level,title) {return `<div class="panel-head"><div><small>0${level} / ${level===1?'MATERIAL':level===2?'SUPPLIER':'DETAIL'}</small><h3 id="panel-title-${level}">${esc(title)}</h3></div><button class="icon-button" data-action="close-explorer" aria-label="${L('닫기','Close')}">×</button></div>`;}
@@ -174,6 +224,59 @@ function moreDetail() {
 function showPaymentNotice() {
  openModal(L('프리미엄 구독 안내','Premium subscription'),`<p>${L('결제 기능 준비 중입니다. 상담 신청으로 안내해 드립니다.','Payment is coming soon. Please contact us for subscription guidance.')}</p><div class="button-row">${button('#/contact',L('상담 신청','Contact us'),'primary')}</div>`);
 }
+let c3dApi=null;
+function bindChamber3D() {
+ const box=document.querySelector('[data-c3d]');if(!box)return;
+ const id=box.dataset.c3d;let alive=true;
+ const card=box.closest('.diagram-card');
+ const setMode=mode=>{card.querySelectorAll('[data-c3d-mode]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.c3dMode===mode)));box.hidden=mode!=='3d';card.querySelector('.c2d').hidden=mode!=='2d';card.querySelector('.c3d-tools').hidden=mode!=='3d';card.classList.toggle('mode-2d',mode==='2d');if(mode==='3d')c3dApi?.resize();};
+ card.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;
+  if(b.dataset.c3dMode)setMode(b.dataset.c3dMode);
+  if(b.hasAttribute('data-c3d-explode')){const on=b.getAttribute('aria-pressed')!=='true';b.setAttribute('aria-pressed',String(on));c3dApi?.setExploded(on);}
+  if(b.hasAttribute('data-c3d-full')){const on=b.getAttribute('aria-pressed')!=='true';b.setAttribute('aria-pressed',String(on));c3dApi?.setView(on?'full':'section');}
+  if(b.hasAttribute('data-c3d-reset')){c3dApi?.select(null);c3dApi?.setExploded(false);c3dApi?.setView('section');card.querySelectorAll('[data-c3d-explode],[data-c3d-full]').forEach(x=>x.setAttribute('aria-pressed','false'));}
+ });
+ Promise.all([getJSON('data/chambers3d.json'),import('./chamber3d.js')]).then(([geo,mod])=>{
+  if(!alive)return;
+  box.querySelector('.c3d-loading')?.remove();
+  c3dApi=mod.mountChamber3D(box,{chamber:data.chambers[id],geo:geo[id],materials:data.materials,lang},{
+   onHover(){},
+   async onSelect(partId){if(partId){explorer={part:partId,material:null,supplier:null};await renderPanels(false);}}
+  });
+  if(box.dataset.webgl==='off')setMode('2d');
+ }).catch(err=>{console.warn('3D chamber unavailable',err);if(alive)setMode('2d');});
+ return ()=>{alive=false;c3dApi?.destroy();c3dApi=null;};
+}
+function bindHome() {
+ const cleanups=[];
+ const reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+ // 스크롤 등장
+ const io=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target);}}),{rootMargin:'0px 0px -8% 0px',threshold:.08});
+ document.querySelectorAll('.rv').forEach(el=>io.observe(el));cleanups.push(()=>io.disconnect());
+ // 첫 화면 빛나는 격자: 마우스 근처 점이 밝아짐
+ const cv=document.querySelector('.x-hero-grid');
+ if(cv&&!reduce){
+  const ctx=cv.getContext('2d');let w,h,mx=-999,my=-999,raf,visible=true,t0=performance.now();
+  const size=()=>{const r=cv.getBoundingClientRect();w=cv.width=Math.round(r.width);h=cv.height=Math.round(r.height);};
+  const draw=now=>{raf=requestAnimationFrame(draw);if(!visible)return;ctx.clearRect(0,0,w,h);const s=48,tt=(now-t0)/1000;
+   for(let x=s/2;x<w;x+=s)for(let y=s/2;y<h;y+=s){const d=Math.hypot(x-mx,y-my);const wave=.5+.5*Math.sin(tt*1.2+(x+y)/140);const a=Math.max(0,1-d/260);const al=.07+.1*wave+a*.75;ctx.fillStyle=a>0.02?`rgba(34,211,238,${al})`:`rgba(160,190,240,${al})`;const r=1+a*2.2;ctx.fillRect(x-r/2,y-r/2,r,r);}
+  };
+  size();raf=requestAnimationFrame(draw);
+  const hero=document.querySelector('.x-hero');
+  const move=e=>{const r=cv.getBoundingClientRect();mx=e.clientX-r.left;my=e.clientY-r.top;};
+  hero.addEventListener('pointermove',move);hero.addEventListener('pointerleave',()=>{mx=my=-999;});
+  const vio=new IntersectionObserver(([e])=>{visible=e.isIntersecting;});vio.observe(hero);
+  window.addEventListener('resize',size);
+  cleanups.push(()=>{cancelAnimationFrame(raf);vio.disconnect();window.removeEventListener('resize',size);});
+ }
+ // 첫 화면 영상 살짝 따라 움직임(시차)
+ const media=document.querySelector('.x-hero-media');
+ if(media&&!reduce){const onScroll=()=>{const y=Math.min(window.scrollY,900);media.style.transform=`scale(1.04) translateY(${y*0.25}px)`;};window.addEventListener('scroll',onScroll,{passive:true});cleanups.push(()=>window.removeEventListener('scroll',onScroll));}
+ return ()=>cleanups.forEach(fn=>fn());
+}
+function headerScroll() {
+ const set=()=>header.classList.toggle('scrolled',window.scrollY>40);set();window.addEventListener('scroll',set,{passive:true});
+}
 function animateCounters() {
  if(!('IntersectionObserver' in window)||window.matchMedia('(prefers-reduced-motion: reduce)').matches)return;
  const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{
@@ -189,6 +292,8 @@ function bindPage() {
  // Optional client-supplied hero images leave the gradient illustration intact on failure.
  document.querySelectorAll('[data-optional-image]').forEach(img=>{const hide=()=>{img.hidden=true;};img.addEventListener('error',hide,{once:true});if(img.complete&&!img.naturalWidth)hide();});
  const stopCounter=animateCounters();if(stopCounter)cleanups.push(stopCounter);
+ if(document.querySelector('.x-hero')) cleanups.push(bindHome());
+ const c3dStop=bindChamber3D();if(c3dStop)cleanups.push(c3dStop);
  if(document.querySelector('#catalog-results')) {
   renderCatalog();let timer;
   const search=document.querySelector('#product-search');
@@ -213,6 +318,7 @@ async function render({preserveScroll=false}={}) {
  const scroll=window.scrollY;
  pageCleanup();closeModal(false);activeChamber=null;explorer={part:null,material:null,supplier:null};
  const {path,params}=routeInfo(location.hash);
+ document.body.dataset.route=path;
  nav();renderFooter();document.documentElement.lang=lang;
  let result;
  try {
@@ -248,7 +354,7 @@ document.addEventListener('click',async event=>{
  if(target.matches('a[href^="#/"]')){closeModal(false);header.querySelector('.primary-nav')?.classList.remove('expanded');header.querySelector('.menu-toggle')?.setAttribute('aria-expanded','false');const toggle=header.querySelector('.menu-toggle');if(toggle)toggle.textContent='☰';if(target.hash===location.hash){event.preventDefault();window.scrollTo({top:0,behavior:'smooth'});}return;}
  if(target.dataset.page){catalogState.page=Number(target.dataset.page);renderCatalog();document.querySelector('.table-scroll')?.focus({preventScroll:true});return;}
  const partId=target.dataset.part||target.dataset.selectPart;
- if(partId){explorer={part:partId,material:null,supplier:null};await renderPanels();return;}
+ if(partId){explorer={part:partId,material:null,supplier:null};c3dApi?.select(partId);await renderPanels();return;}
  if(target.dataset.material){explorer.material=target.dataset.material;explorer.supplier=null;await renderPanels();return;}
  if(target.dataset.supplier){explorer.supplier=target.dataset.supplier;await renderPanels();return;}
  if(target.dataset.back){if(target.dataset.back==='1')explorer.material=null;explorer.supplier=null;await renderPanels();return;}
@@ -302,6 +408,7 @@ try {
  const keys=['company','categories','processes','chambers','materials','suppliers','material-groups','technical-specs'];
  const values=await Promise.all(keys.map(key=>getJSON(`data/${key}.json`)));
  data=Object.fromEntries(keys.map((key,i)=>[key==='material-groups'?'materialGroups':key==='technical-specs'?'technicalSpecs':key,values[i]]));
+ headerScroll();
  await render();
 } catch(error) {
  console.error('Site initialization failed:',error);
