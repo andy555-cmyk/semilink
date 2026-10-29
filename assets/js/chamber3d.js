@@ -154,7 +154,7 @@ const STYLE = `
 .c3d-root .c3d-label[hidden]{display:none}
 .c3d-root .c3d-leader{position:absolute;left:0;top:50%;height:1px;width:26px;background:#7fb4ff;opacity:.55;pointer-events:none;z-index:-1}
 .c3d-root .c3d-label button{pointer-events:auto;cursor:pointer;white-space:nowrap;font:500 15px/1.3 system-ui,-apple-system,sans-serif;padding:6px 10px;border:1px solid rgba(140,180,255,.28);border-radius:30px;background:rgba(10,26,54,.72);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);color:#dbe7ff;box-shadow:0 4px 18px rgba(0,0,0,.25)}
-.c3d-root .c3d-label[data-active=true] button{font-size:16px;padding:8px 12px;color:#fff;border-color:#22d3ee;background:rgba(34,211,238,.22);box-shadow:0 0 22px rgba(34,211,238,.35)}
+.c3d-root .c3d-label[data-active=true] button{color:#fff;border-color:#22d3ee;background:rgba(34,211,238,.22);box-shadow:0 0 22px rgba(34,211,238,.35)}
 .c3d-root .c3d-label[data-active=true] .c3d-leader{background:#22d3ee;opacity:1}
 .c3d-root .c3d-hint{position:absolute;left:18px;bottom:14px;margin:0;font-size:12px;letter-spacing:.03em;color:#7f9cc8;pointer-events:none}
 @media(max-width:600px){.c3d-root .c3d-leader{width:14px}.c3d-root .c3d-label button{padding:5px 8px}.c3d-root .c3d-hint{font-size:11px}}
@@ -375,7 +375,7 @@ export function mountChamber3D(container, { chamber, geo, materials = [], lang =
       button.setAttribute('aria-label', `${original.name} — ${lang === 'ko' ? '부품 선택' : 'select component'}`);
       button.addEventListener('click', () => userSelect(spec.id));
       button.addEventListener('pointerenter', () => hover(entry));
-      button.addEventListener('pointerleave', () => hover(null));
+      button.addEventListener('pointerleave', event => { if (event.relatedTarget !== canvas && !overlay.contains(event.relatedTarget)) parallax.set(0, 0); hover(null); });
       button.addEventListener('focus', () => hover(entry));
       button.addEventListener('blur', () => hover(null));
       label.append(leader, button);
@@ -561,7 +561,8 @@ export function mountChamber3D(container, { chamber, geo, materials = [], lang =
     interacting = false;
     invalidate();
   }
-  function pointerLeave() { hover(null); parallax.set(0, 0); invalidate(); }
+  // Moving onto a label pill is not leaving the chamber: keep the hover and tilt so the scene stays still.
+  function pointerLeave(event) { if (overlay.contains(event.relatedTarget)) return; hover(null); parallax.set(0, 0); invalidate(); }
   function controlStart() { interacting = true; cameraTween = null; hover(null); invalidate(); }
   function controlEnd() { interacting = false; invalidate(); }
   function keyDown(event) {
@@ -598,13 +599,13 @@ export function mountChamber3D(container, { chamber, geo, materials = [], lang =
       if (projected.z > 1 || projected.z < -1 || Math.abs(projected.x) > 1.05 || Math.abs(projected.y) > 1.05) { entry.label.hidden = true; continue; }
       const x = (projected.x * .5 + .5) * width;
       const y = (-projected.y * .5 + .5) * height;
-      candidates.push({ entry, active, x, y });
+      candidates.push({ entry, active, pinned: entry === selected, x, y });
     }
-    // Prioritise focus; stagger the remaining callouts vertically without overlapping pills.
-    candidates.sort((a, b) => Number(b.active) - Number(a.active) || a.y - b.y);
+    // Prioritise the selected part only; hover must not reshuffle the layout, or the pill slides out from under the cursor.
+    candidates.sort((a, b) => Number(b.pinned) - Number(a.pinned) || a.y - b.y);
     const placed = [];
     for (const item of candidates) {
-      const { entry, active } = item;
+      const { entry, active, pinned } = item;
       const label = entry.label;
       const estimatedWidth = Math.max(100, entry.original.name.length * 7.8 + 50);
       const x = clamp(item.x + 26, 6, Math.max(6, width - estimatedWidth - 6));
@@ -616,7 +617,7 @@ export function mountChamber3D(container, { chamber, geo, materials = [], lang =
         y = clamp(item.y - 39, 22, height - 44);
         while (collides(y) && y > 45) y -= 39;
       }
-      if (collides(y) && !active) { label.hidden = true; continue; }
+      if (collides(y) && !pinned) { label.hidden = true; continue; }
       label.hidden = false;
       label.style.transform = `translate(${x.toFixed(1)}px,${(y - 16).toFixed(1)}px)`;
       label.style.zIndex = active ? '3' : '1';
