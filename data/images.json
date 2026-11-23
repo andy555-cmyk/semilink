@@ -1,0 +1,447 @@
+[
+  {
+    "src": "assets/img/products/s3-image7.webp",
+    "width": 340,
+    "height": 317,
+    "sourceMedia": "image7.png",
+    "slide": 3,
+    "crop": {
+      "l": 12845,
+      "t": 4985,
+      "r": 12802,
+      "b": 10041
+    }
+  },
+  {
+    "src": "assets/img/products/s3-image8.webp",
+    "width": 491,
+    "height": 456,
+    "sourceMedia": "image8.png",
+    "slide": 3,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s8-image43.webp",
+    "width": 401,
+    "height": 279,
+    "sourceMedia": "image43.png",
+    "slide": 8,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s8-image44.webp",
+    "width": 389,
+    "height": 285,
+    "sourceMedia": "image44.png",
+    "slide": 8,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s8-image45.webp",
+    "width": 664,
+    "height": 549,
+    "sourceMedia": "image45.png",
+    "slide": 8,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s8-image46.webp",
+    "width": 362,
+    "height": 357,
+    "sourceMedia": "image46.png",
+    "slide": 8,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s8-image47.webp",
+    "width": 432,
+    "height": 577,
+    "sourceMedia": "image47.png",
+    "slide": 8,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s8-image48.webp",
+    "width": 412,
+    "height": 285,
+    "sourceMedia": "image48.png",
+    "slide": 8,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s8-image49.webp",
+    "width": 302,
+    "height": 225,
+    "sourceMedia": "image49.png",
+    "slide": 8,
+    "crop": {
+      "l": 14617,
+      "t": 38379,
+      "r": 15477,
+      "b": 22660
+    }
+  },
+  {
+    "src": "assets/img/products/s8-image50.webp",
+    "width": 191,
+    "height": 178,
+    "sourceMedia": "image50.png",
+    "slide": 8,
+    "crop": {
+      "l": 24724,
+      "t": 24761,
+      "r": 15838,
+      "b": 24657
+    }
+  },
+  {
+    "src": "assets/img/products/s8-image51.webp",
+    "width": 98,
+    "height": 88,
+    "sourceMedia": "image51.png",
+    "slide": 8,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s8-image52.webp",
+    "width": 241,
+    "height": 171,
+    "sourceMedia": "image52.png",
+    "slide": 8,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s11-image64.webp",
+    "width": 242,
+    "height": 135,
+    "sourceMedia": "image64.png",
+    "slide": 11,
+    "crop": {
+      "l": 17259,
+      "t": 21151,
+      "r": 14663,
+      "b": 23623
+    }
+  },
+  {
+    "src": "assets/img/products/s11-image65.webp",
+    "width": 270,
+    "height": 221,
+    "sourceMedia": "image65.png",
+    "slide": 11,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s11-image66.webp",
+    "width": 570,
+    "height": 529,
+    "sourceMedia": "image66.png",
+    "slide": 11,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s11-image67.webp",
+    "width": 374,
+    "height": 262,
+    "sourceMedia": "image67.png",
+    "slide": 11,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s11-image68.webp",
+    "width": 339,
+    "height": 238,
+    "sourceMedia": "image68.png",
+    "slide": 11,
+    "crop": {
+      "l": 11448,
+      "t": 8811,
+      "r": 7754,
+      "b": 15594
+    }
+  },
+  {
+    "src": "assets/img/products/s11-image69.webp",
+    "width": 251,
+    "height": 279,
+    "sourceMedia": "image69.png",
+    "slide": 11,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s11-image70.webp",
+    "width": 327,
+    "height": 305,
+    "sourceMedia": "image70.png",
+    "slide": 11,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s11-image71.webp",
+    "width": 534,
+    "height": 650,
+    "sourceMedia": "image71.jpg",
+    "slide": 11,
+    "crop": {
+      "l": 20964,
+      "t": 17764,
+      "r": 12595,
+      "b": 29262
+    }
+  },
+  {
+    "src": "assets/img/products/s12-image72.webp",
+    "width": 265,
+    "height": 261,
+    "sourceMedia": "image72.png",
+    "slide": 12,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s12-image73.webp",
+    "width": 276,
+    "height": 296,
+    "sourceMedia": "image73.png",
+    "slide": 12,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s12-image74.webp",
+    "width": 203,
+    "height": 201,
+    "sourceMedia": "image74.png",
+    "slide": 12,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s12-image75.webp",
+    "width": 214,
+    "height": 200,
+    "sourceMedia": "image75.png",
+    "slide": 12,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s13-image76.webp",
+    "width": 215,
+    "height": 223,
+    "sourceMedia": "image76.jpeg",
+    "slide": 13,
+    "crop": {}
+  },
+  {
+    "src": "assets/img/products/s13-image77.webp",
+    "width": 305,
+    "height": 309,
+    "sourceMedia": "image77.png",
+    "slide": 13,
+    "crop": {}
+  },
+  {
+    "src": "assets/img/products/s14-image80.webp",
+    "width": 279,
+    "height": 279,
+    "sourceMedia": "image80.jpeg",
+    "slide": 14,
+    "crop": {}
+  },
+  {
+    "src": "assets/img/products/s14-image81.webp",
+    "width": 347,
+    "height": 346,
+    "sourceMedia": "image81.png",
+    "slide": 14,
+    "crop": {
+      "l": 14962,
+      "t": 1070,
+      "r": 15909,
+      "b": 1725
+    }
+  },
+  {
+    "src": "assets/img/products/s15-image84.webp",
+    "width": 563,
+    "height": 422,
+    "sourceMedia": "image84.jpeg",
+    "slide": 15,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s15-image85.webp",
+    "width": 168,
+    "height": 179,
+    "sourceMedia": "image85.jpeg",
+    "slide": 15,
+    "crop": {}
+  },
+  {
+    "src": "assets/img/products/s15-image90.webp",
+    "width": 583,
+    "height": 578,
+    "sourceMedia": "image90.jpeg",
+    "slide": 15,
+    "crop": {}
+  },
+  {
+    "src": "assets/img/products/s15-image91.webp",
+    "width": 1075,
+    "height": 661,
+    "sourceMedia": "image91.jpeg",
+    "slide": 15,
+    "crop": {}
+  },
+  {
+    "src": "assets/img/products/s16-image96.webp",
+    "width": 176,
+    "height": 306,
+    "sourceMedia": "image96.jpeg",
+    "slide": 16,
+    "crop": {}
+  },
+  {
+    "src": "assets/img/products/s16-image97.webp",
+    "width": 184,
+    "height": 164,
+    "sourceMedia": "image97.jpeg",
+    "slide": 16,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s16-image105.webp",
+    "width": 247,
+    "height": 237,
+    "sourceMedia": "image105.jpeg",
+    "slide": 16,
+    "crop": {
+      "r": -1
+    }
+  },
+  {
+    "src": "assets/img/products/s16-image114.webp",
+    "width": 206,
+    "height": 233,
+    "sourceMedia": "image114.png",
+    "slide": 16,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s23-image144.webp",
+    "width": 985,
+    "height": 360,
+    "sourceMedia": "image144.png",
+    "slide": 23,
+    "crop": {}
+  },
+  {
+    "src": "assets/img/products/s23-image146.webp",
+    "width": 1600,
+    "height": 1200,
+    "sourceMedia": "image146.jpeg",
+    "slide": 23,
+    "crop": {}
+  },
+  {
+    "src": "assets/img/products/s24-image150.webp",
+    "width": 940,
+    "height": 566,
+    "sourceMedia": "image150.png",
+    "slide": 24,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s24-image162.webp",
+    "width": 1600,
+    "height": 757,
+    "sourceMedia": "image162.jpg",
+    "slide": 24,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s25-image170.webp",
+    "width": 1020,
+    "height": 673,
+    "sourceMedia": "image170.png",
+    "slide": 25,
+    "crop": null
+  },
+  {
+    "src": "assets/img/products/s25-image182.webp",
+    "width": 692,
+    "height": 434,
+    "sourceMedia": "image182.jpeg",
+    "slide": 25,
+    "crop": {}
+  },
+  {
+    "src": "assets/img/products/s25-image187.webp",
+    "width": 1600,
+    "height": 1200,
+    "sourceMedia": "image187.png",
+    "slide": 25,
+    "crop": {}
+  },
+  {
+    "src": "assets/img/products/s5-image34-crop.webp",
+    "width": 209,
+    "height": 174,
+    "sourceMedia": "image34.png",
+    "slide": 5,
+    "crop": {
+      "pixels": [
+        24,
+        16,
+        233,
+        190
+      ],
+      "note": "slide 5 제품 사진 칸만 잘라냄"
+    }
+  },
+  {
+    "src": "assets/img/products/s5-image35-crop.webp",
+    "width": 210,
+    "height": 114,
+    "sourceMedia": "image35.png",
+    "slide": 5,
+    "crop": {
+      "pixels": [
+        5,
+        8,
+        215,
+        122
+      ],
+      "note": "slide 5 제품 사진 칸만 잘라냄"
+    }
+  },
+  {
+    "src": "assets/img/products/s3-c-shroud-ring.webp",
+    "width": 390,
+    "height": 350,
+    "sourceMedia": "image17.jpg",
+    "slide": 3,
+    "crop": {
+      "pixels": [
+        55,
+        1085,
+        445,
+        1435
+      ],
+      "note": "slide 3 링 제품 사진 영역만 잘라냄"
+    }
+  },
+  {
+    "src": "assets/img/products/s3-electrode-ring.webp",
+    "width": 380,
+    "height": 350,
+    "sourceMedia": "image17.jpg",
+    "slide": 3,
+    "crop": {
+      "pixels": [
+        520,
+        1085,
+        900,
+        1435
+      ],
+      "note": "slide 3 링 제품 사진 영역만 잘라냄"
+    }
+  }
+]

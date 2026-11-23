@@ -1,0 +1,78 @@
+{
+  "sample": true,
+  "suppliers": [
+    {
+      "id": "A",
+      "name": "Supplier A",
+      "establishment": "2005.04",
+      "location": "Yongin-si, Korea",
+      "availableParts": 103,
+      "customers": [
+        "S",
+        "Y",
+        "M"
+      ],
+      "materials": [
+        "silicon",
+        "quartz",
+        "sic",
+        "aln",
+        "alumina",
+        "peek",
+        "pai",
+        "sapphire",
+        "aluminum",
+        "coated-al",
+        "gasket"
+      ]
+    },
+    {
+      "id": "B",
+      "name": "Supplier B",
+      "establishment": "2011.09",
+      "location": "Suwon-si, Korea",
+      "availableParts": 67,
+      "customers": [
+        "M",
+        "S"
+      ],
+      "materials": [
+        "silicon",
+        "quartz",
+        "sic",
+        "aln",
+        "alumina",
+        "peek",
+        "pai",
+        "sapphire",
+        "aluminum",
+        "coated-al",
+        "gasket"
+      ]
+    },
+    {
+      "id": "C",
+      "name": "Supplier C",
+      "establishment": "2008.06",
+      "location": "Hwaseong-si, Korea",
+      "availableParts": 244,
+      "customers": [
+        "Y",
+        "M"
+      ],
+      "materials": [
+        "silicon",
+        "quartz",
+        "sic",
+        "aln",
+        "alumina",
+        "peek",
+        "pai",
+        "sapphire",
+        "aluminum",
+        "coated-al",
+        "gasket"
+      ]
+    }
+  ]
+}
