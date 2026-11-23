@@ -591,3 +591,8 @@ p,li,dd,figcaption,small,.x-tile-txt b,.x-facts b,label,legend{text-wrap:pretty}
 .x-wm{position:absolute;inset:0;pointer-events:none;display:flex;flex-wrap:wrap;align-content:flex-start;gap:120px 80px;padding:140px 40px;transform:rotate(-18deg) scale(1.3);opacity:.06;font-size:18px;font-weight:700;color:#0b2a5b;user-select:none;z-index:2}
 .x-wm span{white-space:nowrap}
 @media (max-width:760px){.x-gate{padding:36px 20px}.x-wm{gap:90px 40px;font-size:14px}}
+.signup-notice{margin:18px 0 4px;padding:14px 16px;border-left:3px solid var(--accent,#2456e6);background:rgba(36,86,230,.06);font-size:14.5px;line-height:1.6;color:var(--text,#0b1220)}
+.signup-done .x-level{display:inline-block;margin-bottom:14px}
+.signup-done p{margin-top:10px;line-height:1.7}
+.signup-done+.btn{margin-top:22px}
+input[type=file]{padding:10px;font-size:14px}

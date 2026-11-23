@@ -18,7 +18,7 @@ function save(token, profile) {
 }
 export function isLoggedIn() { const t = memory || safeStorage(storage(), SESSION_KEY); return !!t && t !== 'false' && tokenAlive(t); }
 export function profile() { try { return JSON.parse(safeStorage(storage(), PROFILE_KEY) || '{}'); } catch { return {}; } }
-const validSignup = v => v.company?.trim() && v.name?.trim() && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v.email || '') && (v.password || '').length >= 8 && ['buyer','supplier'].includes(v.memberType) && String(v.bizNo || '').replace(/\D/g, '').length === 10 && v.terms && v.privacy;
+const validSignup = v => v.company?.trim() && v.name?.trim() && /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(v.email || '') && (v.password || '').length >= 8 && ['buyer','supplier'].includes(v.memberType) && String(v.bizNo || '').replace(/\D/g, '').length === 10 && v.bizFile?.data && v.terms && v.privacy;
 // Access level comes from the server: buyer(approved buyer) · pending · supplier · expired. guest = not signed in.
 export function level() { if (!isLoggedIn()) return 'guest'; if (!API_URL) return 'buyer'; return profile().level || 'pending'; }
 export function token() { const t = memory || safeStorage(storage(), SESSION_KEY); return t && t !== 'false' ? t : ''; }
@@ -35,7 +35,7 @@ export async function signup(values) {
   if (!validSignup(values)) return {ok:false, reason:'invalid'};
   if (!API_URL) { safeStorage(storage(), MEMBER_KEY, 'true'); save('true', {name: values.name}); return {ok:true}; }
   try {
-    const out = await call('signup', {company:values.company, name:values.name, email:values.email, mobile:values.mobile, password:values.password, memberType:values.memberType, bizNo:values.bizNo, terms:!!values.terms, privacy:!!values.privacy});
+    const out = await call('signup', {company:values.company, name:values.name, email:values.email, mobile:values.mobile, password:values.password, memberType:values.memberType, bizNo:values.bizNo, bizFile:values.bizFile, terms:!!values.terms, privacy:!!values.privacy});
     if (out.ok) save(out.token, {name: out.name, company: out.company, level: out.level});
     return out;
   } catch { return {ok:false, reason:'network'}; }
